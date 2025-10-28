@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1423_1_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.9106481967531836,
+          "width": 0.23333333333333334,
+          "height": 0.0694079906678332
+        }
+      },
+      "textContent": "OwlTeacher.com"
+    },
+    {
+      "objectId": "slide_1423_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.03194439583940896,
+          "width": 0.9,
+          "height": 0.15135608048993876
+        }
+      },
+      "textContent": "The Five Themes of Geography"
+    },
+    {
+      "objectId": "slide_1423_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.2222222222222222,
+          "width": 0.9,
+          "height": 0.7333333333333333
+        }
+      },
+      "textContent": "There are five ways to look at the earth\nWhen geographers work, they are guided by two basic questions:\n\nWhere are things located?\n\nWhy are they there?\n\nTo find these answers, geographers use five themes to organize information"
+    }
+  ],
+  "slide_id": "slide_1423"
+}

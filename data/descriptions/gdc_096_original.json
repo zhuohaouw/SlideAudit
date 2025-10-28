@@ -1,0 +1,57 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1428_1_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.075,
+          "y": 0.9111111111111111,
+          "width": 0.20833333333333334,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1428_2_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3416666666666667,
+          "y": 0.9111111111111111,
+          "width": 0.31666666666666665,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1428_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.05555555555555555,
+          "width": 0.8166666666666667,
+          "height": 0.12222222222222222
+        }
+      },
+      "textContent": "TAX INCENTIVE"
+    },
+    {
+      "objectId": "slide_1428_4_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.2222222222222222,
+          "width": 0.9083333333333333,
+          "height": 0.6777777777777778
+        }
+      },
+      "textContent": "WHAT EXPENSES ARE NOT COVERED? NEW CONSTRUCTION, \n   COMPLETE RENOVATION OF A FACILITY OR PUBLIC TRANSPORTATION\n   NORMAL REPLACEMENT OF DEPRECIABLE PROPERTY."
+    }
+  ],
+  "slide_id": "slide_1428"
+}

@@ -1,0 +1,96 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1433_1_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.026041666666666668,
+          "y": 0.1428241469816273,
+          "width": 0.9493055555555555,
+          "height": 0.13680548264800232
+        }
+      },
+      "textContent": "EMEA1 definition: Pharmacogenomics applies genomic information to drug design, discovery and clinical development, reflecting the state or responses at cellular, tissue, individual or population levels."
+    },
+    {
+      "objectId": "slide_1433_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.016666666666666666,
+          "y": 0.022222222222222223,
+          "width": 0.95,
+          "height": 0.08888888888888889
+        }
+      },
+      "textContent": "Pharmacogenetics & Pharmacogenomics"
+    },
+    {
+      "objectId": "slide_1433_3_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.9,
+          "y": 0.9627315543890347,
+          "width": 0.0,
+          "height": 0.0
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1433_4_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.12962962962962962,
+          "width": 0.9,
+          "height": 0.17962962962962964
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1433_5_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.3458333333333333,
+          "width": 0.9493055555555555,
+          "height": 0.21226859142607174
+        }
+      },
+      "textContent": "PWG definition: Pharmacogenetics: the study of DNA sequence variation as it relates to differential drug response. \nPharmacogenomics: the study of the genome and its products (including RNA and protein) as it relates to drug discovery and development."
+    },
+    {
+      "objectId": "slide_1433_6_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.9333333333333333,
+          "width": 0.40034722222222224,
+          "height": 0.021064887722368038
+        }
+      },
+      "textContent": "1- The European Agency for the Evaluation of Medicinal Products"
+    },
+    {
+      "objectId": "slide_1433_7_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.624537037037037,
+          "width": 0.9493055555555555,
+          "height": 0.2377315543890347
+        }
+      },
+      "textContent": "Lilly Definitions:\nDiscovery Genetics utilizes genetic information to improve target identification/ verification and MOA testing.\n\nPharmacogenomics utilizes gene based information to predict, assess and evaluate drug response."
+    }
+  ],
+  "slide_id": "slide_1433"
+}

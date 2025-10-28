@@ -1,0 +1,148 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2158_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.03333333333333333,
+          "width": 1.0,
+          "height": 0.14447360746573346
+        }
+      },
+      "textContent": "Independent vs. Dependent Variables"
+    },
+    {
+      "objectId": "slide_2158_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.23333333333333334,
+          "width": 0.5083333333333333,
+          "height": 0.7444152814231554
+        }
+      },
+      "textContent": "Independent Variable\nThe variable that changes or affects the other variable\nGoes on X-axis\n\nDependent Variable\nThe variable that changes because of the independent variable\nGoes on Y-axis"
+    },
+    {
+      "objectId": "slide_2158_3_TABLE (19)",
+      "type": "TABLE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.49166666666666664,
+          "y": 0.32222222222222224,
+          "width": 0.32808398950131235,
+          "height": 0.5832604257801108
+        }
+      },
+      "table": {
+        "rows": 6,
+        "columns": 2,
+        "cells": [
+          {
+            "rowIndex": 0,
+            "columnIndex": 0,
+            "textContent": "Amount of Water (mL)"
+          },
+          {
+            "rowIndex": 0,
+            "columnIndex": 1,
+            "textContent": "Plant Growth (cm)"
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 0,
+            "textContent": "10"
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 1,
+            "textContent": "1"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 0,
+            "textContent": "12"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 1,
+            "textContent": "2"
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 0,
+            "textContent": "15"
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 1,
+            "textContent": "2"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 0,
+            "textContent": "18"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 1,
+            "textContent": "3"
+          },
+          {
+            "rowIndex": 5,
+            "columnIndex": 0,
+            "textContent": "21"
+          },
+          {
+            "rowIndex": 5,
+            "columnIndex": 1,
+            "textContent": "4"
+          }
+        ]
+      }
+    },
+    {
+      "objectId": "slide_2158_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5333333333333333,
+          "y": 0.25555555555555554,
+          "width": 0.18333333333333332,
+          "height": 0.05395158938466025
+        }
+      },
+      "textContent": "Independent"
+    },
+    {
+      "objectId": "slide_2158_5_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7833333333333333,
+          "y": 0.25555555555555554,
+          "width": 0.18333333333333332,
+          "height": 0.05395158938466025
+        }
+      },
+      "textContent": "Dependent"
+    },
+    {
+      "objectId": "slide_2158_6_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.041666666666666664,
+          "y": 0.0,
+          "width": 0.8833333333333333,
+          "height": 0.0942548848060659
+        }
+      },
+      "textContent": "LO: We will learn how to create a line graph using a set of data"
+    }
+  ],
+  "slide_id": "slide_2158"
+}

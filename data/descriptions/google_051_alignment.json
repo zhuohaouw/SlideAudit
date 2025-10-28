@@ -1,0 +1,93 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0531_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05000382764654418,
+          "y": 0.03801127636823175,
+          "width": 0.9,
+          "height": 0.08398950131233596
+        }
+      },
+      "textContent": "Microsoft Access- An Overview"
+    },
+    {
+      "objectId": "slide_0531_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05392169728783902,
+          "y": 0.20600408282298047,
+          "width": 0.9028215223097112,
+          "height": 0.6090405365995917
+        }
+      },
+      "textContent": "Microsoft Access also known as Microsoft Office Access is a Database Management System or DBMS from Microsoft that combines the relational Microsoft Jet Database Engine with a Graphical user interface and software-development tools. It helps us manage data stored in a computer database. A Database is a tool for collecting and organizing information. Database can store information about people, products, orders, or anything else."
+    },
+    {
+      "objectId": "slide_0531_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.11413035870516186,
+          "y": 0.027506561679790025,
+          "width": 0.08662379702537183,
+          "height": 0.12374822591620492
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0531_4_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5787489063867016,
+          "y": 0.6259982502187227,
+          "width": 0.2834961723534558,
+          "height": 0.26742160007776805
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0531_5_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5787489063867016,
+          "y": 0.6259982502187227,
+          "width": 0.37798556430446195,
+          "height": 0.2674249052201808
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0531_6_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.2833333333333333,
+          "y": 0.6951391076115485,
+          "width": 0.43333333333333335,
+          "height": 0.039953339165937594
+        }
+      },
+      "textContent": "2"
+    }
+  ],
+  "slide_id": "slide_0531"
+}

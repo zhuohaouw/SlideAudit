@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2264_1_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.10277569991251094,
+          "y": 0.07070710605618742,
+          "width": 0.7986147200349957,
+          "height": 0.6121150967240206
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2264_2_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0986097987751531,
+          "y": 0.07070710605618742,
+          "width": 0.8027887139107611,
+          "height": 0.6121318168562263
+        }
+      },
+      "textContent": "Page illustration goes here. Do not run picture to the edge if you are using a printer rather than a professional printing press."
+    },
+    {
+      "objectId": "slide_2264_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0986097987751531,
+          "y": 0.725252065714008,
+          "width": 0.8027887139107611,
+          "height": 0.23429571303587052
+        }
+      },
+      "textContent": "Sample text for the page. Make sure the final number of pages are divisible by four if you print a book or booklet. Duplicate this slide layout for more pages."
+    }
+  ],
+  "slide_id": "slide_2264"
+}

@@ -1,0 +1,103 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0755_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.0,
+          "width": 0.9003472222222222,
+          "height": 0.1383177311169437
+        }
+      },
+      "textContent": "Four TIM Programs – Range of Practices for Outcomes"
+    },
+    {
+      "objectId": "slide_0755_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.184027850685331,
+          "width": 0.9249998906386702,
+          "height": 0.6861475648877223
+        }
+      },
+      "textContent": "Foundation for TIM outcomes is measuring TIM performance\nMany different methods and assumptions applied in quantifying and monetizing TIM outcomes\nMany reasons why one should monetize benefits\nWhere is your program and what is needed in TIM benefits guidance?"
+    },
+    {
+      "objectId": "slide_0755_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.09534962817147856,
+          "y": 0.6691219014289881,
+          "width": 0.13339468503937008,
+          "height": 0.18059609215514727
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0755_4_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3812353455818023,
+          "y": 0.6691219014289881,
+          "width": 0.547830271216098,
+          "height": 0.11132910469524643
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0755_5_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.574057852143482,
+          "y": 0.5014488188976378,
+          "width": 0.3181079396325459,
+          "height": 0.21538363954505688
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0755_6_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.09534962817147856,
+          "y": 0.5130428696412949,
+          "width": 0.39332130358705164,
+          "height": 0.10551676873724118
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0755"
+}

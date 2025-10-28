@@ -1,0 +1,67 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1191_1_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.07777777777777778,
+          "width": 0.25833333333333336,
+          "height": 0.5555555555555556
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1191_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.1,
+          "y": 0.03003480120540488,
+          "width": 0.9,
+          "height": 0.12505103528725575
+        }
+      },
+      "textContent": "EXTERNAL CONFLICTS IN THE NOVEL"
+    },
+    {
+      "objectId": "slide_1191_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.17500009721007095,
+          "width": 0.9,
+          "height": 0.49495479731700204
+        }
+      },
+      "textContent": "Man vs society\n\tMontag vs society\nClarisse McClellan vs society\nProfessor Faber vs society\nMan vs man\nMontag vs Beatty\nMontag vs Midlred"
+    },
+    {
+      "objectId": "slide_1191_4_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.75,
+          "y": 0.45555555555555555,
+          "width": 0.1875,
+          "height": 0.41527792359288423
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_1191"
+}

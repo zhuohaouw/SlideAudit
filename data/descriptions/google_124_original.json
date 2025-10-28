@@ -1,0 +1,111 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0297_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.15694444444444444,
+          "y": 0.030034606785262954,
+          "width": 0.8201443569553806,
+          "height": 0.12505103528725575
+        }
+      },
+      "textContent": "The Test"
+    },
+    {
+      "objectId": "slide_0297_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.15694444444444444,
+          "y": 0.1583334305434043,
+          "width": 0.8201443569553806,
+          "height": 0.5250510352872557
+        }
+      },
+      "textContent": "The test is broken down into four categories.\nFavorite World: Do you prefer to focus on the outer world or your own inner world?  This is called Extraversion (E) or Introversion (I)\nInformation: Do you prefer to focus on the basic information you take in or do you prefer to interrupt and add meaning? This is called Sensing (S) or Intuition (N)\nDecisions: When making decisions, do you prefer to first look at logic and consistency or first look at the people and special circumstances? This is called Thinking (T) or Feeling (F)\nStructure:  In dealing with the outside world, do you prefer to get things decided or do you prefer to stay open to new information and options? This is called Judging (J) or Perceiving (P)"
+    },
+    {
+      "objectId": "slide_0297_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.1482638888888889,
+          "y": 0.8166666666666667,
+          "width": 0.8184055118110236,
+          "height": 0.053484981044036164
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0297_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.13072911198600176,
+          "y": 0.8055555555555556,
+          "width": 0.8359251968503937,
+          "height": 0.03336249635462234
+        }
+      },
+      "textContent": "Excerpts taken from MBTI® Manuel.  A Guide to the Development and Use of the Myers-Briggs Type Indicator®."
+    },
+    {
+      "objectId": "slide_0297_5_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.776562445319335,
+          "y": 0.5893518032468164,
+          "width": 0.16510422134733158,
+          "height": 0.4111111111111111
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0297_6_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.75,
+          "y": 0.03333333333333333,
+          "width": 0.10625,
+          "height": 0.18796306017303394
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0297_7_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.48333333333333334,
+          "y": 0.4777777777777778,
+          "width": 0.025,
+          "height": 0.044444444444444446
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0297"
+}

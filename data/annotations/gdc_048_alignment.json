@@ -1,0 +1,172 @@
+{
+  "slide_id": 1740,
+  "annotations": [
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Poor Visual Hierarchy",
+      "response": false,
+      "has_strong_agreement": true
+    },
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Cluttered Layout",
+      "response": false,
+      "has_strong_agreement": false
+    },
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Unbalanced Space Distribution",
+      "response": false,
+      "has_strong_agreement": false
+    },
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Content Alignment Issues",
+      "response": false,
+      "has_strong_agreement": false,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Content Overflow/Cut-off",
+      "response": true,
+      "has_strong_agreement": false,
+      "bounding_boxes": [
+        {
+          "x": 348.0394822484758,
+          "y": 371.15635099650444,
+          "width": 141.52441861602927,
+          "height": 284.8244596817061
+        },
+        {
+          "x": 59.68297916522461,
+          "y": 195.49676208641614,
+          "width": 382.75074409912094,
+          "height": 466.39245666118035
+        },
+        {
+          "x": 445.26891396137603,
+          "y": 239.44255587515957,
+          "width": 466.3888696615214,
+          "height": 362.9072003199459
+        }
+      ]
+    },
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Occluded Content",
+      "response": false,
+      "has_strong_agreement": false,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Illegible Typeface Selection or Usage",
+      "response": true,
+      "has_strong_agreement": false,
+      "bounding_boxes": [
+        {
+          "x": 85.06399169837427,
+          "y": 37.579173926411805,
+          "width": 218.42499711749105,
+          "height": 27.15588808035256
+        }
+      ]
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Improper Font Sizing",
+      "response": true,
+      "has_strong_agreement": false,
+      "bounding_boxes": [
+        {
+          "x": 51.177407074133036,
+          "y": 199.7495808401655,
+          "width": 391.2563161902125,
+          "height": 462.139637907431
+        },
+        {
+          "x": 456.60967674949813,
+          "y": 279.13553091015365,
+          "width": 449.3777254793382,
+          "height": 304.78534401870456
+        }
+      ]
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Excessive Text Volume",
+      "response": false,
+      "has_strong_agreement": false
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Improper Text Styling",
+      "response": false,
+      "has_strong_agreement": true,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Improper Line/Character Spacing",
+      "response": false,
+      "has_strong_agreement": true,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Poor Text Hierarchy",
+      "response": false,
+      "has_strong_agreement": true
+    },
+    {
+      "design_deficiency_category": "Color",
+      "design_deficiency": "Insufficient Color Contrast for Readability",
+      "response": false,
+      "has_strong_agreement": true,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Color",
+      "design_deficiency": "Excessive or Inconsistent Color Usage",
+      "response": false,
+      "has_strong_agreement": true
+    },
+    {
+      "design_deficiency_category": "Color",
+      "design_deficiency": "Inappropriate or Mismatched Color Combinations",
+      "response": false,
+      "has_strong_agreement": true
+    },
+    {
+      "design_deficiency_category": "Imagery & Visualizations",
+      "design_deficiency": "Irrelevant Visual Content",
+      "response": false,
+      "has_strong_agreement": true
+    },
+    {
+      "design_deficiency_category": "Imagery & Visualizations",
+      "design_deficiency": "Poor Image Quality/Editing",
+      "response": false,
+      "has_strong_agreement": true,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Imagery & Visualizations",
+      "design_deficiency": "Improper Image Sizing",
+      "response": false,
+      "has_strong_agreement": true,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Imagery & Visualizations",
+      "design_deficiency": "Inconsistent Visual Style Usage",
+      "response": false,
+      "has_strong_agreement": true
+    }
+  ],
+  "image_dimensions": {
+    "width": 960,
+    "height": 720
+  }
+}

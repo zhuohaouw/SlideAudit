@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1000_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.027126859142607176,
+          "width": 0.9,
+          "height": 0.16669582968795568
+        }
+      },
+      "textContent": "Activity: 15 Points"
+    },
+    {
+      "objectId": "slide_1000_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06075557742782152,
+          "y": 0.039827743754252944,
+          "width": 0.9,
+          "height": 0.7548556430446194
+        }
+      },
+      "textContent": "Choose a short, medium, and long term goal\nWrite a plan to achieve EACH goal\nBe sure to use “S.M.A.R.T.”\nBe as specific as possible"
+    }
+  ],
+  "slide_id": "slide_1000"
+}

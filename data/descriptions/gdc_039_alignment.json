@@ -1,0 +1,36 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1081_1_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03333333333333333,
+          "y": 0.13333333333333333,
+          "width": 0.9302083333333333,
+          "height": 0.8111111111111111
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1081_2_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.9555555555555556,
+          "width": 0.17847222222222223,
+          "height": 0.04027777777777778
+        }
+      },
+      "textContent": "Common  Sampling"
+    }
+  ],
+  "slide_id": "slide_1081"
+}

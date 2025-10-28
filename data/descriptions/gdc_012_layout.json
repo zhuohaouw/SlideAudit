@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1683_1_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.10833333333333334,
+          "y": 0.4925925925925926,
+          "width": 0.7916666666666666,
+          "height": 0.4393518518518518
+        }
+      },
+      "textContent": "Suministro de productos/servicios a traves      de la cadena lactea de los EE.UU.\nProduccion costo-efectiva\nCalidad, produccion valor-agregado\n\t      Promocion y mercadeo del consumidor"
+    },
+    {
+      "objectId": "slide_1683_2_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.18333333333333332,
+          "y": 0.044444444444444446,
+          "width": 0.3510437445319335,
+          "height": 0.10896733741615632
+        }
+      },
+      "textContent": "Actividades Dairy Link\nHonduras"
+    },
+    {
+      "objectId": "slide_1683_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4732638888888889,
+          "y": 0.27199081364829397,
+          "width": 0.02013888888888889,
+          "height": 0.053472149314669
+        }
+      },
+      "textContent": ""
+    }
+  ],
+  "slide_id": "slide_1683"
+}

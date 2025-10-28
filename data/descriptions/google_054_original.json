@@ -1,0 +1,18 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0190_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.2833333333333333,
+          "y": 0.6951391076115485,
+          "width": 0.43333333333333335,
+          "height": 0.039953339165937594
+        }
+      },
+      "textContent": "24"
+    }
+  ],
+  "slide_id": "slide_0190"
+}

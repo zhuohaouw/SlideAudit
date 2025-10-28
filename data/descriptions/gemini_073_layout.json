@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2173_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5305182633420822,
+          "y": 0.3171597161465928,
+          "width": 0.30150918635170604,
+          "height": 0.6169145523476233
+        }
+      },
+      "textContent": "History of the Olympic Games"
+    },
+    {
+      "objectId": "slide_2173_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3784776902887139,
+          "y": 0.06044522212501215,
+          "width": 0.5845144356955381,
+          "height": 0.8800233304170312
+        }
+      },
+      "textContent": "Ancient Olympics: Held every 4 years in Olympia, Greece, from 776 BC to 393 AD\nFeatured athletic competitions and religious ceremonies\nModern Olympics: Revived in 1896 by Pierre de Coubertin\nPromotes international peace and unity through sports\nWinter Olympics: Introduced in 1924 for winter sports\nParalympic Games: Started in 1960 for athletes with disabilities\nYouth Olympic Games: Created in 1998 for young athletes"
+    }
+  ],
+  "slide_id": "slide_2173"
+}

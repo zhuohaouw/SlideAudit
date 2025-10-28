@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0872_1_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.125,
+          "y": 0.12804860503548168,
+          "width": 0.5625,
+          "height": 0.779727034120735
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0872_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.03003480120540488,
+          "width": 0.9,
+          "height": 0.12505103528725575
+        }
+      },
+      "textContent": "CHARACTERS IN THE NOVEL"
+    },
+    {
+      "objectId": "slide_0872_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.18888888888888888,
+          "width": 0.8583333333333333,
+          "height": 0.7444152814231554
+        }
+      },
+      "textContent": "Guy Montag\nMildred Montag\nCaptain Beatty\nProfessor Faber\nClarisse McClellan\nGranger\nMrs. Phelps\nMrs. Bowles\nOld Woman\nMechanical Hound\nStoneman and Black\nBook People"
+    }
+  ],
+  "slide_id": "slide_0872"
+}

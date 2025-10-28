@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2262_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0939582239720035,
+          "y": 0.07224691358024692,
+          "width": 0.800984251968504,
+          "height": 0.08900554097404491
+        }
+      },
+      "textContent": "Theme 1: New directions over applications"
+    },
+    {
+      "objectId": "slide_2262_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.956206583552056,
+          "y": 0.9363935063672596,
+          "width": 0.017191601049868766,
+          "height": 0.021230679498396035
+        }
+      },
+      "textContent": "‹#›"
+    },
+    {
+      "objectId": "slide_2262_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0939582239720035,
+          "y": 0.20096276854282102,
+          "width": 0.7595472440944881,
+          "height": 0.5286672499270925
+        }
+      },
+      "textContent": "The literature of DCMs has primarily focused on creating \tnew models, incorporating new data, or developing new \tmethods for evaluating model performance\nHuang et al.; Lee & Gu; Mireles & Bao; Zhang\nRelatively few studies examining the implementation of \tDCMs or using DCMs as a tool for answering substantive \tquestions about constructs of interest\nLugu et al."
+    }
+  ],
+  "slide_id": "slide_2262"
+}

@@ -1,0 +1,67 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0967_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.040046271993778554,
+          "width": 0.9,
+          "height": 0.16669582968795568
+        }
+      },
+      "textContent": "How did they live?"
+    },
+    {
+      "objectId": "slide_0967_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.018009076990376204,
+          "y": 0.18472343734810925,
+          "width": 0.5021653543307086,
+          "height": 0.8042578011081948
+        }
+      },
+      "textContent": "Most miners lived in tents and cooked their food over an open fire.\nMeals were usually beans, bacon or local game cooked over an open fire.\nHeavy rain and snow during the winter months made for very difficult living and mining conditions\nSickness and colds were common from sleeping on cold, damp ground."
+    },
+    {
+      "objectId": "slide_0967_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5773731408573928,
+          "y": 0.15736852337902207,
+          "width": 0.28639818460192473,
+          "height": 0.3095654709827938
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0967_4_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5511182195975503,
+          "y": 0.5100952658695441,
+          "width": 0.34716765091863516,
+          "height": 0.404525128803344
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0967"
+}

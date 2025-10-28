@@ -1,0 +1,109 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1721_1_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3262153324584427,
+          "y": 0.26666666666666666,
+          "width": 0.02013888888888889,
+          "height": 0.05347229512977544
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1721_2_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.30833333333333335,
+          "y": 0.03333333333333333,
+          "width": 0.381423665791776,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": "COBRA NPV Comparison"
+    },
+    {
+      "objectId": "slide_1721_3_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.09166666666666666,
+          "y": 0.1111111111111111,
+          "width": 0.8166666666666667,
+          "height": 0.19953703703703704
+        }
+      },
+      "textContent": "The Navy’s COBRA run for Scenario DON-0033B understates one-time costs by $441.8 million and overstates total savings by $2.2 billion through 2025.  The Connecticut corrected COBRA run shows that the NPV for DON-0033B is actually a cost of $641 million, not the savings of $1.6 billion proposed by the Navy.  Recurring savings are an immaterial $35 million a year rather than the Navy’s $193 million.  The corrected COBRA run shows that scenario DON-0033B does not break even for “100+ years.”"
+    },
+    {
+      "objectId": "slide_1721_5_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8166666666666667,
+          "y": 0.7111111111111111,
+          "width": 0.041666666666666664,
+          "height": 0.044444444444444446
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1721_6_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8333333333333334,
+          "y": 0.4,
+          "width": 0.016666666666666666,
+          "height": 0.3
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1721_7_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8583333333333333,
+          "y": 0.5333333333333333,
+          "width": 0.025,
+          "height": 0.03333333333333333
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1721_8_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8416666666666667,
+          "y": 0.5222222222222223,
+          "width": 0.15833333333333333,
+          "height": 0.08472222222222223
+        }
+      },
+      "textContent": "= $2.2 \n           Billion"
+    },
+    {
+      "objectId": "slide_1721_9_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8500014216972879,
+          "y": 0.7555587634878973,
+          "width": 0.125,
+          "height": 0.13333333333333333
+        }
+      },
+      "textContent": "COBRA  \nBreak-Even \n“100+ years”"
+    }
+  ],
+  "slide_id": "slide_1721"
+}

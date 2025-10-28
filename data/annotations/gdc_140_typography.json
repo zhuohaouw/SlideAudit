@@ -1,0 +1,172 @@
+{
+  "slide_id": 707,
+  "annotations": [
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Poor Visual Hierarchy",
+      "response": true,
+      "has_strong_agreement": false
+    },
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Cluttered Layout",
+      "response": true,
+      "has_strong_agreement": true
+    },
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Unbalanced Space Distribution",
+      "response": true,
+      "has_strong_agreement": false
+    },
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Content Alignment Issues",
+      "response": true,
+      "has_strong_agreement": true,
+      "bounding_boxes": [
+        {
+          "x": 797.5005911933324,
+          "y": 762.6386350309635,
+          "width": 134.96704584320833,
+          "height": 93.72863660416749
+        },
+        {
+          "x": 219.45773524720894,
+          "y": 881.2599681020735,
+          "width": 1283.572567783094,
+          "height": 260.2870813397129
+        },
+        {
+          "x": 765.9354838709677,
+          "y": 959.2105263157895,
+          "width": 379.8709677419355,
+          "height": 98.68421052631572
+        }
+      ]
+    },
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Content Overflow/Cut-off",
+      "response": false,
+      "has_strong_agreement": true,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Occluded Content",
+      "response": false,
+      "has_strong_agreement": true,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Illegible Typeface Selection or Usage",
+      "response": false,
+      "has_strong_agreement": true,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Improper Font Sizing",
+      "response": true,
+      "has_strong_agreement": false,
+      "bounding_boxes": [
+        {
+          "x": 587.5518532150084,
+          "y": 886.3604353484646,
+          "width": 211.17222971960098,
+          "height": 63.7990542847092
+        }
+      ]
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Excessive Text Volume",
+      "response": false,
+      "has_strong_agreement": true
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Improper Text Styling",
+      "response": false,
+      "has_strong_agreement": false,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Improper Line/Character Spacing",
+      "response": false,
+      "has_strong_agreement": true,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Poor Text Hierarchy",
+      "response": true,
+      "has_strong_agreement": false
+    },
+    {
+      "design_deficiency_category": "Color",
+      "design_deficiency": "Insufficient Color Contrast for Readability",
+      "response": true,
+      "has_strong_agreement": false,
+      "bounding_boxes": [
+        {
+          "x": 400.09762287721907,
+          "y": 466.45614336179403,
+          "width": 809.80227505925,
+          "height": 89.97949114000085
+        },
+        {
+          "x": 428.7081339712919,
+          "y": 222.8867623604466,
+          "width": 441.4673046251994,
+          "height": 56.140350877192986
+        }
+      ]
+    },
+    {
+      "design_deficiency_category": "Color",
+      "design_deficiency": "Excessive or Inconsistent Color Usage",
+      "response": true,
+      "has_strong_agreement": false
+    },
+    {
+      "design_deficiency_category": "Color",
+      "design_deficiency": "Inappropriate or Mismatched Color Combinations",
+      "response": true,
+      "has_strong_agreement": false
+    },
+    {
+      "design_deficiency_category": "Imagery & Visualizations",
+      "design_deficiency": "Irrelevant Visual Content",
+      "response": false,
+      "has_strong_agreement": true
+    },
+    {
+      "design_deficiency_category": "Imagery & Visualizations",
+      "design_deficiency": "Poor Image Quality/Editing",
+      "response": false,
+      "has_strong_agreement": true,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Imagery & Visualizations",
+      "design_deficiency": "Improper Image Sizing",
+      "response": false,
+      "has_strong_agreement": true,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Imagery & Visualizations",
+      "design_deficiency": "Inconsistent Visual Style Usage",
+      "response": false,
+      "has_strong_agreement": true
+    }
+  ],
+  "image_dimensions": {
+    "width": 1600,
+    "height": 1200
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0899_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.040046271993778554,
+          "width": 0.9,
+          "height": 0.19329250510352872
+        }
+      },
+      "textContent": "SHARK TANK"
+    },
+    {
+      "objectId": "slide_0899_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.08776246719160105,
+          "y": 0.24190726159230097,
+          "width": 0.9122375328083989,
+          "height": 0.7058034412365121
+        }
+      },
+      "textContent": "Are you ready to swim with the sharks?\nHave you ever thought of a product or service that is a solution to a problem?\nHave you thought about how this would help make people’s lives easier?\nHave you thought about the money you could make?"
+    }
+  ],
+  "slide_id": "slide_0899"
+}

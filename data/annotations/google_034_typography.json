@@ -1,0 +1,195 @@
+{
+  "slide_id": 785,
+  "annotations": [
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Poor Visual Hierarchy",
+      "response": false,
+      "has_strong_agreement": true
+    },
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Cluttered Layout",
+      "response": true,
+      "has_strong_agreement": false
+    },
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Unbalanced Space Distribution",
+      "response": false,
+      "has_strong_agreement": false
+    },
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Content Alignment Issues",
+      "response": false,
+      "has_strong_agreement": false,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Content Overflow/Cut-off",
+      "response": false,
+      "has_strong_agreement": true,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Occluded Content",
+      "response": true,
+      "has_strong_agreement": false,
+      "bounding_boxes": [
+        {
+          "x": 86.13691516415318,
+          "y": 276.55202283683025,
+          "width": 936.3224063363926,
+          "height": 75.66402971533176
+        },
+        {
+          "x": 139.11175639929195,
+          "y": 283.9241200077789,
+          "width": 1295.3002247459176,
+          "height": 539.7167759843007
+        },
+        {
+          "x": 178.82337558937184,
+          "y": 692.704186271155,
+          "width": 348.0471166987803,
+          "height": 121.06244754453087
+        },
+        {
+          "x": 640.364117298624,
+          "y": 700.2705892426882,
+          "width": 289.4087437767031,
+          "height": 119.17084680164749
+        },
+        {
+          "x": 161.79933183780108,
+          "y": 685.1377832996218,
+          "width": 1244.6467542815078,
+          "height": 121.06244754453087
+        },
+        {
+          "x": 668.7375235512419,
+          "y": 333.3000451233291,
+          "width": 242.11973335567325,
+          "height": 111.60444383011435
+        },
+        {
+          "x": 589.2919860439116,
+          "y": 420.31367929596064,
+          "width": 408.57705003769865,
+          "height": 261.0409025178946
+        },
+        {
+          "x": 176.93181517253063,
+          "y": 314.38403769449616,
+          "width": 1218.164908445731,
+          "height": 104.03804085858116
+        },
+        {
+          "x": 90.23250263529505,
+          "y": 175.9807648109188,
+          "width": 1181.248632629925,
+          "height": 183.30003712674363
+        }
+      ]
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Illegible Typeface Selection or Usage",
+      "response": false,
+      "has_strong_agreement": true,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Improper Font Sizing",
+      "response": true,
+      "has_strong_agreement": false,
+      "bounding_boxes": [
+        {
+          "x": 75.97605362079595,
+          "y": 173.94409773173277,
+          "width": 1366.5824698184133,
+          "height": 676.1734702897654
+        }
+      ]
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Excessive Text Volume",
+      "response": false,
+      "has_strong_agreement": false
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Improper Text Styling",
+      "response": false,
+      "has_strong_agreement": false,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Improper Line/Character Spacing",
+      "response": false,
+      "has_strong_agreement": false,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Poor Text Hierarchy",
+      "response": true,
+      "has_strong_agreement": false
+    },
+    {
+      "design_deficiency_category": "Color",
+      "design_deficiency": "Insufficient Color Contrast for Readability",
+      "response": false,
+      "has_strong_agreement": true,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Color",
+      "design_deficiency": "Excessive or Inconsistent Color Usage",
+      "response": false,
+      "has_strong_agreement": true
+    },
+    {
+      "design_deficiency_category": "Color",
+      "design_deficiency": "Inappropriate or Mismatched Color Combinations",
+      "response": false,
+      "has_strong_agreement": false
+    },
+    {
+      "design_deficiency_category": "Imagery & Visualizations",
+      "design_deficiency": "Irrelevant Visual Content",
+      "response": false,
+      "has_strong_agreement": true
+    },
+    {
+      "design_deficiency_category": "Imagery & Visualizations",
+      "design_deficiency": "Poor Image Quality/Editing",
+      "response": false,
+      "has_strong_agreement": false,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Imagery & Visualizations",
+      "design_deficiency": "Improper Image Sizing",
+      "response": false,
+      "has_strong_agreement": true,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Imagery & Visualizations",
+      "design_deficiency": "Inconsistent Visual Style Usage",
+      "response": false,
+      "has_strong_agreement": true
+    }
+  ],
+  "image_dimensions": {
+    "width": 1600,
+    "height": 900
+  }
+}

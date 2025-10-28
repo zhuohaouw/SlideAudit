@@ -1,0 +1,136 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0979_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.041666666666666664,
+          "y": 0.044444444444444446,
+          "width": 0.8583333333333333,
+          "height": 0.26666666666666666
+        }
+      },
+      "textContent": "How to Convert Decimals to Fractions"
+    },
+    {
+      "objectId": "slide_0979_2_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4666666666666667,
+          "y": 0.2736111597161466,
+          "width": 0.2,
+          "height": 0.1467483231262759
+        }
+      },
+      "textContent": ".5"
+    },
+    {
+      "objectId": "slide_0979_3_LINE (9)",
+      "type": "LINE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.525,
+          "y": 0.3889180519101779,
+          "width": 0.00016404199475065617,
+          "height": 0.099970836978711
+        }
+      }
+    },
+    {
+      "objectId": "slide_0979_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5416666666666666,
+          "y": 0.418055604160591,
+          "width": 0.35833333333333334,
+          "height": 0.11991834354039078
+        }
+      },
+      "textContent": "The 5 is in the tenths place"
+    },
+    {
+      "objectId": "slide_0979_5_LINE (9)",
+      "type": "LINE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6416666666666667,
+          "y": 0.5333333333333333,
+          "width": 0.00016404199475065617,
+          "height": 0.3222513852435112
+        }
+      }
+    },
+    {
+      "objectId": "slide_0979_6_LINE (9)",
+      "type": "LINE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.45,
+          "y": 0.8555555555555555,
+          "width": 0.19166666666666668,
+          "height": 0.00023330417031204432
+        }
+      }
+    },
+    {
+      "objectId": "slide_0979_7_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.35,
+          "y": 0.7712963935063673,
+          "width": 0.125,
+          "height": 0.1467483231262759
+        }
+      },
+      "textContent": "10"
+    },
+    {
+      "objectId": "slide_0979_8_LINE (9)",
+      "type": "LINE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.1295132327209099,
+          "y": 0.11944434723437349,
+          "width": 0.11666666666666667,
+          "height": 0.00023330417031204432
+        }
+      }
+    },
+    {
+      "objectId": "slide_0979_9_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.375,
+          "y": 0.6601852823952562,
+          "width": 0.075,
+          "height": 0.1467483231262759
+        }
+      },
+      "textContent": "5"
+    },
+    {
+      "objectId": "slide_0979_10_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.9517361111111111,
+          "y": 0.9648148148148148,
+          "width": 0.025,
+          "height": 0.044444444444444446
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0979"
+}

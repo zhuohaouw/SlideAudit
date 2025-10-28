@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2397_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.040046271993778554,
+          "width": 0.9,
+          "height": 0.16669582968795568
+        }
+      },
+      "textContent": "Learning points"
+    },
+    {
+      "objectId": "slide_2397_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.051215223097112864,
+          "y": 0.1849536307961505,
+          "width": 0.85,
+          "height": 0.7222513852435112
+        }
+      },
+      "textContent": "Language \n file? archive? digital archive?\nSampling \nconservation\nnumber of pages\nCounting \nfinding number? box? scans?\ntimesheets\nTimescales\nUncatalogued material\nExpect the unexpected\nAppetite for archives"
+    },
+    {
+      "objectId": "slide_2397_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5532985564304462,
+          "y": 0.2585647905122971,
+          "width": 0.30468744531933506,
+          "height": 0.4363423738699329
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_2397"
+}

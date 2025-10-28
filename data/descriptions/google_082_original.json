@@ -1,0 +1,174 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0434_1_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.02394367891513561,
+          "y": 0.023823466511130553,
+          "width": 0.9531824146981628,
+          "height": 0.3357830271216098
+        }
+      },
+      "textContent": "PROBABILIDAD CONDICIONAL\nEjercicio 1\nLa tabla muestra la clasificación de 150 estudiantes de grado décimo del Liceo Salazar y Herrera, de acuerdo con el género y la especialización que han  escogido para cursar su media técnica."
+    },
+    {
+      "objectId": "slide_0434_2_TABLE (19)",
+      "type": "TABLE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.37605632108486436,
+          "y": 0.3042257217847769,
+          "width": 0.32808398950131235,
+          "height": 0.5832604257801108
+        }
+      },
+      "table": {
+        "rows": 5,
+        "columns": 5,
+        "cells": [
+          {
+            "rowIndex": 0,
+            "columnIndex": 0,
+            "textContent": ""
+          },
+          {
+            "rowIndex": 0,
+            "columnIndex": 1,
+            "textContent": "Especialización"
+          },
+          {
+            "rowIndex": 0,
+            "columnIndex": 2,
+            "textContent": ""
+          },
+          {
+            "rowIndex": 0,
+            "columnIndex": 3,
+            "textContent": ""
+          },
+          {
+            "rowIndex": 0,
+            "columnIndex": 4,
+            "textContent": ""
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 0,
+            "textContent": "Género"
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 1,
+            "textContent": "Ciencias"
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 2,
+            "textContent": "Tecnología"
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 3,
+            "textContent": "Artes"
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 4,
+            "textContent": "Total"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 0,
+            "textContent": "Hombre"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 1,
+            "textContent": "25"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 2,
+            "textContent": "20"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 3,
+            "textContent": "46"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 4,
+            "textContent": "91"
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 0,
+            "textContent": "Mujer"
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 1,
+            "textContent": "20"
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 2,
+            "textContent": "37"
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 3,
+            "textContent": "2"
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 4,
+            "textContent": "59"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 0,
+            "textContent": "Total"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 1,
+            "textContent": "45"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 2,
+            "textContent": "57"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 3,
+            "textContent": "48"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 4,
+            "textContent": "150"
+          }
+        ]
+      }
+    },
+    {
+      "objectId": "slide_0434_3_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.004753062117235345,
+          "y": 0.7814851754641781,
+          "width": 0.9799212598425197,
+          "height": 0.21061533974919802
+        }
+      },
+      "textContent": "Si se selecciona un estudiante al azar y resulta ser hombre. ¿cuál es la probabilidad de que su especialización sea Arte?\nSi se selecciona un estudiante al azar y su especialización es en tecnología, ¿Cuál es la probabilidad de que sea mujer?"
+    }
+  ],
+  "slide_id": "slide_0434"
+}

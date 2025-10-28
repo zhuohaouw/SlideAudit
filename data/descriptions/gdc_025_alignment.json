@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2104_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7166666666666667,
+          "y": 0.9041666666666667,
+          "width": 0.20833333333333334,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": "25"
+    },
+    {
+      "objectId": "slide_2104_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.07500262467191601,
+          "y": -4.374453193350831e-07,
+          "width": 0.0,
+          "height": 0.0
+        }
+      },
+      "textContent": "Slikker et al. (in press)"
+    },
+    {
+      "objectId": "slide_2104_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.075,
+          "y": 0.24444444444444444,
+          "width": 0.85,
+          "height": 0.6
+        }
+      },
+      "textContent": "Ketamine-induced neurodegeneration in the perinatal rhesus monkey\n\n\n\nModel: Rhesus monkey (Gestational day 122 and postnatal day 5 and 35)\nKetamine i.v. 24 hours, 6 hour withdrawal period.\nKetamine i.v. 3 hours in postnatal day 5 animals."
+    }
+  ],
+  "slide_id": "slide_2104"
+}

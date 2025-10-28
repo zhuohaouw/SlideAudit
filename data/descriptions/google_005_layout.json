@@ -1,0 +1,36 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0748_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.07523326771653543,
+          "y": 0.09695557499756975,
+          "width": 0.8704575678040245,
+          "height": 0.2535837464761349
+        }
+      },
+      "textContent": "The Plan Guides Many City Actions"
+    },
+    {
+      "objectId": "slide_0748_2_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03836111111111111,
+          "y": 0.32703548167590163,
+          "width": 0.9169288057742783,
+          "height": 0.37181141246233107
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0748"
+}

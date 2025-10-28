@@ -1,0 +1,207 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1800_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.040046271993778554,
+          "width": 0.9,
+          "height": 0.16669582968795568
+        }
+      },
+      "textContent": "What to digitise?"
+    },
+    {
+      "objectId": "slide_1800_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.051215223097112864,
+          "y": 0.1849536307961505,
+          "width": 0.85,
+          "height": 0.7222513852435112
+        }
+      },
+      "textContent": "Breadth and depth (and pretty stuff)\nHE focus (and ‘general public’)"
+    },
+    {
+      "objectId": "slide_1800_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.11406244531933508,
+          "y": 0.5,
+          "width": 0.2421875546806649,
+          "height": 0.2729164965490425
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1800_4_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6416666666666667,
+          "y": 0.4895833576358511,
+          "width": 0.23628455818022748,
+          "height": 0.45347234373481093
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1800_5_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 1.0197916666666667,
+          "y": 0.10092602313599688,
+          "width": 0.25260411198600174,
+          "height": 0.3546295324195587
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1800_6_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.37395833333333334,
+          "y": 0.48958316321570916,
+          "width": 0.2440971128608924,
+          "height": 0.35185185185185186
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1800_7_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.37395833333333334,
+          "y": 0.7729166909691844,
+          "width": 0.5197834645669291,
+          "height": 0.19953339165937592
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1800_8_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.11406244531933508,
+          "y": 0.36342587732089043,
+          "width": 0.24425853018372704,
+          "height": 0.11548556430446194
+        }
+      },
+      "textContent": "photographs"
+    },
+    {
+      "objectId": "slide_1800_9_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.37395833333333334,
+          "y": 0.36342587732089043,
+          "width": 0.2440944881889764,
+          "height": 0.11548556430446194
+        }
+      },
+      "textContent": "research reports"
+    },
+    {
+      "objectId": "slide_1800_10_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6338541119860017,
+          "y": 0.36342587732089043,
+          "width": 0.2440944881889764,
+          "height": 0.11548556430446194
+        }
+      },
+      "textContent": "subject/ registry files"
+    },
+    {
+      "objectId": "slide_1800_11_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.10625,
+          "y": 0.7835646933022261,
+          "width": 0.2440944881889764,
+          "height": 0.11548556430446194
+        }
+      },
+      "textContent": "Category A:\n93,020 scans"
+    },
+    {
+      "objectId": "slide_1800_12_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3661457786526684,
+          "y": 0.7835646933022261,
+          "width": 0.2440944881889764,
+          "height": 0.11548556430446194
+        }
+      },
+      "textContent": "Category B:\n182,757 scans"
+    },
+    {
+      "objectId": "slide_1800_13_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6260416666666667,
+          "y": 0.7835646933022261,
+          "width": 0.2440944881889764,
+          "height": 0.11548556430446194
+        }
+      },
+      "textContent": "Category C:\n232,378 scans"
+    },
+    {
+      "objectId": "slide_1800_14_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.11406244531933508,
+          "y": 0.7835646933022261,
+          "width": 0.7638779527559055,
+          "height": 0.10487022455526393
+        }
+      },
+      "textContent": ""
+    }
+  ],
+  "slide_id": "slide_1800"
+}

@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0793_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.3789233012540099,
+          "width": 0.5759842519685039,
+          "height": 0.563546223388743
+        }
+      },
+      "textContent": "Ancient cryptography: Used simple ciphers like Caesar cipher (shifting letters).\nMedieval cryptography: More complex ciphers developed, but still breakable.\nEnigma machine: Used in WWII, complex encryption, cracked by Allied forces.\nModern cryptography: Uses advanced algorithms and computers for encryption.\nCybersecurity: Protects data from unauthorized access using cryptography."
+    },
+    {
+      "objectId": "slide_0793_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.042,
+          "y": 0.07466666666666667,
+          "width": 0.5759842519685039,
+          "height": 0.16535433070866143
+        }
+      },
+      "textContent": "Cryptography: Ancient Art to Modern Science"
+    }
+  ],
+  "slide_id": "slide_0793"
+}

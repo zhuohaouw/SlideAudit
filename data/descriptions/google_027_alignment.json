@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1393_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06875,
+          "y": 0.05324098376591815,
+          "width": 0.8625,
+          "height": 0.19329250510352872
+        }
+      },
+      "textContent": "What is Communication?"
+    },
+    {
+      "objectId": "slide_1393_2_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06875,
+          "y": 0.3397371439681151,
+          "width": 0.8625,
+          "height": 0.18401866433362496
+        }
+      },
+      "textContent": "Communication Defined:\n\nThe act of conveying meanings from one entity or group to another using mutually understood signs, symbols, and semiotic rules"
+    },
+    {
+      "objectId": "slide_1393_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06875,
+          "y": 0.4999978613784388,
+          "width": 0.8625,
+          "height": 0.2
+        }
+      },
+      "textContent": "Miscommunication Defined:\n\nWhen the intended meaning of a communication does not match the way the message is interpreted"
+    }
+  ],
+  "slide_id": "slide_1393"
+}

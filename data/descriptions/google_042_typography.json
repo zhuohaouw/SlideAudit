@@ -1,0 +1,231 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1339_1_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5674166666666667,
+          "y": 0.27066666666666667,
+          "width": 0.4178477690288714,
+          "height": 0.14925634295713036
+        }
+      },
+      "textContent": "Sales"
+    },
+    {
+      "objectId": "slide_1339_2_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5674166666666667,
+          "y": 0.8108148148148148,
+          "width": 0.4178477690288714,
+          "height": 0.1377661125692622
+        }
+      },
+      "textContent": "STOCK ESTIMATE"
+    },
+    {
+      "objectId": "slide_1339_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5674166666666667,
+          "y": 0.4605923981724507,
+          "width": 0.4178477690288714,
+          "height": 0.14937299504228638
+        }
+      },
+      "textContent": "Refunds"
+    },
+    {
+      "objectId": "slide_1339_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5680832239720035,
+          "y": 0.6380740740740741,
+          "width": 0.4172244094488189,
+          "height": 0.14925634295713036
+        }
+      },
+      "textContent": "Stock"
+    },
+    {
+      "objectId": "slide_1339_5_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.021237642169728784,
+          "y": 0.15570098182171674,
+          "width": 0.15986111111111112,
+          "height": 0.832962962962963
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1339_6_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03154440069991251,
+          "y": 0.17174317099251482,
+          "width": 0.09783464566929134,
+          "height": 0.08614756488772236
+        }
+      },
+      "textContent": "Basic"
+    },
+    {
+      "objectId": "slide_1339_8_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.20720975503062117,
+          "y": 0.1557037037037037,
+          "width": 0.17034722222222223,
+          "height": 0.832962962962963
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1339_9_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.20720833333333333,
+          "y": 0.17530844755516672,
+          "width": 0.10652887139107611,
+          "height": 0.08614756488772236
+        }
+      },
+      "textContent": "Better"
+    },
+    {
+      "objectId": "slide_1339_11_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4026650262467192,
+          "y": 0.15348070380091378,
+          "width": 0.1786804461942257,
+          "height": 0.8374074074074074
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1339_12_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4074443350831146,
+          "y": 0.16957033148634199,
+          "width": 0.08054461942257218,
+          "height": 0.08614756488772236
+        }
+      },
+      "textContent": "Best"
+    },
+    {
+      "objectId": "slide_1339_14_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.2073332239720035,
+          "y": 0.344888694468747,
+          "width": 0.05249343832020997,
+          "height": 0.04975211431904345
+        }
+      },
+      "textContent": "34%"
+    },
+    {
+      "objectId": "slide_1339_15_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.032,
+          "y": 0.341925731505784,
+          "width": 0.05137795275590551,
+          "height": 0.04975211431904345
+        }
+      },
+      "textContent": "29%"
+    },
+    {
+      "objectId": "slide_1339_16_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.032,
+          "y": 0.527999805579858,
+          "width": 0.04806430446194226,
+          "height": 0.04975211431904345
+        }
+      },
+      "textContent": "7%"
+    },
+    {
+      "objectId": "slide_1339_17_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.21183333333333335,
+          "y": 0.522074074074074,
+          "width": 0.04806430446194226,
+          "height": 0.0499854184893555
+        }
+      },
+      "textContent": "6%"
+    },
+    {
+      "objectId": "slide_1339_18_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4036666666666667,
+          "y": 0.522074074074074,
+          "width": 0.042355643044619425,
+          "height": 0.0499854184893555
+        }
+      },
+      "textContent": "4%"
+    },
+    {
+      "objectId": "slide_1339_19_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4026666666666667,
+          "y": 0.3425185185185185,
+          "width": 0.05137795275590551,
+          "height": 0.04975211431904345
+        }
+      },
+      "textContent": "36%"
+    },
+    {
+      "objectId": "slide_1339_23_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8526665573053368,
+          "y": 0.034962768542821036,
+          "width": 0.129,
+          "height": 0.09748148148148149
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_1339"
+}

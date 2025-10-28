@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1558_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.032757983377077866,
+          "y": 0.009185379605327112,
+          "width": 0.9168307086614174,
+          "height": 0.9605132691746865
+        }
+      },
+      "textContent": "Don’t fight the scenario! It is a tool to guide the discussion.\nThis exercise will be held in an open, low-stress, no-fault environment. Varying viewpoints, even disagreements, are expected.\nRespond to the scenario using your knowledge of your organization’s current plans and capabilities. \nDecisions are not precedent-setting and may not reflect your organization’s final position on a given issue. This exercise is an opportunity to discuss and present multiple options and possible solutions. \nIssue identification is not as valuable as suggestions and recommended actions that could improve response efforts. Problem-solving efforts should be the focus.\nThe Parking Lot:  A place to note ideas that can be discussed at a later time."
+    },
+    {
+      "objectId": "slide_1558_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.049826443569553805,
+          "y": 0.05563721201516477,
+          "width": 0.9,
+          "height": 0.14960629921259844
+        }
+      },
+      "textContent": "Ground Rules"
+    }
+  ],
+  "slide_id": "slide_1558"
+}

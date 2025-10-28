@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0471_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06483781714785652,
+          "y": 0.19447224652473996,
+          "width": 0.2480971128608924,
+          "height": 0.09699620880723243
+        }
+      },
+      "textContent": "Contact Us"
+    },
+    {
+      "objectId": "slide_0471_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5484743000874891,
+          "y": 0.3331793525809274,
+          "width": 0.38274278215223095,
+          "height": 0.3268008165645961
+        }
+      },
+      "textContent": "WWW.MONEYHABITUDES.COM 9414449189\n5830 JAMILA RIVER DR VENICE FLORIDA 34293"
+    }
+  ],
+  "slide_id": "slide_0471"
+}

@@ -1,0 +1,134 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1998_1_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5394096675415573,
+          "y": 0.4895833576358511,
+          "width": 0.46059022309711284,
+          "height": 0.510416642364149
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1998_2_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5984374453193351,
+          "y": 0.0,
+          "width": 0.4015623359580052,
+          "height": 0.39884261689511036
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1998_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.40555555555555556,
+          "height": 0.41597219791970447
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1998_4_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.2953124453193351,
+          "y": 0.268981432876446,
+          "width": 0.41354166666666664,
+          "height": 0.40902770487022455
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1998_5_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.552546320598814,
+          "width": 0.4173611111111111,
+          "height": 0.44745367940118597
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1998_6_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.016666666666666666,
+          "y": 0.022222222222222223,
+          "width": 0.8783464566929133,
+          "height": 0.2294546515018956
+        }
+      },
+      "textContent": "Blue oceans,"
+    },
+    {
+      "objectId": "slide_1998_7_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03333333333333333,
+          "y": 0.42061261786721105,
+          "width": 0.8415354330708661,
+          "height": 0.08696412948381452
+        }
+      },
+      "textContent": "seas and rivers,"
+    },
+    {
+      "objectId": "slide_1998_8_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.16565507436570429,
+          "y": 0.6484446388645864,
+          "width": 0.7521325459317585,
+          "height": 0.28556430446194225
+        }
+      },
+      "textContent": "lakes and waterfalls"
+    }
+  ],
+  "slide_id": "slide_1998"
+}

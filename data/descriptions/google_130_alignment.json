@@ -1,0 +1,70 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0270_1_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.2,
+          "y": 0.22500009721007097,
+          "width": 0.7625,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0270_2_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.06666666666666667,
+          "width": 0.8378608923884514,
+          "height": 0.41341498979294256
+        }
+      },
+      "textContent": "The Production Possibilities Curve (PPC)"
+    },
+    {
+      "objectId": "slide_0270_3_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.4777777777777778,
+          "width": 0.9666666666666667,
+          "height": 0.13333333333333333
+        }
+      },
+      "textContent": "Using Economic Models…"
+    },
+    {
+      "objectId": "slide_0270_4_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.11666666666666667,
+          "y": 0.6,
+          "width": 0.8416666666666667,
+          "height": 0.2976961213181686
+        }
+      },
+      "textContent": "Step 1: Explain concept in words\nStep 2: Use numbers as examples\nStep 3: Generate graphs from numbers\nStep 4: Make generalizations using graph"
+    },
+    {
+      "objectId": "slide_0270_5_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7916666666666666,
+          "y": 0.9333333333333333,
+          "width": 0.20833333333333334,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": ""
+    }
+  ],
+  "slide_id": "slide_0270"
+}

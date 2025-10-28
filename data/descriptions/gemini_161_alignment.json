@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1783_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06099464129483814,
+          "y": 0.11377641683678429,
+          "width": 0.406003937007874,
+          "height": 0.18133566637503645
+        }
+      },
+      "textContent": "Most Expensive Mistakes 💰"
+    },
+    {
+      "objectId": "slide_1783_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05561297025371829,
+          "y": 0.36621463983668706,
+          "width": 0.4113845144356955,
+          "height": 0.5191017789442987
+        }
+      },
+      "textContent": "The Sinking of the Titanic (1912) - 1,500 Lives Lost, $7.5 Million\nThe Challenger Explosion (1986) - 7 Astronauts Killed, $5.5 Billion\nThe Chernobyl Disaster (1986) - 31 Direct Deaths, $200 Billion\nThe Deepwater Horizon Oil Spill (2010) - 11 Deaths, $65 Billion"
+    },
+    {
+      "objectId": "slide_1783_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.506,
+          "y": 0.11377777777777778,
+          "width": 0.43398950131233593,
+          "height": 0.7715368912219306
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_1783"
+}

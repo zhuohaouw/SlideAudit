@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0013_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06684022309711286,
+          "y": 0.40555555555555556,
+          "width": 0.8190944881889763,
+          "height": 0.5351997666958297
+        }
+      },
+      "textContent": "Cyber- Bullying\u000b\u000b\u000bWhat is it?  \u000bWhy does it happen?  \u000bWhat to do about it?\u000b\u000bIf you can remember this WWW after my ten minute presentation, then this will proof that in future you will be great help for those that need it and when you get caught up in this, you will know how to deal with this serious matter."
+    },
+    {
+      "objectId": "slide_0013_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.14830030621172355,
+          "y": 0.3495829687955672,
+          "width": 0.40938320209973755,
+          "height": 0.07337416156313795
+        }
+      },
+      "textContent": "By Zahraa Hashem"
+    },
+    {
+      "objectId": "slide_0013_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.16927077865266843,
+          "y": 0.22708330903081558,
+          "width": 0.3079861111111111,
+          "height": 0.21412034606785263
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0013"
+}

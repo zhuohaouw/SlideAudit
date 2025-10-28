@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0203_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.058709645669291335,
+          "y": 0.10873043647321863,
+          "width": 0.8665682414698163,
+          "height": 0.12977544473607466
+        }
+      },
+      "textContent": "Unsolved Ancient Mysteries"
+    },
+    {
+      "objectId": "slide_0203_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.426,
+          "y": 0.2737777777777778,
+          "width": 0.8392594050743657,
+          "height": 0.9642278604063381
+        }
+      },
+      "textContent": "The Antikythera Mechanism: Ancient Greek astronomical calculator.\nThe Voynich Manuscript: Undeciphered medieval text.\nThe Baghdad Battery: Ancient Mesopotamian battery?\nThe Saqqara Bird: Ancient Egyptian wooden bird model - could it have flown?\nThe Nazca Lines: Ancient Peruvian geoglyphs of unknown purpose."
+    },
+    {
+      "objectId": "slide_0203_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06,
+          "y": 0.3022222222222222,
+          "width": 0.306988188976378,
+          "height": 0.5457567804024497
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0203"
+}

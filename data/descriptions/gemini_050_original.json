@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0758_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.061,
+          "y": 0.11377777777777778,
+          "width": 0.406003937007874,
+          "height": 0.18133566637503645
+        }
+      },
+      "textContent": "The Science Behind Déjà Vu"
+    },
+    {
+      "objectId": "slide_0758_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05561297025371829,
+          "y": 0.36621463983668706,
+          "width": 0.4113845144356955,
+          "height": 0.5191017789442987
+        }
+      },
+      "textContent": "Déjà vu: feeling of familiarity in a new situation.\nTheories:\nDual Processing: slight delay in neural pathways creates illusion of familiarity\nPrior Unconscious Experience: similar past experience, but not consciously remembered.\nNeurological Disorder: linked to epilepsy"
+    },
+    {
+      "objectId": "slide_0758_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.506,
+          "y": 0.11377777777777778,
+          "width": 0.43398950131233593,
+          "height": 0.7715368912219306
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0758"
+}

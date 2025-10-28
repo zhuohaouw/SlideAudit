@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0705_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0329996719160105,
+          "y": 0.06044522212501215,
+          "width": 0.30150918635170604,
+          "height": 0.6169145523476233
+        }
+      },
+      "textContent": "The Bilingual Brain"
+    },
+    {
+      "objectId": "slide_0705_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3784776902887139,
+          "y": 0.06044522212501215,
+          "width": 0.5845144356955381,
+          "height": 0.8800233304170312
+        }
+      },
+      "textContent": "Language processing involves multiple brain regions working together.\nBroca's area is linked to speech production, Wernicke's to comprehension.\nMultilingual brains show greater activity in these areas.\nLanguage learned early is processed similarly to native language.\nLater-learned languages may use different brain regions.\nSwitching between languages activates the brain's control center.\nThis may lead to improved cognitive function and memory!"
+    }
+  ],
+  "slide_id": "slide_0705"
+}

@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0170_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03408792650918635,
+          "y": 0.07624185865655682,
+          "width": 0.9318241469816273,
+          "height": 0.5230679498396034
+        }
+      },
+      "textContent": "Important: These are reminders of how we learned to Annotate. When you are reading to construct an argument, you will want to use your annotating to find things that will help your argument!"
+    },
+    {
+      "objectId": "slide_0170_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03408792650918635,
+          "y": 0.7563721201516477,
+          "width": 0.8706287182852144,
+          "height": 0.1282824924662195
+        }
+      },
+      "textContent": ""
+    }
+  ],
+  "slide_id": "slide_0170"
+}

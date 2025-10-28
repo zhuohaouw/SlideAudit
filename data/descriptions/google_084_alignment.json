@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0615_1_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.9916666666666667,
+          "height": 0.34301545640128317
+        }
+      },
+      "textContent": "Ejercicio 5.\nEn un centro escolar los alumnos pueden optar por cursar como lengua extranjera inglés o francés. En un determinado curso, el 90% de los alumnos estudia inglés y el resto francés. El 30% de los que estudian inglés son chicos y de los que estudian francés son chicos el 40%. El elegido un alumno al azar, ¿cuál es la probabilidad de que sea chica?"
+    },
+    {
+      "objectId": "slide_0615_2_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.014036198600174979,
+          "y": 0.39865927870127343,
+          "width": 0.9694553805774279,
+          "height": 0.5638961796442111
+        }
+      },
+      "textContent": "Ejercicio 6.\nDisponemos de dos urnas: la urna A contiene 6 bolas rojas y 4 bolas blancas, la urna B contiene 4 bolas rojas y 8 bolas blancas. Se lanza un dado, si aparece un número menor que 3; nos vamos a la urna A; si el resultado es 3 ó más, nos vamos a la urna B. A continuación extraemos una bola. Se pide:\nLa probabilidad de que la bola sea roja y de la urna B\nLa probabilidad de que la bola sea blanca dado que es de la urna A"
+    }
+  ],
+  "slide_id": "slide_0615"
+}

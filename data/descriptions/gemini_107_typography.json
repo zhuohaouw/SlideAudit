@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0460_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.042,
+          "y": 0.064,
+          "width": 0.34501312335958007,
+          "height": 0.1689122193059201
+        }
+      },
+      "textContent": "History's Strangest Coincidences"
+    },
+    {
+      "objectId": "slide_0460_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.036,
+          "y": 0.30044444444444446,
+          "width": 0.352001312335958,
+          "height": 0.6026829979585885
+        }
+      },
+      "textContent": "The \"Curse\" of the Titanic: A fictional book predicted the Titanic's sinking 14 years before it happened. Luck\nMark Twain and Halley's Comet: Twain was born and died during Halley's Comet appearances. Luck\nThe Lincoln-Kennedy Coincidences: Eerie similarities between the assassinations of two presidents. Luck\nTwin Strangers: Two identical strangers met by chance. Just an interesting coincidence"
+    },
+    {
+      "objectId": "slide_0460_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.43700787401574803,
+          "y": 0.0,
+          "width": 0.562992125984252,
+          "height": 1.0
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0460"
+}

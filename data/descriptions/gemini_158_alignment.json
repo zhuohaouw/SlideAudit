@@ -1,0 +1,88 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1311_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.044444444444444446,
+          "width": 0.95,
+          "height": 0.16535433070866143
+        }
+      },
+      "textContent": "World's Deepest Caves"
+    },
+    {
+      "objectId": "slide_1311_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.114,
+          "y": 0.24191931564110042,
+          "width": 0.18198818897637795,
+          "height": 0.29868766404199476
+        }
+      },
+      "textContent": "Krubera Cave: 2,197 meters (7,208 ft)"
+    },
+    {
+      "objectId": "slide_1311_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.785,
+          "y": 0.24177777777777779,
+          "width": 0.18198818897637795,
+          "height": 0.29868766404199476
+        }
+      },
+      "textContent": "Veryovkina Cave: 2,212 meters (7,257 ft)"
+    },
+    {
+      "objectId": "slide_1311_4_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.785,
+          "y": 0.6506666666666666,
+          "width": 0.18198818897637795,
+          "height": 0.29868766404199476
+        }
+      },
+      "textContent": "Sarma Cave: 1,830 meters (6,004 ft)"
+    },
+    {
+      "objectId": "slide_1311_5_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.114,
+          "y": 0.6508082045299893,
+          "width": 0.18198818897637795,
+          "height": 0.29868766404199476
+        }
+      },
+      "textContent": "Discovered by Alexander Kruber, Oleg Parfenov, and Sergio García-Dils de la Vega, respectively"
+    },
+    {
+      "objectId": "slide_1311_6_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.327,
+          "y": 0.27925264897443375,
+          "width": 0.3470144356955381,
+          "height": 0.6169145523476233
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_1311"
+}

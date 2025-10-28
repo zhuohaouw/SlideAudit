@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2185_1_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.09181430446194226,
+          "y": 0.036329153300281906,
+          "width": 0.8163713910761154,
+          "height": 0.15118110236220472
+        }
+      },
+      "textContent": "What is PLACENTA PREVIA?"
+    },
+    {
+      "objectId": "slide_2185_2_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.04535433070866142,
+          "y": 0.2740445222125012,
+          "width": 0.8163713910761154,
+          "height": 0.5953339165937591
+        }
+      },
+      "textContent": "The placenta is implanted in the lower uterine segment over or near the internal os of the cervix. This occurs in 0.005 percent of pregnancies but has a re-occurrence rate of 4 to 8 percent."
+    }
+  ],
+  "slide_id": "slide_2185"
+}

@@ -1,0 +1,70 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1432_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7166666666666667,
+          "y": 0.9106481481481481,
+          "width": 0.23333333333333334,
+          "height": 0.06944444444444445
+        }
+      },
+      "textContent": "26"
+    },
+    {
+      "objectId": "slide_1432_3_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.9777777777777777,
+          "width": 1.0,
+          "height": 0.022222222222222223
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1432_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.17777777777777778,
+          "width": 0.7416666666666667,
+          "height": 0.15555555555555556
+        }
+      },
+      "textContent": "What do the data tell us about parts of our population?"
+    },
+    {
+      "objectId": "slide_1432_5_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.35555555555555557,
+          "width": 0.7333333333333333,
+          "height": 0.5775463692038495
+        }
+      },
+      "textContent": "How did the various sub-groups perform relative to:\u000b\ta. the district?\n\tb. the state?\n\tc. the same sub-groups last year?\n\td. what we would have predicted knowing the \t\tpopulation?\u000b\u000bHow do the percentages of students in the various sub-groups compare to the district and state?\u000b\u000bWhat does the questionnaire data tell us about the sub-populations?"
+    },
+    {
+      "objectId": "slide_1432_6_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7833333333333333,
+          "y": 0.17777777777777778,
+          "width": 0.2,
+          "height": 0.26666666666666666
+        }
+      },
+      "textContent": "Question #3"
+    }
+  ],
+  "slide_id": "slide_1432"
+}

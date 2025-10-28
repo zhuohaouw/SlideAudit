@@ -1,0 +1,127 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1059_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7166666666666667,
+          "y": 0.9106481481481481,
+          "width": 0.23333333333333334,
+          "height": 0.06944444444444445
+        }
+      },
+      "textContent": "199"
+    },
+    {
+      "objectId": "slide_1059_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.075,
+          "y": 0.03171303587051619,
+          "width": 0.85,
+          "height": 0.16666666666666666
+        }
+      },
+      "textContent": "CPC Mission"
+    },
+    {
+      "objectId": "slide_1059_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05503477690288714,
+          "y": 0.5222222222222223,
+          "width": 0.4866318897637795,
+          "height": 0.36666666666666664
+        }
+      },
+      "textContent": "National temperature and precipitation outlooks, but not monthly / seasonal rankings\nFocus: weeks, months, seasons, years (i.e. short term climate)\nForecasts in collaboration with other NCEP Centers, NOAA line offices, other agencies and labs \nIntegral to NWS Seamless Suite of Products"
+    },
+    {
+      "objectId": "slide_1059_4_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.48368055555555556,
+          "y": 0.16620370370370371,
+          "width": 0.034027777777777775,
+          "height": 0.10231481481481482
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1059_5_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.26435185185185184,
+          "width": 0.8916666666666667,
+          "height": 0.1912037037037037
+        }
+      },
+      "textContent": "We deliver climate prediction, monitoring, and assessment products for timescales from weeks to years to the Nation and the global community for the protection of life and property and the enhancement of the economy."
+    },
+    {
+      "objectId": "slide_1059_6_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.1625,
+          "y": 0.18888888888888888,
+          "width": 0.675,
+          "height": 0.0
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1059_7_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.65,
+          "y": 0.5,
+          "width": 0.21614588801399826,
+          "height": 0.044444444444444446
+        }
+      },
+      "textContent": "Temperature Outlook"
+    },
+    {
+      "objectId": "slide_1059_8_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6,
+          "y": 0.5444444444444444,
+          "width": 0.3,
+          "height": 0.37199081364829395
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1059_9_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.13333333333333333,
+          "y": 0.9111111111111111,
+          "width": 0.9168403324584427,
+          "height": 0.05347229512977544
+        }
+      },
+      "textContent": "Note: We are asking for your help to reach more users."
+    }
+  ],
+  "slide_id": "slide_1059"
+}

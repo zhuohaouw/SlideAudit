@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1775_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 1.944201419267036e-07,
+          "width": 0.9,
+          "height": 0.1010207057451152
+        }
+      },
+      "textContent": "INDEX"
+    },
+    {
+      "objectId": "slide_1775_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03538156167979003,
+          "y": 0.09050568678915136,
+          "width": 0.9185367454068242,
+          "height": 0.9094779819189268
+        }
+      },
+      "textContent": "Microsoft Access- An Overview                                       2\nDatasheet view                                                                   4\nCreate a Table in Datasheet View                                                             5\nDesign view                                                                         9  \nCreate a table in Design View                                                                  10\nTable and field properties                                               13\nSort and filter group                                                        16\nExternal data tab                                                              20\nImport option                                                                   21\nExport option                                                                    23"
+    },
+    {
+      "objectId": "slide_1775_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.2833333333333333,
+          "y": 0.6951391076115485,
+          "width": 0.43333333333333335,
+          "height": 0.039953339165937594
+        }
+      },
+      "textContent": "1"
+    }
+  ],
+  "slide_id": "slide_1775"
+}

@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1273_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.23333333333333334,
+          "width": 0.4153543307086614,
+          "height": 0.7057451151939341
+        }
+      },
+      "textContent": "Six distinct regions\nColorado River - subsistence farming\nSouthern - complex chiefdoms\nGreat Basin area\nCentral - hunting\nNorthwest - woodworking\nNortheast\nDifferent environments\nDesert\nMountains\nCoastal"
+    },
+    {
+      "objectId": "slide_1273_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.0019424516379896958,
+          "width": 0.9,
+          "height": 0.12505103528725575
+        }
+      },
+      "textContent": "California"
+    },
+    {
+      "objectId": "slide_1273_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4396021434820647,
+          "y": 0.24128900554097404,
+          "width": 0.38926345144356955,
+          "height": 0.689862350539516
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_1273"
+}

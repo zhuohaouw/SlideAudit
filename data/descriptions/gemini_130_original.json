@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0606_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.042,
+          "y": 0.064,
+          "width": 0.34501312335958007,
+          "height": 0.1689122193059201
+        }
+      },
+      "textContent": "Evolution of Language 🗣️"
+    },
+    {
+      "objectId": "slide_0606_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.036,
+          "y": 0.30044444444444446,
+          "width": 0.352001312335958,
+          "height": 0.6026829979585885
+        }
+      },
+      "textContent": "Origins in primate communication\nDevelopment of symbolic communication\nEmergence of grammar and syntax\nWriting systems and literacy\nLanguage's role in cultural evolution"
+    },
+    {
+      "objectId": "slide_0606_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.43700787401574803,
+          "y": 0.0,
+          "width": 0.562992125984252,
+          "height": 1.0
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0606"
+}

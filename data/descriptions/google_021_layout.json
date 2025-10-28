@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1297_1_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1297_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.029300087489063868,
+          "y": 0.12104073101973364,
+          "width": 0.6603346456692913,
+          "height": 0.32691746864975213
+        }
+      },
+      "textContent": "Invest Wisely\nMoney Habitudes for Long-Term Growth - Pro Guidance"
+    },
+    {
+      "objectId": "slide_1297_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05555555555555555,
+          "y": 0.8581584524156702,
+          "width": 0.2182742782152231,
+          "height": 0.05511811023622047
+        }
+      },
+      "textContent": "Money Habitudes"
+    }
+  ],
+  "slide_id": "slide_1297"
+}

@@ -1,0 +1,148 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1607_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7583333333333333,
+          "y": 0.9305555555555556,
+          "width": 0.23333333333333334,
+          "height": 0.06944444444444445
+        }
+      },
+      "textContent": "111"
+    },
+    {
+      "objectId": "slide_1607_2_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.18888888888888888,
+          "width": 0.25833333333333336,
+          "height": 0.05555555555555555
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1607_3_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.1,
+          "width": 0.275,
+          "height": 0.25555555555555554
+        }
+      },
+      "textContent": "Performance Measures \nPercent employees with current performance expectations\nEmployee survey ratings on “productive workplace” questions\nOvertime usage\nSick leave usage Number & type of non-disciplinary grievances and disposition"
+    },
+    {
+      "objectId": "slide_1607_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.09004636920384952
+        }
+      },
+      "textContent": "Deploy Workforce |"
+    },
+    {
+      "objectId": "slide_1607_5_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.35833333333333334,
+          "y": 0.0,
+          "width": 0.6083333333333333,
+          "height": 0.08472222222222223
+        }
+      },
+      "textContent": "Employee time and talent is used effectively. Employees motivated."
+    },
+    {
+      "objectId": "slide_1607_6_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.3,
+          "height": 0.03564814814814815
+        }
+      },
+      "textContent": "HR Management Report category:"
+    },
+    {
+      "objectId": "slide_1607_8_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8,
+          "y": 0.36666666666666664,
+          "width": 0.2,
+          "height": 0.10578710994459026
+        }
+      },
+      "textContent": "Overall average score for “productive workplace” questions is 4.1%"
+    },
+    {
+      "objectId": "slide_1607_9_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.75,
+          "y": 0.1,
+          "width": 0.225,
+          "height": 0.284027850685331
+        }
+      },
+      "textContent": "Analysis:\nWhile we appear successful in showing respect and providing clear expectations, we can improve in areas of feedback and recognition."
+    },
+    {
+      "objectId": "slide_1607_10_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.75,
+          "y": 0.4,
+          "width": 0.225,
+          "height": 0.31087970253718283
+        }
+      },
+      "textContent": "Action Steps:\nReview recognition program for meaningful tools & effectiveness.\nReview communication methods for practices and potential gaps"
+    },
+    {
+      "objectId": "slide_1607_11_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.041666666666666664,
+          "y": 0.7666666666666667,
+          "width": 0.4083333333333333,
+          "height": 0.03564814814814815
+        }
+      },
+      "textContent": "SPACE FOR AGENCY’S DISCRETIONARY USE"
+    },
+    {
+      "objectId": "slide_1607_12_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.08333333333333333,
+          "y": 0.5777777777777777,
+          "width": 0.16666666666666666,
+          "height": 0.08009259259259259
+        }
+      },
+      "textContent": "DOUBLE CLICK ON THE BAR CHARTS TO ENTER YOUR AGENCY’S DATA"
+    }
+  ],
+  "slide_id": "slide_1607"
+}

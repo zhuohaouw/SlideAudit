@@ -1,0 +1,36 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0505_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.044444444444444446,
+          "width": 1.0,
+          "height": 0.9555555555555556
+        }
+      },
+      "textContent": "THESE SLIDES WERE DEVELOPED FOR CLASSES COORDINATED BY MARY HILL OR CLAIRE TIEDEMAN SINCE 1992. THE SLIDES ARE FREELY AVAILABLE FROM THE WEB SITE FOR THE TEXT BOOK BY HILL AND TIEDEMAN (2007, WILEY) AT HTTP://WATER.USGS.GOV/LOOKUP/GET?RESEARCH/HILL_TIEDEMAN_BOOK. \nCONTRIBUTORS TO THE SLIDES INCLUDE \nMary C. Hill             Claire R. Tiedeman                                           U.S. \nRichard L. Cooley (retired)                                                      Geological\nEdward Banta                                                                                 Survey\nMarshall Gannett      D. Matthew Ely\nArlen Harbaugh        Howard Reeves\nSteffen Mehl (now at California State Univ, Chico)\nEvan Anderman, formerly Calibra Consultants, McDonald Morrissey\nMatt Tonkin, SS Papadopulos and Associates \nGilbert Barth, SS Papadopulos and Associates \nHEIDI CHRISTENSEN BARLEBO, GEUS\nFrank Smits,  Dutch hydrologist\nWillem Jan Zaadnoordijk, Royal Haskoning, the Netherlands"
+    },
+    {
+      "objectId": "slide_0505_2_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8046875546806649,
+          "y": 0.4888888888888889,
+          "width": 0.1953124453193351,
+          "height": 0.07546296296296297
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.emf",
+          "content_type": "image/x-wmf"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0505"
+}

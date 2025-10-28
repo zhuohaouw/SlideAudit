@@ -1,0 +1,351 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0929_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.061153215223097114,
+          "y": 0.025706620005832605,
+          "width": 0.9036457786526684,
+          "height": 0.06435185185185185
+        }
+      },
+      "textContent": "2010 Interns"
+    },
+    {
+      "objectId": "slide_0929_2_TABLE (19)",
+      "type": "TABLE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8159722222222222,
+          "y": 0.5574074074074075,
+          "width": 0.11718766404199475,
+          "height": 0.07037037037037037
+        }
+      },
+      "table": {
+        "rows": 2,
+        "columns": 2,
+        "cells": [
+          {
+            "rowIndex": 0,
+            "columnIndex": 0,
+            "textContent": ""
+          },
+          {
+            "rowIndex": 0,
+            "columnIndex": 1,
+            "textContent": "FNAL"
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 0,
+            "textContent": ""
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 1,
+            "textContent": "ANL"
+          }
+        ]
+      }
+    },
+    {
+      "objectId": "slide_0929_3_TABLE (19)",
+      "type": "TABLE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.09635422134733158,
+          "y": 0.5,
+          "width": 0.4520832239720035,
+          "height": 0.45532429279673375
+        }
+      },
+      "table": {
+        "rows": 11,
+        "columns": 4,
+        "cells": [
+          {
+            "rowIndex": 0,
+            "columnIndex": 0,
+            "textContent": ""
+          },
+          {
+            "rowIndex": 0,
+            "columnIndex": 1,
+            "textContent": "2008"
+          },
+          {
+            "rowIndex": 0,
+            "columnIndex": 2,
+            "textContent": "2009"
+          },
+          {
+            "rowIndex": 0,
+            "columnIndex": 3,
+            "textContent": "2010"
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 0,
+            "textContent": "Argonne"
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 1,
+            "textContent": "6"
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 2,
+            "textContent": "6"
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 3,
+            "textContent": "5"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 0,
+            "textContent": "FNAL"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 1,
+            "textContent": "5"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 2,
+            "textContent": "5"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 3,
+            "textContent": "6"
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 0,
+            "textContent": "Total offers"
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 1,
+            "textContent": "13"
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 2,
+            "textContent": "14"
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 3,
+            "textContent": "14"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 0,
+            "textContent": "Rejections"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 1,
+            "textContent": "2"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 2,
+            "textContent": "3"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 3,
+            "textContent": "3"
+          },
+          {
+            "rowIndex": 5,
+            "columnIndex": 0,
+            "textContent": "Males"
+          },
+          {
+            "rowIndex": 5,
+            "columnIndex": 1,
+            "textContent": "10"
+          },
+          {
+            "rowIndex": 5,
+            "columnIndex": 2,
+            "textContent": "9"
+          },
+          {
+            "rowIndex": 5,
+            "columnIndex": 3,
+            "textContent": "9"
+          },
+          {
+            "rowIndex": 6,
+            "columnIndex": 0,
+            "textContent": "Females"
+          },
+          {
+            "rowIndex": 6,
+            "columnIndex": 1,
+            "textContent": "1"
+          },
+          {
+            "rowIndex": 6,
+            "columnIndex": 2,
+            "textContent": "2"
+          },
+          {
+            "rowIndex": 6,
+            "columnIndex": 3,
+            "textContent": "3"
+          },
+          {
+            "rowIndex": 7,
+            "columnIndex": 0,
+            "textContent": "non-US"
+          },
+          {
+            "rowIndex": 7,
+            "columnIndex": 1,
+            "textContent": "3"
+          },
+          {
+            "rowIndex": 7,
+            "columnIndex": 2,
+            "textContent": "2"
+          },
+          {
+            "rowIndex": 7,
+            "columnIndex": 3,
+            "textContent": "4"
+          },
+          {
+            "rowIndex": 8,
+            "columnIndex": 0,
+            "textContent": "Illinois schools"
+          },
+          {
+            "rowIndex": 8,
+            "columnIndex": 1,
+            "textContent": "5"
+          },
+          {
+            "rowIndex": 8,
+            "columnIndex": 2,
+            "textContent": "2"
+          },
+          {
+            "rowIndex": 8,
+            "columnIndex": 3,
+            "textContent": "0"
+          },
+          {
+            "rowIndex": 9,
+            "columnIndex": 0,
+            "textContent": "Sophomores"
+          },
+          {
+            "rowIndex": 9,
+            "columnIndex": 1,
+            "textContent": "1"
+          },
+          {
+            "rowIndex": 9,
+            "columnIndex": 2,
+            "textContent": "3"
+          },
+          {
+            "rowIndex": 9,
+            "columnIndex": 3,
+            "textContent": "2"
+          },
+          {
+            "rowIndex": 10,
+            "columnIndex": 0,
+            "textContent": "Juniors"
+          },
+          {
+            "rowIndex": 10,
+            "columnIndex": 1,
+            "textContent": "10"
+          },
+          {
+            "rowIndex": 10,
+            "columnIndex": 2,
+            "textContent": "8"
+          },
+          {
+            "rowIndex": 10,
+            "columnIndex": 3,
+            "textContent": "9"
+          }
+        ]
+      }
+    },
+    {
+      "objectId": "slide_0929_4_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.46440977690288715,
+          "y": 0.9562500729075533,
+          "width": 0.2189235564304462,
+          "height": 0.03310177894429863
+        }
+      },
+      "textContent": "6/11/2010"
+    },
+    {
+      "objectId": "slide_0929_5_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.9118055555555555,
+          "y": 0.9527777777777777,
+          "width": 0.06440977690288714,
+          "height": 0.03333333333333333
+        }
+      },
+      "textContent": "18"
+    },
+    {
+      "objectId": "slide_0929_6_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.9562500729075533,
+          "width": 0.4,
+          "height": 0.03333333333333333
+        }
+      },
+      "textContent": "E. Prebys – Lee Teng Welcome"
+    },
+    {
+      "objectId": "slide_0929_7_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.07222222222222222,
+          "y": 0.08981481481481482,
+          "width": 0.8819444444444444,
+          "height": 0.40208340624088657
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.emf",
+          "content_type": "image/x-wmf"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0929"
+}

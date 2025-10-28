@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2338_1_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5237654199475066,
+          "y": 0.5168724117818606,
+          "width": 0.05493832020997375,
+          "height": 0.0
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2338_3_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.2740740376202975,
+          "y": 0.05452668416447944,
+          "width": 0.4687836832895888,
+          "height": 0.08526902887139108
+        }
+      },
+      "textContent": "Spatial Analysis Model"
+    }
+  ],
+  "slide_id": "slide_2338"
+}

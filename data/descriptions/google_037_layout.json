@@ -1,0 +1,199 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0098_1_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.36886165791776027,
+          "y": 0.30796675415573055,
+          "width": 0.26211811023622045,
+          "height": 0.5918518518518519
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0098_2_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6555791776027996,
+          "y": 0.30796675415573055,
+          "width": 0.2621180008748906,
+          "height": 0.5918518518518519
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0098_3_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.14879848352289296,
+          "width": 0.1430903324584427,
+          "height": 0.12469135802469136
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0098_4_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8578396762904636,
+          "y": 0.8170650335374745,
+          "width": 0.12430555555555556,
+          "height": 0.15172820064158646
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0098_5_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8438514873140858,
+          "y": 0.0,
+          "width": 0.15553947944007,
+          "height": 0.1917808885000486
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0098_6_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.39820363079615045,
+          "y": 0.438074268494216,
+          "width": 0.0029753937007874014,
+          "height": 0.005289588801399825
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0098_7_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": -0.0004523184601924759,
+          "y": 0.3079665597355886,
+          "width": 0.344742782152231,
+          "height": 0.6920808787790416
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0098_8_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.39820363079615045,
+          "y": 0.6093706620005832,
+          "width": 0.004166666666666667,
+          "height": 0.007407407407407408
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0098_9_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.39820363079615045,
+          "y": 0.8491853796053271,
+          "width": 0.004166666666666667,
+          "height": 0.007407407407407408
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0098_10_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3829804243219598,
+          "y": 0.3478536016331292,
+          "width": 0.24173228346456693,
+          "height": 0.5715952172645086
+        }
+      },
+      "textContent": "I M P O R N T A N C E S\nValidates fiour concept:  Prototfiping helps fiou  validate fiour business  idea and demonstrate its  potential to investors.\nReduces risks: Bfi  identiffiing flaws and  opportunities earlfi on,  prototfiping reduces the  risks associated with  development and  investment.\nEnhances communication:"
+    },
+    {
+      "objectId": "slide_0098_11_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.1322529527559055,
+          "y": 0.15353378049965977,
+          "width": 0.7229330708661418,
+          "height": 0.12137649460484107
+        }
+      },
+      "textContent": "Understanding Prototyping"
+    },
+    {
+      "objectId": "slide_0098_12_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.11022178477690289,
+          "y": 0.3478536016331292,
+          "width": 0.21190944881889764,
+          "height": 0.44701079031787694
+        }
+      },
+      "textContent": "W H A T\tI T\tI S\nPrototfiping is the  process of creating a  preliminarfi model or  version of a product or  service to test its  feasibilitfi, functionalitfi,  and user experience.\nIt allows fiou to visualize  concepts, gather  feedback, and refine fiour  idea before investing  significant resources into  full-scale development."
+    },
+    {
+      "objectId": "slide_0098_13_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6549253062117235,
+          "y": 0.3231457178963741,
+          "width": 0.2661745406824147,
+          "height": 0.5244094488188976
+        }
+      },
+      "textContent": "T Y P E S\nPaper Prototfipes: Low-fidelitfi  sketches or mock-ups used to  visualize the basic lafiout and  functionalitfi of a product or  service.\nDigital Prototfipes: Interactive  simulations or wireframes created  using prototfiping tools to  demonstrate user interactions and  workflows.\nFunctional Prototfipes: Partial or  fullfi functional versions of a  product or service that mimic its  core features and functionalities."
+    }
+  ],
+  "slide_id": "slide_0098"
+}

@@ -1,0 +1,126 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0670_1_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.016666776027996502,
+          "y": 0.13456780402449695,
+          "width": 0.20972222222222223,
+          "height": 0.37695479731700204
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0670_2_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.5691357538641003,
+          "width": 0.2777777777777778,
+          "height": 0.33086424613589965
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0670_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3416667760279965,
+          "y": 0.24320997375328085,
+          "width": 0.31527777777777777,
+          "height": 0.2469135316418781
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0670_4_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.35833333333333334,
+          "y": 0.5493827646544182,
+          "width": 0.2777777777777778,
+          "height": 0.33086424613589965
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0670_5_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7666667760279965,
+          "y": 0.14444444444444443,
+          "width": 0.20972222222222223,
+          "height": 0.3753086905803441
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0670_6_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7,
+          "y": 0.5888888888888889,
+          "width": 0.2777777777777778,
+          "height": 0.32921813939924177
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0670_7_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.2666667760279965,
+          "y": 0.07530869058034412,
+          "width": 0.48317989938757655,
+          "height": 0.15707465733449985
+        }
+      },
+      "textContent": "Biodiversity Hotspots"
+    }
+  ],
+  "slide_id": "slide_0670"
+}

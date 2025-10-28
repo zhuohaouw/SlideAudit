@@ -1,0 +1,57 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2398_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4320832239720035,
+          "y": 0.03531466899970837,
+          "width": 0.3866797900262467,
+          "height": 0.18197725284339458
+        }
+      },
+      "textContent": "Curbside Management"
+    },
+    {
+      "objectId": "slide_2398_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6089062773403324,
+          "y": 0.6843938952075435,
+          "width": 0.017388451443569555,
+          "height": 0.043277923592884224
+        }
+      },
+      "textContent": "‹#›"
+    },
+    {
+      "objectId": "slide_2398_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4320832239720035,
+          "y": 0.1746297268397006,
+          "width": 0.5000656167979003,
+          "height": 0.9023622047244094
+        }
+      },
+      "textContent": "Reliable access for delivery services and for critical building access needs\nDemand management for curb use in business districts\nLeverage new technologies to prioritize, \tprice, and enforce curbspace\nElectric and smaller delivery vehicles in \tdenser neighborhoods\nUse curb space to support businesses and public life, such as outdoor dining\nAccess for those with limited mobility"
+    },
+    {
+      "objectId": "slide_2398_5_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.08523436132983377,
+          "y": 0.5659165937591134,
+          "width": 0.30941601049868767,
+          "height": 0.379119276757072
+        }
+      },
+      "textContent": "“Since curb space and access needs vary in neighborhood commercial districts, businesses and affected neighbors should be involved in decision-making around any access restrictions in their\ncommunity.”\nSurvey Participant, Phase 2A Survey Results"
+    }
+  ],
+  "slide_id": "slide_2398"
+}

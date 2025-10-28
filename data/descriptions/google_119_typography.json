@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0216_1_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.058333333333333334,
+          "y": 0.2222222222222222,
+          "width": 0.875,
+          "height": 0.6777777777777778
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0216_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03333333333333333,
+          "y": 0.040046271993778554,
+          "width": 0.9416666666666667,
+          "height": 0.16669582968795568
+        }
+      },
+      "textContent": "Historical Context\u000bWhat Was Happening in the World in the 1950s?"
+    },
+    {
+      "objectId": "slide_0216_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.23333333333333334,
+          "width": 0.9,
+          "height": 0.6888888888888889
+        }
+      },
+      "textContent": "World War II had ended only a few years earlier.\nNuclear warfare loomed.\nMore jobs led to Americans having more discretionary income which led to increased passivity and conformity and the adage of: “Follow orders, and you will succeed.”\nEra of McCarthyism brought new vigor to Truman’s hunt for Communist infiltrators.\nTechnology/electronics expansion included the use of televised surveillance footage for many purposes and the condensation of information into sound bites.\nIlliteracy was growing."
+    }
+  ],
+  "slide_id": "slide_0216"
+}

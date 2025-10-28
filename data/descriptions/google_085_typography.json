@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1233_1_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.9106481967531836,
+          "width": 0.23333333333333334,
+          "height": 0.0694079906678332
+        }
+      },
+      "textContent": "OwlTeacher.com"
+    },
+    {
+      "objectId": "slide_1233_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.041666666666666664,
+          "y": 0.07777777777777778,
+          "width": 0.9,
+          "height": 0.8111402741324001
+        }
+      },
+      "textContent": "Chapter 1:\nWhat is Geography?\n\n*It is the study of our earth; our home.\nOR\n*Anything that can be mapped!"
+    }
+  ],
+  "slide_id": "slide_1233"
+}

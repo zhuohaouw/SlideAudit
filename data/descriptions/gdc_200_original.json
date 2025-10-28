@@ -1,0 +1,165 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2208_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7166666666666667,
+          "y": 0.9106481481481481,
+          "width": 0.23333333333333334,
+          "height": 0.06944444444444445
+        }
+      },
+      "textContent": "200"
+    },
+    {
+      "objectId": "slide_2208_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.075,
+          "y": 0.012037037037037037,
+          "width": 0.85,
+          "height": 0.12222222222222222
+        }
+      },
+      "textContent": "Climate Outlook Products"
+    },
+    {
+      "objectId": "slide_2208_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06666666666666667,
+          "y": 0.14444444444444443,
+          "width": 0.6,
+          "height": 0.6097222222222223
+        }
+      },
+      "textContent": "Focus on week-2 to                 seasonal-to-interannual\n6-10 Day & 8-14 Day                                 Precipitation & Temperature Outlooks\nDay 3-14 Hazards Assessments                                  (US, Global Tropics)\nMonthly & Seasonal                               Precipitation & Temperature Outlooks\nSeasonal Drought Outlook                                                                                                       \nSeasonal Hurricane Outlooks                                                                   (Atlantic and Eastern Pacific)\nMonthly ENSO Prediction"
+    },
+    {
+      "objectId": "slide_2208_4_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.029687554680664918,
+          "y": 0.7851851851851852,
+          "width": 0.9168402230971129,
+          "height": 0.13356488772236805
+        }
+      },
+      "textContent": "Note: \tWe recognize that we need to do more than T & P – and in \tparticular – more climate-weather type products, more \tvariables.  What do users need?"
+    },
+    {
+      "objectId": "slide_2208_5_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6894097769028872,
+          "y": 0.15347229512977545,
+          "width": 0.13663188976377952,
+          "height": 0.21643511227763196
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2208_6_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8340277777777778,
+          "y": 0.20717599883347915,
+          "width": 0.13368055555555555,
+          "height": 0.12800918635170605
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2208_7_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8326388888888889,
+          "y": 0.34675925925925927,
+          "width": 0.13038199912510937,
+          "height": 0.1476851851851852
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2208_8_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8310764435695538,
+          "y": 0.5055555555555555,
+          "width": 0.13177077865266842,
+          "height": 0.1317130358705162
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2208_9_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6883681102362205,
+          "y": 0.38287037037037036,
+          "width": 0.13559022309711286,
+          "height": 0.1516204432779236
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2208_10_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6923611111111111,
+          "y": 0.5435185185185185,
+          "width": 0.1310764435695538,
+          "height": 0.14930562846310877
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_2208"
+}

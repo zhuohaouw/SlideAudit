@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2268_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.022692913385826772,
+          "width": 0.9,
+          "height": 0.15234762321376494
+        }
+      },
+      "textContent": "How to"
+    },
+    {
+      "objectId": "slide_2268_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.18923592884222806,
+          "width": 0.441994750656168,
+          "height": 0.5290755322251385
+        }
+      },
+      "textContent": "Complete each slide with the definition of each term. Try to make it visually appealing."
+    },
+    {
+      "objectId": "slide_2268_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5079995625546807,
+          "y": 0.18923592884222806,
+          "width": 0.441994750656168,
+          "height": 0.5290755322251385
+        }
+      },
+      "textContent": "Remember to include the definition and an example from a poem."
+    }
+  ],
+  "slide_id": "slide_2268"
+}

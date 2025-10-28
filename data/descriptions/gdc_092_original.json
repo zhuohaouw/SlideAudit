@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2079_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.103125,
+          "y": 0.029861184018664333,
+          "width": 0.7826388888888889,
+          "height": 0.18541659375911346
+        }
+      },
+      "textContent": "Participation on the Network Drives Governance and Accountability Challenges"
+    },
+    {
+      "objectId": "slide_2079_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.1,
+          "y": 0.4,
+          "width": 0.837673665791776,
+          "height": 0.6
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2079_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.175,
+          "y": 0.31504636920384954,
+          "width": 0.6416666666666667,
+          "height": 0.5516202974628172
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_2079"
+}

@@ -1,0 +1,57 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1257_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.1,
+          "y": 0.04004636920384952,
+          "width": 0.85,
+          "height": 0.11550918635170604
+        }
+      },
+      "textContent": "How has the economy changed?"
+    },
+    {
+      "objectId": "slide_1257_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.01597222222222222,
+          "y": 0.9055555555555556,
+          "width": 0.05,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": "198"
+    },
+    {
+      "objectId": "slide_1257_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.1,
+          "y": 0.15555555555555556,
+          "width": 0.85,
+          "height": 0.6666666666666666
+        }
+      },
+      "textContent": "Three important characteristics:\n1. Each state is hollowing out – typical establishment is now less dependent on sources of inputs within the state and on markets within the state ---- ripple effects of change within the state are now smaller than 20 years ago\n2. Structure of production is changing – fragmentation is now a characteristic of production\nThe value chain is now longer\nFirms are organizing production to exploit economies of scale in individual plants in specialized component production and shipping to other plants to add further components"
+    },
+    {
+      "objectId": "slide_1257_5_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.20156255468066492,
+          "y": 0.9055555555555556,
+          "width": 0.5901041119860018,
+          "height": 0.06736118401866434
+        }
+      },
+      "textContent": "State 1                                          State 2"
+    }
+  ],
+  "slide_id": "slide_1257"
+}

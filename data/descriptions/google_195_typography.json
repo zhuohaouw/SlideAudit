@@ -1,0 +1,43 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1064_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.020048665791776027,
+          "y": 0.08514630115679984,
+          "width": 0.5268700787401575,
+          "height": 0.8693496646252552
+        }
+      },
+      "textContent": "Targets:\nCompare artificial selection to natural selection\nExplain the factors Darwin considered in forming the theory of natural selection\nSummarize the 4 principles of natural selection"
+    },
+    {
+      "objectId": "slide_1064_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5346538713910761,
+          "y": 0.08514630115679984,
+          "width": 0.43126640419947504,
+          "height": 0.8594342373869933
+        }
+      },
+      "textContent": "Vocabulary\n\nArtificial selection\nHeritability\nNatural selection\nPopulation\nFitness"
+    },
+    {
+      "objectId": "slide_1064_3_LINE (9)",
+      "type": "LINE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5524715660542432,
+          "y": 0.005939535335860795,
+          "width": 0.0033464566929133858,
+          "height": 0.9941090696996209
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_1064"
+}

@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1737_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0939582239720035,
+          "y": 0.07224691358024692,
+          "width": 0.800984251968504,
+          "height": 0.08900554097404491
+        }
+      },
+      "textContent": "Future directions?"
+    },
+    {
+      "objectId": "slide_1737_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.956206583552056,
+          "y": 0.9363935063672596,
+          "width": 0.017191601049868766,
+          "height": 0.021230679498396035
+        }
+      },
+      "textContent": "‹#›"
+    },
+    {
+      "objectId": "slide_1737_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.04478127734033246,
+          "y": 0.46035714980071935,
+          "width": 0.8104658792650918,
+          "height": 0.48381452318460194
+        }
+      },
+      "textContent": "Additional research needed to support the alignment of new data sources to the intended construct\nRich literature for measuring the alignment of traditional items\nMethods for evaluating invariance across different groups\nResponse time may be systematically different for students with \textensive support needs, or students in rural areas with limited \tinternet bandwidth"
+    }
+  ],
+  "slide_id": "slide_1737"
+}

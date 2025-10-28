@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1812_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.044444444444444446,
+          "width": 0.38900918635170606,
+          "height": 0.16354622338874308
+        }
+      },
+      "textContent": "The Science of Blushing"
+    },
+    {
+      "objectId": "slide_1812_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.3111111111111111,
+          "width": 0.38900918635170606,
+          "height": 0.6453193350831146
+        }
+      },
+      "textContent": "Blushing is an involuntary reaction\nBlood vessels in the face dilate\nThis increases blood flow\nAssociated with emotions like embarrassment, shame, or shyness\nExact mechanism is unknown\nCould be a way of showing submission or remorse"
+    },
+    {
+      "objectId": "slide_1812_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.463,
+          "y": 0.044444444444444446,
+          "width": 0.5129921259842519,
+          "height": 0.9119860017497813
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_1812"
+}

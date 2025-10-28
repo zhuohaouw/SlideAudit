@@ -1,0 +1,101 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1075_1_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5808332239720035,
+          "y": 0.037254787595994945,
+          "width": 0.36816174540682417,
+          "height": 0.8088233693010596
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1075_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.02454604111986002,
+          "y": 0.07288052882278603,
+          "width": 0.44524278215223095,
+          "height": 0.0978710994459026
+        }
+      },
+      "textContent": "Background: Problem"
+    },
+    {
+      "objectId": "slide_1075_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.8973035870516185,
+          "width": 0.3500984251968504,
+          "height": 0.025721784776902887
+        }
+      },
+      "textContent": "Date (xx/xx/xxxx)\tDepartment Name\tPage Number"
+    },
+    {
+      "objectId": "slide_1075_4_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.013661745406824147,
+          "y": 0.5917491980169145,
+          "width": 0.059514435695538055,
+          "height": 0.06188393117526976
+        }
+      },
+      "textContent": "May 22, 2019"
+    },
+    {
+      "objectId": "slide_1075_5_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.10449628171478566,
+          "y": 0.5917491980169145,
+          "width": 0.164501312335958,
+          "height": 0.06188393117526976
+        }
+      },
+      "textContent": "Seattle Department of Transportation"
+    },
+    {
+      "objectId": "slide_1075_6_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3523807961504812,
+          "y": 0.5920087489063867,
+          "width": 0.010301837270341207,
+          "height": 0.029921259842519685
+        }
+      },
+      "textContent": "‹#›"
+    },
+    {
+      "objectId": "slide_1075_7_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0318248031496063,
+          "y": 0.22895421405657626,
+          "width": 0.5371062992125984,
+          "height": 0.7851851851851852
+        }
+      },
+      "textContent": "Block the box and transit lane violations have \ta negative impact on mobility, safety, and \temergency response\nSDOT field observation at just one location \t(4th and Battery) in January 2018 showed:\nBlock the Box: average of 6 violations per day, high of 53\nTransit Lane: average of 361 violations per day, high of 418\nManual UPO enforcement is resource \tintensive and often further obstructs traffic"
+    }
+  ],
+  "slide_id": "slide_1075"
+}

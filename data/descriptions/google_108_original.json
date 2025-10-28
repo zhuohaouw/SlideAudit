@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0540_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.027126859142607176,
+          "width": 0.9,
+          "height": 0.16669582968795568
+        }
+      },
+      "textContent": "Why are goals important?"
+    },
+    {
+      "objectId": "slide_0540_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.23333333333333334,
+          "width": 0.9,
+          "height": 0.7243511227763196
+        }
+      },
+      "textContent": "They provide direction\nThey focus commitment \nThey help us MAKE the future, rather than just letting it happen.\n95% of people do not write down their goals\nWrite them? 85% higher chance of achievement"
+    },
+    {
+      "objectId": "slide_0540_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6805200131233596,
+          "y": 0.027126470302323322,
+          "width": 0.3125,
+          "height": 0.4148148148148148
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0540"
+}

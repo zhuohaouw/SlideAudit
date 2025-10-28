@@ -1,0 +1,591 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0486_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7916666666666666,
+          "y": 0.9333333333333333,
+          "width": 0.20833333333333334,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": "150"
+    },
+    {
+      "objectId": "slide_0486_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.14444444444444443
+        }
+      },
+      "textContent": "Outline"
+    },
+    {
+      "objectId": "slide_0486_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.15555555555555556,
+          "width": 0.49166666666666664,
+          "height": 0.7666666666666667
+        }
+      },
+      "textContent": "Introduction:\nThe CDF detector and it’s performance\nThe Strong Interaction:\nInclusive jet production\nB-quark production\nThe Flavour Sector:\nSearches for New B-hadrons\nBs Oscillations\nElectroweak Symmetry Breaking\nThe top quark\nThe Higgs boson\nBeyond the Standard Model:\nSupersymmetry\nExtra Dimensions\nModel independent searches\nConclusions"
+    },
+    {
+      "objectId": "slide_0486_4_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4496527777777778,
+          "y": 0.14444444444444443,
+          "width": 0.5383681102362204,
+          "height": 0.7777777777777778
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0486_5_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8670138888888889,
+          "y": 0.649074074074074,
+          "width": 0.04461811023622047,
+          "height": 0.052314814814814814
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_6_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8710069991251094,
+          "y": 0.5981481481481481,
+          "width": 0.049305555555555554,
+          "height": 0.05
+        }
+      },
+      "textContent": "LQ"
+    },
+    {
+      "objectId": "slide_0486_7_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6118055555555556,
+          "y": 0.4111111111111111,
+          "width": 0.004861111111111111,
+          "height": 0.2488426655001458
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_8_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5583333333333333,
+          "y": 0.6523148148148148,
+          "width": 0.13819444444444445,
+          "height": 0.08472222222222223
+        }
+      },
+      "textContent": "8 orders of magnitude"
+    },
+    {
+      "objectId": "slide_0486_9_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7239583333333334,
+          "y": 0.583101924759405,
+          "width": 0.07326388888888889,
+          "height": 0.07523140857392827
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.wmf",
+          "content_type": "image/x-wmf"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0486_10_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.628125,
+          "y": 0.2824074074074074,
+          "width": 0.025694444444444443,
+          "height": 0.06689822105570137
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.wmf",
+          "content_type": "image/x-wmf"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0486_11_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7163194444444444,
+          "y": 0.42824074074074076,
+          "width": 0.06892366579177603,
+          "height": 0.03333333333333333
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.wmf",
+          "content_type": "image/x-wmf"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0486_12_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6295138888888889,
+          "y": 0.4076389617964421,
+          "width": 0.06197922134733158,
+          "height": 0.03148148148148148
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.wmf",
+          "content_type": "image/x-wmf"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0486_13_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.709375,
+          "y": 0.2895834062408866,
+          "width": 0.03159722222222222,
+          "height": 0.05
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.wmf",
+          "content_type": "image/x-wmf"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0486_14_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5847222222222223,
+          "y": 0.20925925925925926,
+          "width": 0.40694444444444444,
+          "height": 0.03634266550014582
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_15_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5868055555555556,
+          "y": 0.7319444444444444,
+          "width": 0.34270833333333334,
+          "height": 0.03449081364829396
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_16_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7026042213473316,
+          "y": 0.6893518518518519,
+          "width": 0.011805555555555555,
+          "height": 0.07384266550014582
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_17_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.703125,
+          "y": 0.6587962962962963,
+          "width": 0.01961811023622047,
+          "height": 0.1053241469816273
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_18_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7071181102362205,
+          "y": 0.7013888888888888,
+          "width": 0.018576334208223973,
+          "height": 0.054861184018664334
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_19_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8038194444444444,
+          "y": 0.7439814814814815,
+          "width": 0.011458333333333333,
+          "height": 0.07407407407407407
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_20_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7864583333333334,
+          "y": 0.6958333333333333,
+          "width": 0.01927088801399825,
+          "height": 0.12083333333333333
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_21_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7854166666666667,
+          "y": 0.7659722951297755,
+          "width": 0.018576443569553805,
+          "height": 0.05486103820355789
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_22_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5868055555555556,
+          "y": 0.2351851851851852,
+          "width": 0.4013888888888889,
+          "height": 0.02199081364829396
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_24_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7479166666666667,
+          "y": 0.21365748031496062,
+          "width": 0.09843755468066492,
+          "height": 0.03518518518518519
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_25_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7927083333333333,
+          "y": 0.14467599883347915,
+          "width": 0.027430555555555555,
+          "height": 0.0446758530183727
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_26_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7741319991251093,
+          "y": 0.1516204432779236,
+          "width": 0.01197911198600175,
+          "height": 0.015509186351706037
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_27_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7798611111111111,
+          "y": 0.16712962962962963,
+          "width": 0.0,
+          "height": 0.04513896179644211
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_28_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.78125,
+          "y": 0.17800933216681247,
+          "width": 0.019444444444444445,
+          "height": 0.0
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_29_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7960069991251094,
+          "y": 0.17199081364829397,
+          "width": 0.007465223097112861,
+          "height": 0.009722222222222222
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_30_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7972222222222223,
+          "y": 0.5317130358705162,
+          "width": 0.022569444444444444,
+          "height": 0.02361111111111111
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_31_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7963542213473316,
+          "y": 0.5451389617964421,
+          "width": 0.019097222222222224,
+          "height": 0.03773140857392826
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_32_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8777777777777778,
+          "y": 0.21435185185185185,
+          "width": 0.09861111111111111,
+          "height": 0.03541673957421989
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_34_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.9041666666666667,
+          "y": 0.1456019247594051,
+          "width": 0.0,
+          "height": 0.528009186351706
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_36_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7815972222222223,
+          "y": 0.462037037037037,
+          "width": 0.06111111111111111,
+          "height": 0.06111111111111111
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.wmf",
+          "content_type": "image/x-wmf"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0486_37_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8199653324584427,
+          "y": 0.14467599883347915,
+          "width": 0.0,
+          "height": 0.3946758530183727
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_38_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6692708880139983,
+          "y": 0.5310185185185186,
+          "width": 0.04774300087489064,
+          "height": 0.07314814814814814
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.wmf",
+          "content_type": "image/x-wmf"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0486_39_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7916666666666666,
+          "y": 0.712037037037037,
+          "width": 0.05364588801399825,
+          "height": 0.021064887722368038
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_40_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7916666666666666,
+          "y": 0.6777777777777778,
+          "width": 0.059722222222222225,
+          "height": 0.031018518518518518
+        }
+      },
+      "textContent": "Higgs"
+    },
+    {
+      "objectId": "slide_0486_41_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8795138888888889,
+          "y": 0.712037037037037,
+          "width": 0.030729221347331585,
+          "height": 0.052546369203849516
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0486_42_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8746527777777777,
+          "y": 0.7321759988334792,
+          "width": 0.03715277777777778,
+          "height": 0.031018518518518518
+        }
+      },
+      "textContent": "ED"
+    },
+    {
+      "objectId": "slide_0486_43_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.9246527777777778,
+          "y": 0.6666666666666666,
+          "width": 0.058333333333333334,
+          "height": 0.13333333333333333
+        }
+      },
+      "textContent": "?"
+    },
+    {
+      "objectId": "slide_0486_44_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.25720483377077863,
+          "y": 0.5019676290463692,
+          "width": 0.43489588801399826,
+          "height": 0.044444444444444446
+        }
+      },
+      "textContent": "PRODUCTION CROSS SECTION"
+    },
+    {
+      "objectId": "slide_0486_45_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5102431102362205,
+          "y": 0.8425925925925926,
+          "width": 0.40729166666666666,
+          "height": 0.14629629629629629
+        }
+      },
+      "textContent": "to Tape: 350k events/hour\nTop: 2.5 events/hour\nW/Z+Higgs: ~0.1 event/hour"
+    }
+  ],
+  "slide_id": "slide_0486"
+}

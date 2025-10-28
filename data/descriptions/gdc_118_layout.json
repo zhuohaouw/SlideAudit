@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0079_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.18333333333333332,
+          "y": 0.06666666666666667,
+          "width": 0.75,
+          "height": 0.1111111111111111
+        }
+      },
+      "textContent": "Review Structure"
+    },
+    {
+      "objectId": "slide_0079_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.12713287401574802,
+          "y": 0.35323884514435694,
+          "width": 0.8666666666666667,
+          "height": 0.6222222222222222
+        }
+      },
+      "textContent": "Three plenary talks:\nDescription of the initial configuration – Paul D.\nHigh level description of systems and interfaces – Sergei N.\nDescription of cost estimating methodology and high level estimate summary – Jim K.\nSeven breakout sessions\nProject Management/Cost/Schedule\tBlack Hole (WH2NW)\nCavities & Cryomodules\t1 North (WH1NW)\nRF\tTheory Conf Rm (WH3NE)\nMain Injector/Recycler/Beam Transfers\tHornets Nest (WH8N)\nInstrumentation and Controls\tReq Room (WH4NW)\nCryogenics\tSnake Pit (WH2NE)\nConventional Facilities\tConfessional (WH5NE)"
+    }
+  ],
+  "slide_id": "slide_0079"
+}

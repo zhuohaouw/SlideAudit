@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0433_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.23333333333333334,
+          "width": 0.9,
+          "height": 0.7058034412365121
+        }
+      },
+      "textContent": "EFFECTS\nON OTHERS"
+    },
+    {
+      "objectId": "slide_0433_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.0025900651307475455,
+          "width": 0.9,
+          "height": 0.16669582968795568
+        }
+      },
+      "textContent": "INDIRECT CHARACTERIZATION"
+    }
+  ],
+  "slide_id": "slide_0433"
+}

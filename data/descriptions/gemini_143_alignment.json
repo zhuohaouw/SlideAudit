@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2055_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.15644502770487023,
+          "width": 0.40793963254593174,
+          "height": 0.1546806649168854
+        }
+      },
+      "textContent": "Evolution of Alphabets"
+    },
+    {
+      "objectId": "slide_2055_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.3697781666180616,
+          "width": 0.40793963254593174,
+          "height": 0.5244677748614757
+        }
+      },
+      "textContent": "Early Writing: Pictograms and Ideograms represented objects and ideas.\nSumerian Cuneiform: Developed from pictographs into a system of wedge-shaped marks.\nEgyptian Hieroglyphs: Combined logographic, syllabic and alphabetic elements.\nPhoenician Alphabet: First widely used alphabet, representing consonant sounds.\nGreek Alphabet: Adapted from Phoenician, added vowels.\nLatin Alphabet: Evolved from Greek, basis for many modern alphabets."
+    },
+    {
+      "objectId": "slide_2055_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.487007874015748,
+          "y": 0.044444444444444446,
+          "width": 0.5129921259842519,
+          "height": 0.9119860017497813
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_2055"
+}

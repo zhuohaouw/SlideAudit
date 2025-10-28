@@ -1,0 +1,98 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1148_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06784437882764655,
+          "y": 0.25868144259745307,
+          "width": 0.36548556430446194,
+          "height": 0.14616506270049578
+        }
+      },
+      "textContent": "Acquisition"
+    },
+    {
+      "objectId": "slide_1148_2_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.04601104549431321,
+          "y": 0.8196937882764654,
+          "width": 0.22785433070866143,
+          "height": 0.08614756488772236
+        }
+      },
+      "textContent": "#brightonseo"
+    },
+    {
+      "objectId": "slide_1148_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3011665573053368,
+          "y": 0.8245923981724507,
+          "width": 0.06299989063867016,
+          "height": 0.0951111111111111
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1148_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6638472222222223,
+          "y": 0.8214713716341013,
+          "width": 0.19520997375328084,
+          "height": 0.08614756488772236
+        }
+      },
+      "textContent": "Lucia Dello"
+    },
+    {
+      "objectId": "slide_1148_5_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3906035651793526,
+          "y": 0.8396694857587246,
+          "width": 0.23222265966754155,
+          "height": 0.0541310391756586
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1148_6_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8526665573053368,
+          "y": 0.034962768542821036,
+          "width": 0.129,
+          "height": 0.09748148148148149
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_1148"
+}

@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0897_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.1564448332847283,
+          "width": 0.40793963254593174,
+          "height": 0.1763567609604355
+        }
+      },
+      "textContent": "Tornado Formation 🌪️"
+    },
+    {
+      "objectId": "slide_0897_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.3697779721979197,
+          "width": 0.40793963254593174,
+          "height": 0.5979638378536016
+        }
+      },
+      "textContent": "Tornadoes are violently rotating columns of air that extend from a thunderstorm to the ground.\nWarm, moist air collides with cold, dry air creating instability.\nWind shear creates a rotating effect.\nUpdraft lifts the rotating air vertically, forming a funnel cloud.\nFunnel cloud touches the ground, becoming a tornado."
+    },
+    {
+      "objectId": "slide_0897_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.463,
+          "y": 0.044444444444444446,
+          "width": 0.5129921259842519,
+          "height": 0.9119860017497813
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0897"
+}

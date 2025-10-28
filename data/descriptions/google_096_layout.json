@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0776_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.04004549431321085,
+          "width": 0.9,
+          "height": 0.19329250510352872
+        }
+      },
+      "textContent": "Survivor Biome \nChallenge"
+    },
+    {
+      "objectId": "slide_0776_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.23333333333333334,
+          "width": 0.9,
+          "height": 0.7243511227763196
+        }
+      },
+      "textContent": "Congratulations! \n(Pick Biome on Google Doc)\nOur 7th grade science students have been accepted onto the show Survivor and will be competing for $1,000,000! The producers of the show have just disclosed the area of the newest Survivor location and students need to research so they can be prepared in order to “outwit, outplay and outlast.” Good luck!"
+    },
+    {
+      "objectId": "slide_0776_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.17934919072615924,
+          "y": 0.09915932730630893,
+          "width": 0.2661307961504812,
+          "height": 0.35484106153397493
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0776"
+}

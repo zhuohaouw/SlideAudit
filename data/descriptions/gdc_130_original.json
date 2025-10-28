@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1391_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.10833333333333334,
+          "y": 0.14444444444444443,
+          "width": 0.8333333333333334,
+          "height": 0.16666666666666666
+        }
+      },
+      "textContent": "Have you attended meetings on students and left feeling like nothing was accomplished?"
+    },
+    {
+      "objectId": "slide_1391_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.10833333333333334,
+          "y": 0.35555555555555557,
+          "width": 0.8333333333333334,
+          "height": 0.6
+        }
+      },
+      "textContent": "Was the meeting…\n  Unfocused with no clear agenda\n  A gripe session about students and/or their parents\n  Participants spend time trying to find a consequence that will “make” the student behave responsibly"
+    }
+  ],
+  "slide_id": "slide_1391"
+}

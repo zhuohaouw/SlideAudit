@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1874_1_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.10801629483814523,
+          "y": 0.00291183046563624,
+          "width": 0.8333333333333334,
+          "height": 0.19444444444444445
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1874_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.040046271993778554,
+          "width": 0.9,
+          "height": 0.16669582968795568
+        }
+      },
+      "textContent": "Concepts Related to Fahrenheit 451:"
+    },
+    {
+      "objectId": "slide_1874_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.18888888888888888,
+          "width": 0.9,
+          "height": 0.7044036162146399
+        }
+      },
+      "textContent": "Social criticism: mode of criticism that addresses malicious conditions in a society considered to be flawed and aims at practical solutions.\n    Fahrenheit 451 warns against the dangers of suppressing thoughts and ideas through censorship\nScience fiction: a form of fantasy in which scientific facts, assumptions, or hypotheses form the basis of adventures in the future, on other planets, in other dimensions in time, or under new variants of scientific law\n\tFahrenheit 451 conveys a message that oppressive government, left unchecked, can do irreparable damage to society by limiting the creativity and freedom of its people."
+    }
+  ],
+  "slide_id": "slide_1874"
+}

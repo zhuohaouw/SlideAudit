@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2188_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.041666666666666664,
+          "y": 0.08888888888888889,
+          "width": 0.7298615485564305,
+          "height": 0.06769728783902013
+        }
+      },
+      "textContent": "All Businesses/Consumers Rely on Goods Movement, But What are Economic Hot Buttons?"
+    },
+    {
+      "objectId": "slide_2188_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.041666666666666664,
+          "y": 0.27708340624088657,
+          "width": 0.47864588801399827,
+          "height": 0.6
+        }
+      },
+      "textContent": "Goods movement businesses (carriers, warehouse/DC, logistics services)\nJobs/communities impacted \u000b(880 corridor, South SF)\nTrends affecting location (Safeway example)\nOpportunities for value and job growth (value-added distribution)\nSignificant industries where transportation affects location"
+    }
+  ],
+  "slide_id": "slide_2188"
+}

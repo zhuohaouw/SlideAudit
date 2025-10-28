@@ -1,0 +1,240 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0464_1_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.044444444444444446,
+          "width": 0.08333333333333333,
+          "height": 0.1
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0464_2_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.13333333333333333,
+          "y": 0.044444444444444446,
+          "width": 0.725,
+          "height": 0.19583333333333333
+        }
+      },
+      "textContent": "Volcanic Ash Detection Capabilities From GOES-R \nBased on Experiments Using NASA MODerate Resolution \nImaging Spectroradiometer (MODIS) Data\nGary P. Ellrod 1 and Jung-Sun Im 2\n1 NOAA/NESDIS, Camp Springs, MD       2 I.M.Systems Group, Camp Springs, MD"
+    },
+    {
+      "objectId": "slide_0464_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 4.983333333333333,
+          "y": 0.18611111111111112,
+          "width": 0.4107638888888889,
+          "height": 0.396527850685331
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0464_4_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 5.0,
+          "y": 0.20833333333333334,
+          "width": 0.4107638888888889,
+          "height": 0.396527850685331
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0464_5_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.875,
+          "y": 0.054861184018664334,
+          "width": 0.09166666666666666,
+          "height": 0.08842592592592592
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0464_6_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.30833333333333335,
+          "y": 0.6888888888888889,
+          "width": 0.434375,
+          "height": 0.19490740740740742
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0464_7_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8,
+          "y": 0.6777777777777778,
+          "width": 0.13003477690288714,
+          "height": 0.23333333333333334
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0464_8_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.35104166666666664,
+          "y": 0.8888888888888888,
+          "width": 0.3734375546806649,
+          "height": 0.044444444444444446
+        }
+      },
+      "textContent": "MODIS 3-band IR                GOES-10 3-band IR"
+    },
+    {
+      "objectId": "slide_0464_9_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8,
+          "y": 0.9268518518518518,
+          "width": 0.13836811023622048,
+          "height": 0.05324074074074074
+        }
+      },
+      "textContent": "Cleveland eruption\n23 Feb 2001"
+    },
+    {
+      "objectId": "slide_0464_10_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03333333333333333,
+          "y": 0.3,
+          "width": 0.30833333333333335,
+          "height": 0.3333333333333333
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0464_11_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.37413199912510936,
+          "y": 0.34953703703703703,
+          "width": 0.5350694444444445,
+          "height": 0.32314814814814813
+        }
+      },
+      "textContent": "MODIS has many of the proposed GOES-R spectral bands at 1 km resolution\nOur poster shows:\nPotential GOES-R volcanic ash detection capabilities using MODIS Infrared (IR), visible, and near-IR data\nComparisons of simulated GOES-R products with current GOES and AVHRR\nExamples for eruptions of Cleveland, Popocatepetl, Tungurahua, and Ruang"
+    },
+    {
+      "objectId": "slide_0464_12_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.6888888888888889,
+          "width": 0.21666666666666667,
+          "height": 0.21712962962962962
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0464_13_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03333333333333333,
+          "y": 0.9111111111111111,
+          "width": 0.2378472222222222,
+          "height": 0.03564814814814815
+        }
+      },
+      "textContent": "Popocatepetl, Mexico, 19 Dec 2000"
+    },
+    {
+      "objectId": "slide_0464_14_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.6333333333333333,
+          "width": 0.32708333333333334,
+          "height": 0.03564814814814815
+        }
+      },
+      "textContent": "Ash cloud from Mt. Cleveland eruption, 19 Feb ‘01"
+    },
+    {
+      "objectId": "slide_0464_15_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.09166666666666666,
+          "y": 0.25555555555555554,
+          "width": 0.8,
+          "height": 0.0
+        }
+      },
+      "textContent": ""
+    }
+  ],
+  "slide_id": "slide_0464"
+}

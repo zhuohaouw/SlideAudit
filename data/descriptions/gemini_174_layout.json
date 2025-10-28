@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2153_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.044444444444444446,
+          "width": 0.38900918635170606,
+          "height": 0.16354622338874308
+        }
+      },
+      "textContent": "The Science Behind Food Cravings"
+    },
+    {
+      "objectId": "slide_2153_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06243416447944007,
+          "y": 0.05364362787984835,
+          "width": 0.38900918635170606,
+          "height": 0.6453193350831146
+        }
+      },
+      "textContent": "Specific foods trigger feel-good chemicals in the brain.\nEvolutionary instincts draw us towards calorie-dense foods.\nSugar, salt, and fat combinations can be addictive.\nCravings and overconsumption can result, despite health risks."
+    },
+    {
+      "objectId": "slide_2153_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.463,
+          "y": 0.044444444444444446,
+          "width": 0.5129921259842519,
+          "height": 0.9119860017497813
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_2153"
+}

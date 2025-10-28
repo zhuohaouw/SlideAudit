@@ -1,0 +1,166 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0590_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.003993110236220472,
+          "y": 0.9618056284631088,
+          "width": 0.12569444444444444,
+          "height": 0.03148148148148148
+        }
+      },
+      "textContent": "25/03/2025"
+    },
+    {
+      "objectId": "slide_0590_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.22899311023622046,
+          "y": 0.9618056284631088,
+          "width": 0.7253472222222223,
+          "height": 0.03148148148148148
+        }
+      },
+      "textContent": "- F. Eozénou -     TTC Meeting WG4 Fermilab"
+    },
+    {
+      "objectId": "slide_0590_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.9539931102362205,
+          "y": 0.9618056284631088,
+          "width": 0.04236111111111111,
+          "height": 0.03148148148148148
+        }
+      },
+      "textContent": "141"
+    },
+    {
+      "objectId": "slide_0590_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.2637153324584427,
+          "y": 0.24699081364829395,
+          "width": 0.590625,
+          "height": 0.09351851851851851
+        }
+      },
+      "textContent": "Does a cathodic overpotential leads to an increased sulfur generation?"
+    },
+    {
+      "objectId": "slide_0590_5_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.18506944444444445,
+          "y": 0.3405093321668125,
+          "width": 0.7321181102362204,
+          "height": 0.09351851851851851
+        }
+      },
+      "textContent": "→Two Niobium samples electro-polished at 5V and 20V for a similar heavy removal with 1-9-1 (HF-H2SO4-H2O) Mixture"
+    },
+    {
+      "objectId": "slide_0590_6_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.09826388888888889,
+          "y": 0.47615748031496063,
+          "width": 0.33072922134733157,
+          "height": 0.17384251968503936
+        }
+      },
+      "textContent": "Sample A, 20 Volts:\n 9.18g removed"
+    },
+    {
+      "objectId": "slide_0590_7_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.653298665791776,
+          "y": 0.47615748031496063,
+          "width": 0.33072911198600174,
+          "height": 0.11365733449985418
+        }
+      },
+      "textContent": "Sample B, 5 Volts:  \n9.11g removed"
+    },
+    {
+      "objectId": "slide_0590_8_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4013888888888889,
+          "y": 0.446527850685331,
+          "width": 0.2677083333333333,
+          "height": 0.26782400116652083
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0590_9_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.18506944444444445,
+          "y": 0.7405093321668125,
+          "width": 0.693923665791776,
+          "height": 0.11365733449985418
+        }
+      },
+      "textContent": "Visible contamination for Sample A \n→ We have compared impurities found in electrolytes A & B"
+    },
+    {
+      "objectId": "slide_0590_10_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.18506944444444445,
+          "y": 0.02893525809273841,
+          "width": 0.7598958880139982,
+          "height": 0.05787037037037037
+        }
+      },
+      "textContent": "+ LESS IMPURITIES AT LOWER VOLTAGE"
+    },
+    {
+      "objectId": "slide_0590_11_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.22430555555555556,
+          "y": 0.8807871099445903,
+          "width": 0.5826388888888889,
+          "height": 0.053472149314669
+        }
+      },
+      "textContent": "~ X2 Impurities in A Mixture"
+    },
+    {
+      "objectId": "slide_0590_12_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.14565977690288714,
+          "y": 0.14305555555555555,
+          "width": 0.4409722222222222,
+          "height": 0.05347229512977544
+        }
+      },
+      "textContent": "Presented at TTC 2008 & SRF 2009"
+    }
+  ],
+  "slide_id": "slide_0590"
+}

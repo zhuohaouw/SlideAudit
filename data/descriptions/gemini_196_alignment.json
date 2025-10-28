@@ -1,0 +1,88 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2254_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.060444444444444446,
+          "width": 0.30498687664041996,
+          "height": 0.3822105570137066
+        }
+      },
+      "textContent": "The Importance of Sleep"
+    },
+    {
+      "objectId": "slide_2254_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.409,
+          "y": 0.07288811120832119,
+          "width": 0.23700787401574802,
+          "height": 0.29868766404199476
+        }
+      },
+      "textContent": "Sleep allows our body and mind to recharge"
+    },
+    {
+      "objectId": "slide_2254_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.729,
+          "y": 0.07288888888888889,
+          "width": 0.23700787401574802,
+          "height": 0.29868766404199476
+        }
+      },
+      "textContent": "Sleep deprivation can lead to poor concentration and mood swings"
+    },
+    {
+      "objectId": "slide_2254_4_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.729,
+          "y": 0.4071111111111111,
+          "width": 0.23700787401574802,
+          "height": 0.29868766404199476
+        }
+      },
+      "textContent": "Lack of sleep is linked to serious health problems, including heart disease and diabetes"
+    },
+    {
+      "objectId": "slide_2254_5_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.409,
+          "y": 0.4071111111111111,
+          "width": 0.23700787401574802,
+          "height": 0.29868766404199476
+        }
+      },
+      "textContent": "Getting enough sleep is essential for overall health and well-being"
+    },
+    {
+      "objectId": "slide_2254_6_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.5031111111111111,
+          "width": 0.24301181102362204,
+          "height": 0.43202099737532806
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_2254"
+}

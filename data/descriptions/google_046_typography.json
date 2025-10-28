@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1924_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.09973326771653543,
+          "y": 0.12548128706133954,
+          "width": 0.482250656167979,
+          "height": 0.10043744531933509
+        }
+      },
+      "textContent": "Implementation overview"
+    },
+    {
+      "objectId": "slide_1924_2_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.09973326771653543,
+          "y": 0.31907397686400313,
+          "width": 0.5045931758530183,
+          "height": 0.6047827354913969
+        }
+      },
+      "textContent": "Microcontroller Selection: Microcontroller Raspberry Pi Pico after  considering Processing power, compatibility, and support for  communication protocols that aligns with the sensor's requirements.“\nDevelopment Boards: We carefully integrated development boards  Raspberry Pi 4 to facilitate seamless interaction between the mmWave  radar sensor and the chosen microcontroller. Considering its compatibility,  ease of programming, and scalability.\nCoding Oversight: My team overseed the coding process, ensuring that\nthe implemented algorithms aligned with our project objectives.\nFunctionality Assurance: My responsibility extended to ensuring the  overall functionality of the system, from data acquisition to signal  processing, including rigorous testing, debugging, and iterative  refinement.\nReal-Time Operation: Achieving real-time operation demanded Real-time\nclock synchronization, code optimization, and performance profiling."
+    }
+  ],
+  "slide_id": "slide_1924"
+}

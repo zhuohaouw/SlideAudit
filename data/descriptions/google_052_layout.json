@@ -1,0 +1,114 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1941_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03333333333333333,
+          "y": 0.7666666666666667,
+          "width": 0.625,
+          "height": 0.07780694079906679
+        }
+      },
+      "textContent": "Using Design view."
+    },
+    {
+      "objectId": "slide_1941_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6833333333333333,
+          "y": 0.14444444444444443,
+          "width": 0.2916666666666667,
+          "height": 0.18996792067658208
+        }
+      },
+      "textContent": "In the Data Type column, use the list next to a field name to choose a data type for that field."
+    },
+    {
+      "objectId": "slide_1941_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05528827646544182,
+          "y": 0.4456644308350345,
+          "width": 0.614238845144357,
+          "height": 0.12598425196850394
+        }
+      },
+      "textContent": "As always, save your changes and give your new table a name that describes the data it contains."
+    },
+    {
+      "objectId": "slide_1941_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6833333333333333,
+          "y": 0.3344353066977739,
+          "width": 0.2916666666666667,
+          "height": 0.16558763487897346
+        }
+      },
+      "textContent": "Optionally, use the Field Properties pane to set properties for individual fields."
+    },
+    {
+      "objectId": "slide_1941_5_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.058333333333333334,
+          "y": 0.016666666666666666,
+          "width": 0.8833333333333333,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1941_6_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03333333333333333,
+          "y": 0.14444444444444443,
+          "width": 0.6240157480314961,
+          "height": 0.6240303295421405
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1941_7_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.035416666666666666,
+          "y": 0.14444444444444443,
+          "width": 0.46484372265966756,
+          "height": 0.4166666666666667
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.gif",
+          "content_type": "image/gif"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1941_8_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.2833333333333333,
+          "y": 0.6951391076115485,
+          "width": 0.43333333333333335,
+          "height": 0.039953339165937594
+        }
+      },
+      "textContent": "12"
+    }
+  ],
+  "slide_id": "slide_1941"
+}

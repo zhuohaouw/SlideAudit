@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1814_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03408792650918635,
+          "y": 0.05431612715077282,
+          "width": 0.9318241469816273,
+          "height": 0.10696996208807233
+        }
+      },
+      "textContent": "John Marshall"
+    },
+    {
+      "objectId": "slide_1814_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03408792650918635,
+          "y": 0.2141769223291533,
+          "width": 0.9318241469816273,
+          "height": 0.4520268299795859
+        }
+      },
+      "textContent": "Most important Chief Justice in history\n34 years \non \nSupreme \nCourt"
+    },
+    {
+      "objectId": "slide_1814_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.31747594050743655,
+          "y": 0.37956041605910373,
+          "width": 0.4863270997375328,
+          "height": 0.5831437736949548
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_1814"
+}

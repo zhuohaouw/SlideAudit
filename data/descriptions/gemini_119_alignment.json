@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2121_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06000109361329834,
+          "y": 0.11200058326042578,
+          "width": 0.3889763779527559,
+          "height": 0.1689122193059201
+        }
+      },
+      "textContent": "Economic Impact of Tourism"
+    },
+    {
+      "objectId": "slide_2121_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.04799453193350831,
+          "y": 0.321779721979197,
+          "width": 0.40098425196850396,
+          "height": 0.5582385535141441
+        }
+      },
+      "textContent": "Tourism boosts local economies through job creation and increased revenue.\nCreates demand for local goods, services, and infrastructure development.\nPopular destinations can become overly reliant on tourism revenue.\nEconomic downturns and external events (e.g. pandemics) can severely impact tourism-dependent economies."
+    },
+    {
+      "objectId": "slide_2121_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.494,
+          "y": 0.09244444444444444,
+          "width": 0.458005249343832,
+          "height": 0.8142315543890347
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_2121"
+}

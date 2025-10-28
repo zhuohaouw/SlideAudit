@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0614_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.1,
+          "y": 0.06666666666666667,
+          "width": 0.9,
+          "height": 0.2
+        }
+      },
+      "textContent": "Projected Impacts of ABI Data on Satellite-Based Precipitation Estimation Part II:  Additional Spectral Information"
+    },
+    {
+      "objectId": "slide_0614_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.3,
+          "width": 1.0,
+          "height": 0.13333333333333333
+        }
+      },
+      "textContent": "Robert J. Kuligowski\nNOAA/NESDIS/Office of Research and Applications"
+    },
+    {
+      "objectId": "slide_0614_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.48310192475940505,
+          "width": 0.9,
+          "height": 0.4222222222222222
+        }
+      },
+      "textContent": "Research Question: How will the new visible and IR bands from the ABI impact precipitation estimates?\nMethodology:  Use MODIS channels that are analogous to the ABI channels to evaluate skill at discriminating raining from non-raining clouds.\nResults:  Preliminary tests indicate that the 8.5-µm channel has slightly improved discrimination capability over the traditionally-used 11-µm channel—both when used alone and in combination with 11µm."
+    }
+  ],
+  "slide_id": "slide_0614"
+}

@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1529_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.061,
+          "y": 0.11377777777777778,
+          "width": 0.406003937007874,
+          "height": 0.18133566637503645
+        }
+      },
+      "textContent": "Ancient Writing Systems"
+    },
+    {
+      "objectId": "slide_1529_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.36621463983668706,
+          "width": 0.4113845144356955,
+          "height": 0.5191017789442987
+        }
+      },
+      "textContent": "Cuneiform: Developed in Mesopotamia, one of the earliest writing systems.\nHieroglyphics: Used in Ancient Egypt, a complex system of pictures and symbols.\nIndus Script: Undeciphered script of the Indus Valley Civilization.\nChinese Writing: Logographic system, one of the oldest continuously used systems.\nMayan Glyphs: Advanced writing system of Mesoamerica."
+    },
+    {
+      "objectId": "slide_1529_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.506,
+          "y": 0.11377777777777778,
+          "width": 0.43398950131233593,
+          "height": 0.7715368912219306
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_1529"
+}

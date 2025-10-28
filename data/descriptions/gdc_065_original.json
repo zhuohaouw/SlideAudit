@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1974_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.22686898512685913,
+          "y": 0.03267979002624672,
+          "width": 0.7556678696412948,
+          "height": 0.315768008165646
+        }
+      },
+      "textContent": "Transmissible Spongiform Encephalopathies: Transmissible Mink Encephalopathy"
+    },
+    {
+      "objectId": "slide_1974_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.15747550306211724,
+          "y": 0.3220997375328084,
+          "width": 0.8443627515310587,
+          "height": 0.3966503353747448
+        }
+      },
+      "textContent": "Affects ranch raised mink\nFirst recognized in 1947\nDetected and documented in Canada, Finland, (East) Germany, Russia \nAssociated with feed"
+    },
+    {
+      "objectId": "slide_1974_4_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6528799212598425,
+          "y": 0.7156863517060368,
+          "width": 0.28125,
+          "height": 0.22773694954797316
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_1974"
+}

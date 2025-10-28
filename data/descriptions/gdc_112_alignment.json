@@ -1,0 +1,174 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1590_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7583333333333333,
+          "y": 0.9305555555555556,
+          "width": 0.23333333333333334,
+          "height": 0.06944444444444445
+        }
+      },
+      "textContent": "112"
+    },
+    {
+      "objectId": "slide_1590_2_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.32222222222222224,
+          "width": 0.225,
+          "height": 0.07777777777777778
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1590_3_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.1,
+          "width": 0.225,
+          "height": 0.25555555555555554
+        }
+      },
+      "textContent": "Performance Measures \nPercent employees with current performance expectations\nEmployee survey ratings on “productive workplace” questions\nOvertime usage\nSick leave usage\nNumber & type of non-disciplinary grievances and disposition"
+    },
+    {
+      "objectId": "slide_1590_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.09004636920384952
+        }
+      },
+      "textContent": "Deploy Workforce |"
+    },
+    {
+      "objectId": "slide_1590_5_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.35833333333333334,
+          "y": 0.0,
+          "width": 0.6083333333333333,
+          "height": 0.08472222222222223
+        }
+      },
+      "textContent": "Employee time and talent is used effectively. Employees motivated."
+    },
+    {
+      "objectId": "slide_1590_6_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.3,
+          "height": 0.03564814814814815
+        }
+      },
+      "textContent": "HR Management Report category:"
+    },
+    {
+      "objectId": "slide_1590_7_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6583333333333333,
+          "y": 0.5555555555555556,
+          "width": 0.31666666666666665,
+          "height": 0.30185185185185187
+        }
+      },
+      "textContent": "Grievance Disposition\nOur agency is non-represented. The charts reflect three (3) non-disciplinary actions during this past fiscal year – all on attendance.  There have been no formal complaints filed."
+    },
+    {
+      "objectId": "slide_1590_8_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.24166666666666667,
+          "y": 0.1,
+          "width": 0.6,
+          "height": 0.43333333333333335
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1590_9_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.36666666666666664,
+          "y": 0.1111111111111111,
+          "width": 0.31666666666666665,
+          "height": 0.044444444444444446
+        }
+      },
+      "textContent": "Number of Grievances"
+    },
+    {
+      "objectId": "slide_1590_10_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06666666666666667,
+          "y": 0.45555555555555555,
+          "width": 0.16666666666666666,
+          "height": 0.08009259259259259
+        }
+      },
+      "textContent": "DOUBLE CLICK ON THE CHART TO ENTER YOUR AGENCY’S DATA"
+    },
+    {
+      "objectId": "slide_1590_12_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03333333333333333,
+          "y": 0.5555555555555556,
+          "width": 0.6,
+          "height": 0.4111111111111111
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1590_13_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8460068897637796,
+          "y": 0.6055555555555555,
+          "width": 0.15399311023622048,
+          "height": 0.35
+        }
+      },
+      "textContent": "Discipline\nCompensation\nOvertime\nWork Hours\nBid System\nLeave\nHiring/Appts\nNon-discrimination\nManagement Rights\nAll other"
+    },
+    {
+      "objectId": "slide_1590_14_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.175,
+          "y": 0.5555555555555556,
+          "width": 0.3333333333333333,
+          "height": 0.044444444444444446
+        }
+      },
+      "textContent": "Type of Grievances (July 05 – May 06)"
+    }
+  ],
+  "slide_id": "slide_1590"
+}

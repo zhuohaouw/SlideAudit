@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0759_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0329996719160105,
+          "y": 0.06044522212501215,
+          "width": 0.30150918635170604,
+          "height": 0.6169145523476233
+        }
+      },
+      "textContent": "Medical Advancements"
+    },
+    {
+      "objectId": "slide_0759_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3784776902887139,
+          "y": 0.06044522212501215,
+          "width": 0.5845144356955381,
+          "height": 0.8800233304170312
+        }
+      },
+      "textContent": "Vaccines and Immunization\nAntibiotics and Antivirals\nImaging and Diagnostics\nSurgical Techniques\nOrgan Transplantation\nProsthetics and Medical Devices\nGene Therapy"
+    }
+  ],
+  "slide_id": "slide_0759"
+}

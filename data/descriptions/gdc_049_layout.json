@@ -1,0 +1,226 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0088_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.9444444444444444,
+          "width": 0.23333333333333334,
+          "height": 0.032638961796442115
+        }
+      },
+      "textContent": "3/25/2025"
+    },
+    {
+      "objectId": "slide_0088_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3416666666666667,
+          "y": 0.9444444444444444,
+          "width": 0.31666666666666665,
+          "height": 0.03333333333333333
+        }
+      },
+      "textContent": "DRAFT NMFS eSignature Group"
+    },
+    {
+      "objectId": "slide_0088_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7166666666666667,
+          "y": 0.9444444444444444,
+          "width": 0.23333333333333334,
+          "height": 0.032638961796442115
+        }
+      },
+      "textContent": "49"
+    },
+    {
+      "objectId": "slide_0088_4_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.06666666666666667,
+          "width": 0.9,
+          "height": 0.07777777777777778
+        }
+      },
+      "textContent": "NMFS E-signature stakeholders"
+    },
+    {
+      "objectId": "slide_0088_6_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.48333333333333334,
+          "y": 0.6111111111111112,
+          "width": 0.06684033245844269,
+          "height": 0.05787037037037037
+        }
+      },
+      "textContent": "CIO"
+    },
+    {
+      "objectId": "slide_0088_7_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6416666666666667,
+          "y": 0.4111111111111111,
+          "width": 0.07291666666666667,
+          "height": 0.10231481481481482
+        }
+      },
+      "textContent": "FIS\nPMT"
+    },
+    {
+      "objectId": "slide_0088_8_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6166666666666667,
+          "y": 0.5555555555555556,
+          "width": 0.12881944444444443,
+          "height": 0.10231481481481482
+        }
+      },
+      "textContent": "Software\nVendors"
+    },
+    {
+      "objectId": "slide_0088_9_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6333333333333333,
+          "y": 0.2111111111111111,
+          "width": 0.12517366579177602,
+          "height": 0.10231481481481482
+        }
+      },
+      "textContent": "Regional\nOffices"
+    },
+    {
+      "objectId": "slide_0088_10_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.49166666666666664,
+          "y": 0.32222222222222224,
+          "width": 0.06927088801399825,
+          "height": 0.05787037037037037
+        }
+      },
+      "textContent": "OLE"
+    },
+    {
+      "objectId": "slide_0088_11_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3416666666666667,
+          "y": 0.5333333333333333,
+          "width": 0.12395833333333334,
+          "height": 0.10231481481481482
+        }
+      },
+      "textContent": "Office of\nPolicy"
+    },
+    {
+      "objectId": "slide_0088_12_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.35,
+          "y": 0.4111111111111111,
+          "width": 0.06979166666666667,
+          "height": 0.05787037037037037
+        }
+      },
+      "textContent": "GCF"
+    },
+    {
+      "objectId": "slide_0088_13_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.2833333333333333,
+          "y": 0.7333333333333333,
+          "width": 0.1111111111111111,
+          "height": 0.10231481481481482
+        }
+      },
+      "textContent": "IT\nExperts"
+    },
+    {
+      "objectId": "slide_0088_14_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.175,
+          "y": 0.5333333333333333,
+          "width": 0.17864588801399825,
+          "height": 0.14675925925925926
+        }
+      },
+      "textContent": "Fisheries\nManagement\nCouncils"
+    },
+    {
+      "objectId": "slide_0088_15_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5583333333333333,
+          "y": 0.7666666666666667,
+          "width": 0.14270833333333333,
+          "height": 0.05787037037037037
+        }
+      },
+      "textContent": "End Users"
+    },
+    {
+      "objectId": "slide_0088_16_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03245319335083115,
+          "y": 0.3374501312335958,
+          "width": 0.09166666666666666,
+          "height": 0.05787037037037037
+        }
+      },
+      "textContent": "NOAA"
+    },
+    {
+      "objectId": "slide_0088_17_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.18333333333333332,
+          "y": 0.24444444444444444,
+          "width": 0.09166666666666666,
+          "height": 0.05787037037037037
+        }
+      },
+      "textContent": "OMB"
+    },
+    {
+      "objectId": "slide_0088_18_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3416666666666667,
+          "y": 0.25555555555555554,
+          "width": 0.125,
+          "height": 0.05787037037037037
+        }
+      },
+      "textContent": "GCLE"
+    }
+  ],
+  "slide_id": "slide_0088"
+}

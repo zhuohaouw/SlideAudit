@@ -1,0 +1,82 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0535_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.05563721201516477,
+          "width": 0.9,
+          "height": 0.08673082531350249
+        }
+      },
+      "textContent": "What do we do?"
+    },
+    {
+      "objectId": "slide_0535_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.07223742344706911,
+          "y": 0.24053057256731797,
+          "width": 0.4104002624671916,
+          "height": 0.19055118110236222
+        }
+      },
+      "textContent": "Employees on the 5th floor report blown out windows and debris."
+    },
+    {
+      "objectId": "slide_0535_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.13912005443763975,
+          "width": 0.9,
+          "height": 0.05564304461942257
+        }
+      },
+      "textContent": "Tuesday Morning, 9:50 AM"
+    },
+    {
+      "objectId": "slide_0535_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5183614391951006,
+          "y": 0.24053057256731797,
+          "width": 0.43162729658792653,
+          "height": 0.19055118110236222
+        }
+      },
+      "textContent": "Employees on the 7th floor don’t report any physical impact."
+    },
+    {
+      "objectId": "slide_0535_5_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.14782305336832896,
+          "y": 0.5,
+          "width": 0.3827007874015748,
+          "height": 0.1407360746573345
+        }
+      },
+      "textContent": "What are management’s directions to employees? \nShelter in place or evacuate?\nWhat about clients that are in the office for a morning meeting?"
+    },
+    {
+      "objectId": "slide_0535_6_LINE (9)",
+      "type": "LINE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.48263856080489936,
+          "y": 0.24701195683872848,
+          "width": 0.0,
+          "height": 0.18407699037620298
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0535"
+}

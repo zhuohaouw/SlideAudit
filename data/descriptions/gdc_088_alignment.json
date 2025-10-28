@@ -1,0 +1,62 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0452_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.0,
+          "width": 0.9,
+          "height": 0.059722222222222225
+        }
+      },
+      "textContent": "Running jobs on the OSG"
+    },
+    {
+      "objectId": "slide_0452_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.12222222222222222,
+          "width": 0.9666666666666667,
+          "height": 0.9
+        }
+      },
+      "textContent": "globusrun and globus-job-run can be used for complex job specifications:\nBatch schedulers supported include:\nCondor, LSF, PBS and SGE\n To access many nodes on a remote resource specify the proper batch scheduler used at that site: \nglobus-job-run grid3.aset.psu.edu/jobmanager-pbs /bin/date\nCommand is queued on the batch scheduler and will run when the job reaches the front of the queue.  The job may wait in the queue for  minutes to hours depending on your priority and how busy the resource is."
+    },
+    {
+      "objectId": "slide_0452_3_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.2916666666666667,
+          "y": 0.9111111111111111,
+          "width": 0.36666666666666664,
+          "height": 0.06944444444444445
+        }
+      },
+      "textContent": "OSG Consortium Mtg March 2007\nQuick Start Guide to the OSG"
+    },
+    {
+      "objectId": "slide_0452_4_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.9106481481481481,
+          "width": 0.09166666666666666,
+          "height": 0.06944444444444445
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0452"
+}

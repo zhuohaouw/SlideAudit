@@ -1,0 +1,57 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1991_1_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.13333333333333333
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1991_2_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.016666666666666666,
+          "y": 0.022222222222222223,
+          "width": 0.7833333333333333,
+          "height": 0.08449081364829396
+        }
+      },
+      "textContent": "DOI Climate Change Response"
+    },
+    {
+      "objectId": "slide_1991_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.041666666666666664,
+          "y": 0.2222222222222222,
+          "width": 0.9166666666666666,
+          "height": 0.3071759988334791
+        }
+      },
+      "textContent": "“The Department of Interior has committed to a unified monitoring and data management effort that will promote state of the art data integration procedures to facilitate data sharing.”\n\n- Interior’s Plan for a Coordinated, Science-based Response to Climate Change Impacts on our Land, Water, and Wildlife Resources"
+    },
+    {
+      "objectId": "slide_1991_5_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.016666666666666666,
+          "y": 0.5666666666666667,
+          "width": 0.9583333333333334,
+          "height": 0.28217599883347916
+        }
+      },
+      "textContent": "The technology exists\nWe know how to do this – several DOI efforts already underway\nLots of other agencies, universities, NGOs, industry contributing\nCongress and OMB want to eliminate redundancy and see true interagency collaboration … the DOI could be a national leader if we got our data integration act together"
+    }
+  ],
+  "slide_id": "slide_1991"
+}

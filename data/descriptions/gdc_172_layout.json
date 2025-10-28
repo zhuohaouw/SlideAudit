@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0917_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.008333333333333333,
+          "y": 0.011111111111111112,
+          "width": 0.9833333333333333,
+          "height": 0.17777777777777778
+        }
+      },
+      "textContent": "Overweight and obesity among adults"
+    },
+    {
+      "objectId": "slide_0917_2_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05156255468066492,
+          "y": 0.2,
+          "width": 0.9298992782152231,
+          "height": 0.6912143482064742
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0917_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.8777777777777778,
+          "width": 0.95,
+          "height": 0.1111111111111111
+        }
+      },
+      "textContent": "NOTE: Overweight but not obese is body mass index (BMI) greater than or equal to 25 but less than 30; grade 1 obesity is BMI greater than or equal to 30 but less than 35; grade 2 obesity is BMI greater than or equal to 35 but less than 40; grade 3 obesity is BMI greater than or equal to 40. \nSOURCE: CDC/NCHS, Health, United States, 2012, Figure 11. Data from the National Health and Nutrition Examination Survey."
+    }
+  ],
+  "slide_id": "slide_0917"
+}

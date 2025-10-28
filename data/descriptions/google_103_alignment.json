@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1045_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.04004607757363663,
+          "width": 0.9,
+          "height": 0.08993875765529309
+        }
+      },
+      "textContent": "Safe or Dangerous??"
+    },
+    {
+      "objectId": "slide_1045_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.04185531496062992,
+          "y": 0.1498055798580733,
+          "width": 0.9308070866141732,
+          "height": 0.83137941090697
+        }
+      },
+      "textContent": "1.  Fran stored the cast iron fry pan on the top shelf to get it out of the way.\n       \t\n2.  Jody put her long hair into a ponytail before she went into the kitchen to cook supper.\n\n3.  Debra chose to use knives that were not very sharp so that she would not cut herself.\n\n4.  When the butcher knife slipped out of Brenda’s fingers, she tried her best to catch it.\n\n5.  Josh could not find the can opener, so he used a sharp knife to open the can of milk.\n\n6.  Kate used a damp paper towel to pick up bits of broken glass where the broom would not reach."
+    }
+  ],
+  "slide_id": "slide_1045"
+}

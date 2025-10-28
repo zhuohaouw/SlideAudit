@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0900_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.16791896325459318,
+          "y": 0.2545721784776903,
+          "width": 0.0,
+          "height": 0.0
+        }
+      },
+      "textContent": "FEA DRM Concept"
+    },
+    {
+      "objectId": "slide_0900_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.14027777777777778,
+          "y": 0.9333333333333333,
+          "width": 0.37690977690288713,
+          "height": 0.04004636920384952
+        }
+      },
+      "textContent": "Based on FEA DRM Version 2.0"
+    }
+  ],
+  "slide_id": "slide_0900"
+}

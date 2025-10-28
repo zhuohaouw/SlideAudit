@@ -1,0 +1,140 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1968_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06634405074365704,
+          "y": 0.16994245163798968,
+          "width": 0.85,
+          "height": 0.38127734033245847
+        }
+      },
+      "textContent": "Room #1"
+    },
+    {
+      "objectId": "slide_1968_2_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 1.0052005443763974
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1968_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8057086614173228,
+          "y": 0.912676193253621,
+          "width": 0.18661417322834645,
+          "height": 0.05768445610965296
+        }
+      },
+      "textContent": "Image from Cleveland.com"
+    },
+    {
+      "objectId": "slide_1968_4_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3439905949256343,
+          "y": 0.3621075143384855,
+          "width": 0.20337926509186352,
+          "height": 0.21347331583552057
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1968_5_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.33425470253718287,
+          "y": 0.1915232818119957,
+          "width": 0.22066929133858268,
+          "height": 0.16342957130358704
+        }
+      },
+      "textContent": "Type the Name of Room"
+    },
+    {
+      "objectId": "slide_1968_6_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7674868766404199,
+          "y": 0.3621075143384855,
+          "width": 0.20337926509186352,
+          "height": 0.21347331583552057
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1968_7_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.34258803587051617,
+          "y": 0.3917371439681151,
+          "width": 0.20337926509186352,
+          "height": 0.15252260134149898
+        }
+      },
+      "textContent": "Name of Museum Piece\n(Exhibit #1)"
+    },
+    {
+      "objectId": "slide_1968_8_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7674868766404199,
+          "y": 0.40655195878292993,
+          "width": 0.20337926509186352,
+          "height": 0.14342373869932926
+        }
+      },
+      "textContent": "Name of Museum Piece\n(Exhibit #2)"
+    },
+    {
+      "objectId": "slide_1968_9_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.01826881014873141,
+          "y": 0.8284922717993584,
+          "width": 0.17578740157480316,
+          "height": 0.14342373869932926
+        }
+      },
+      "textContent": "Museum \nLobby"
+    },
+    {
+      "objectId": "slide_1968_10_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.004724409448818898,
+          "y": 0.0189413823272091,
+          "width": 0.1550524934383202,
+          "height": 0.04228638086905803
+        }
+      },
+      "textContent": "davidleeedtech.org"
+    }
+  ],
+  "slide_id": "slide_1968"
+}

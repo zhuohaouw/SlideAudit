@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2394_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.040046271993778554,
+          "width": 0.9,
+          "height": 0.16669582968795568
+        }
+      },
+      "textContent": "BT Archives"
+    },
+    {
+      "objectId": "slide_2394_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.26371522309711287,
+          "y": 0.1768519490619228,
+          "width": 0.7244750656167979,
+          "height": 0.7222513852435112
+        }
+      },
+      "textContent": "Private telegraph and telephone companies\nPost Office telecommunications\nBT plc\nHistorical phone books\nPhotographic - c500,000 images \nFilm - over 2000 titles\nAdvertising - 30,000 separate pieces\nReference library\nArtefacts"
+    },
+    {
+      "objectId": "slide_2394_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.059027777777777776,
+          "y": 0.153472149314669,
+          "width": 0.14752602799650044,
+          "height": 0.7995368912219306
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_2394"
+}

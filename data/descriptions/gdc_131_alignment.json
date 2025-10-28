@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0288_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05034547244094488,
+          "y": 0.060412510936132986,
+          "width": 0.9354166666666667,
+          "height": 0.09444444444444444
+        }
+      },
+      "textContent": "How much federal student aid can I get?"
+    },
+    {
+      "objectId": "slide_0288_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05486111111111111,
+          "y": 0.16666666666666666,
+          "width": 0.9,
+          "height": 0.6266204432779235
+        }
+      },
+      "textContent": "Maximum amounts for the major programs for a dependent freshman in 2017-18:\nFederal Pell Grant: $5,920\nFederal Work-Study: depends on funds available at school\nDirect Subsidized and Unsubsidized Loans: $5,500 total\nDirect PLUS Loan (for parents): COA minus other aid received\n\nFunds from other programs are available; see StudentAid.gov/glance for details."
+    }
+  ],
+  "slide_id": "slide_0288"
+}

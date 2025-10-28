@@ -1,0 +1,636 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0424_1_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06666666666666667,
+          "y": 0.15555555555555556,
+          "width": 0.13142366579177603,
+          "height": 0.17777777777777778
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0424_2_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.175,
+          "y": 0.08888888888888889,
+          "width": 0.125,
+          "height": 0.11365748031496063
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0424_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7416666666666667,
+          "y": 0.1,
+          "width": 0.10625,
+          "height": 0.175
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0424_4_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.43281255468066493,
+          "y": 0.14722222222222223,
+          "width": 0.2519096675415573,
+          "height": 0.22407407407407406
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0424_5_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.43333333333333335,
+          "y": 0.5444444444444444,
+          "width": 0.16666666666666666,
+          "height": 0.32222222222222224
+        }
+      },
+      "textContent": "SGM"
+    },
+    {
+      "objectId": "slide_0424_6_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.775,
+          "y": 0.5111111111111111,
+          "width": 0.16666666666666666,
+          "height": 0.32222222222222224
+        }
+      },
+      "textContent": "EO1\u000bOps\nCenter"
+    },
+    {
+      "objectId": "slide_0424_7_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.08333333333333333,
+          "y": 0.5555555555555556,
+          "width": 0.16666666666666666,
+          "height": 0.23333333333333334
+        }
+      },
+      "textContent": "EOS DAAC /\nRapidFire \nSystem"
+    },
+    {
+      "objectId": "slide_0424_8_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.125,
+          "y": 0.34444444444444444,
+          "width": 0.008333333333333333,
+          "height": 0.17777777777777778
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0424_9_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.175,
+          "y": 0.23333333333333334,
+          "width": 0.06666666666666667,
+          "height": 0.3
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0424_10_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.14166666666666666,
+          "y": 0.044444444444444446,
+          "width": 0.08263888888888889,
+          "height": 0.05347229512977544
+        }
+      },
+      "textContent": "Terra"
+    },
+    {
+      "objectId": "slide_0424_11_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03993055555555555,
+          "y": 0.08310192475940507,
+          "width": 0.08263888888888889,
+          "height": 0.053472149314669
+        }
+      },
+      "textContent": "Aqua"
+    },
+    {
+      "objectId": "slide_0424_12_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.08333333333333333,
+          "y": 0.3888888888888889,
+          "width": 0.15763888888888888,
+          "height": 0.05347229512977544
+        }
+      },
+      "textContent": "MODIS data"
+    },
+    {
+      "objectId": "slide_0424_13_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8399305555555555,
+          "y": 0.1275463692038495,
+          "width": 0.07013888888888889,
+          "height": 0.053472149314669
+        }
+      },
+      "textContent": "EO1"
+    },
+    {
+      "objectId": "slide_0424_14_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.25833333333333336,
+          "y": 0.6777777777777778,
+          "width": 0.175,
+          "height": 0.0
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0424_15_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6,
+          "y": 0.5777777777777777,
+          "width": 0.13333333333333333,
+          "height": 0.0
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0424_16_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8065972222222222,
+          "y": 0.28726859142607175,
+          "width": 0.033680555555555554,
+          "height": 0.21273140857392825
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0424_17_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6416666666666667,
+          "y": 0.5888888888888889,
+          "width": 0.11666666666666667,
+          "height": 0.0
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0424_18_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.26493055555555556,
+          "y": 0.6937500729075532,
+          "width": 0.0920138888888889,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": "RapidFire\u000bdata"
+    },
+    {
+      "objectId": "slide_0424_19_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6065972222222222,
+          "y": 0.5418982210557014,
+          "width": 0.06076388888888889,
+          "height": 0.03564814814814815
+        }
+      },
+      "textContent": "lat/lon"
+    },
+    {
+      "objectId": "slide_0424_20_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.675,
+          "y": 0.5888888888888889,
+          "width": 0.09079866579177603,
+          "height": 0.03564814814814815
+        }
+      },
+      "textContent": "next flyover"
+    },
+    {
+      "objectId": "slide_0424_21_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6,
+          "y": 0.6555555555555556,
+          "width": 0.13333333333333333,
+          "height": 0.0
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0424_22_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6416666666666667,
+          "y": 0.6886574803149607,
+          "width": 0.11666666666666667,
+          "height": 0.0
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0424_23_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6065972222222222,
+          "y": 0.6196759988334791,
+          "width": 0.11145833333333334,
+          "height": 0.03564814814814815
+        }
+      },
+      "textContent": "image request"
+    },
+    {
+      "objectId": "slide_0424_24_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6638888888888889,
+          "y": 0.6796296296296296,
+          "width": 0.09149311023622048,
+          "height": 0.03564814814814815
+        }
+      },
+      "textContent": "request ack"
+    },
+    {
+      "objectId": "slide_0424_25_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6416666666666667,
+          "y": 0.721990813648294,
+          "width": 0.11666666666666667,
+          "height": 0.0
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0424_26_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6638888888888889,
+          "y": 0.7129629629629629,
+          "width": 0.08697922134733159,
+          "height": 0.03564814814814815
+        }
+      },
+      "textContent": "sched time"
+    },
+    {
+      "objectId": "slide_0424_27_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6416666666666667,
+          "y": 0.7553241469816273,
+          "width": 0.11666666666666667,
+          "height": 0.0
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0424_28_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6638888888888889,
+          "y": 0.7462962962962963,
+          "width": 0.09531255468066492,
+          "height": 0.03564814814814815
+        }
+      },
+      "textContent": "image taken"
+    },
+    {
+      "objectId": "slide_0424_29_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6416666666666667,
+          "y": 0.7886574803149606,
+          "width": 0.11666666666666667,
+          "height": 0.0
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0424_30_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6638888888888889,
+          "y": 0.7796296296296297,
+          "width": 0.07708333333333334,
+          "height": 0.03564814814814815
+        }
+      },
+      "textContent": "image url"
+    },
+    {
+      "objectId": "slide_0424_31_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8192708880139983,
+          "y": 0.25925925925925924,
+          "width": 0.033680555555555554,
+          "height": 0.2127315543890347
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0424_32_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8486111111111111,
+          "y": 0.3875,
+          "width": 0.07552088801399826,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": "image\u000brequest"
+    },
+    {
+      "objectId": "slide_0424_33_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7477431102362204,
+          "y": 0.2983797025371829,
+          "width": 0.06527777777777778,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": "image\u000bdata"
+    },
+    {
+      "objectId": "slide_0424_34_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4496527777777778,
+          "y": 0.0912037037037037,
+          "width": 0.22569444444444445,
+          "height": 0.05347229512977544
+        }
+      },
+      "textContent": "SGM Web Monitor"
+    },
+    {
+      "objectId": "slide_0424_35_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.365625,
+          "y": 0.08564814814814815,
+          "width": 0.058854221347331585,
+          "height": 0.1287037037037037
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0424_36_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.30520833333333336,
+          "y": 0.024074074074074074,
+          "width": 0.12708333333333333,
+          "height": 0.05347229512977544
+        }
+      },
+      "textContent": "Scientists"
+    },
+    {
+      "objectId": "slide_0424_37_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3236111111111111,
+          "y": 0.1303241469816273,
+          "width": 0.07430555555555556,
+          "height": 0.09351851851851851
+        }
+      },
+      "textContent": "goal\u000binput"
+    },
+    {
+      "objectId": "slide_0424_38_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4579861111111111,
+          "y": 0.3712962962962963,
+          "width": 0.012673665791776027,
+          "height": 0.1678241469816273
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0424_39_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3824653324584427,
+          "y": 0.41041673957421987,
+          "width": 0.0798611111111111,
+          "height": 0.053472149314669
+        }
+      },
+      "textContent": "goals"
+    },
+    {
+      "objectId": "slide_0424_40_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.525173665791776,
+          "y": 0.3712962962962963,
+          "width": 0.012673556430446195,
+          "height": 0.1678241469816273
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0424_41_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5336805555555556,
+          "y": 0.39351851851851855,
+          "width": 0.13541666666666666,
+          "height": 0.09351851851851851
+        }
+      },
+      "textContent": "status and\u000bupdates"
+    },
+    {
+      "objectId": "slide_0424_42_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.634375,
+          "y": 0.6625,
+          "width": 0.134375,
+          "height": 0.21828710994459025
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0424_43_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.634375,
+          "y": 0.8136574803149607,
+          "width": 0.13177088801399825,
+          "height": 0.07314814814814814
+        }
+      },
+      "textContent": "subset of status messages, via by email"
+    },
+    {
+      "objectId": "slide_0424_44_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6050347769028871,
+          "y": 0.5168982210557014,
+          "width": 0.16805555555555557,
+          "height": 0.10069437153689122
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0424_45_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6932292213473316,
+          "y": 0.5111111111111111,
+          "width": 0.08611111111111111,
+          "height": 0.03333333333333333
+        }
+      },
+      "textContent": "web service"
+    },
+    {
+      "objectId": "slide_0424_46_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.38663199912510937,
+          "y": 0.7912037037037037,
+          "width": 0.04618055555555556,
+          "height": 0.07847229512977544
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0424_47_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.27743055555555557,
+          "y": 0.8560185185185185,
+          "width": 0.12916666666666668,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": "Email alerts to\u000binterest parties"
+    }
+  ],
+  "slide_id": "slide_0424"
+}

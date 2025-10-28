@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0050_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5864501312335958,
+          "y": 0.12444347234373482,
+          "width": 0.37916666666666665,
+          "height": 0.1546806649168854
+        }
+      },
+      "textContent": "Wacky World Records 🌎🏆"
+    },
+    {
+      "objectId": "slide_0050_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.577351268591426,
+          "y": 0.36977719451735197,
+          "width": 0.38825459317585304,
+          "height": 0.5244677748614757
+        }
+      },
+      "textContent": "Most T-Shirts Worn at Once: 260 T-Shirts\nHeaviest Pumpkin: 1,226 kg (2,702 lb)\nLongest Fingernails: 8.65 m (28 ft 4 in)\nMost Piercings: 516 modifications\nTallest Mohawk: 1.32 m (4 ft 4 in)"
+    },
+    {
+      "objectId": "slide_0050_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.368667760279965,
+          "y": 0.008624088655584719,
+          "width": 0.5129921259842519,
+          "height": 0.9119860017497813
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0050"
+}

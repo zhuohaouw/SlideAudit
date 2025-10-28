@@ -1,0 +1,525 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0309_1_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": -0.0012253937007874016,
+          "y": 0.08484820647419072,
+          "width": 0.02020242782152231,
+          "height": 0.031284047827354916
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0309_2_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7867646544181978,
+          "y": 0.2663398950131234,
+          "width": 0.0006127515310586177,
+          "height": 0.610906969962088
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0309_3_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.48851104549431323,
+          "y": 0.25265529308836393,
+          "width": 0.0006127515310586177,
+          "height": 0.5365603674540682
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0309_4_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.2685356517935258,
+          "y": 0.01960790317876932,
+          "width": 0.43244477252843394,
+          "height": 0.2357026829979586
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0309_5_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.32163604549431324,
+          "y": 0.03758180227471566,
+          "width": 0.32501837270341205,
+          "height": 0.08380169145523476
+        }
+      },
+      "textContent": "Chemical Sciences, Geosciences,\n and Biosciences Division"
+    },
+    {
+      "objectId": "slide_0309_6_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3572646544181977,
+          "y": 0.14113575386410032,
+          "width": 0.2658629702537183,
+          "height": 0.10357640711577719
+        }
+      },
+      "textContent": "Eric Rohlfing, Director\nDiane Marceau, Program Analyst\nMichaelene Kyler-King, Program Assistant"
+    },
+    {
+      "objectId": "slide_0309_7_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.26945472440944884,
+          "y": 0.1325573053368329,
+          "width": 0.4304534120734908,
+          "height": 0.0
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0309_8_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.18351727909011373,
+          "y": 0.2649101778944299,
+          "width": 0.604472987751531,
+          "height": 0.0024510061242344707
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0309_9_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.18397681539807523,
+          "y": 0.2653187518226888,
+          "width": 0.0,
+          "height": 0.612745115193934
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0309_10_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.09344367891513561,
+          "y": 0.45935476815398074,
+          "width": 0.18244488188976377,
+          "height": 0.11376625838436862
+        }
+      },
+      "textContent": "Atomic, Molecular, and Optical Sciences\nJeffrey Krause"
+    },
+    {
+      "objectId": "slide_0309_11_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.08685662729658793,
+          "y": 0.2810457859434237,
+          "width": 0.19776345144356955,
+          "height": 0.16870909886264218
+        }
+      },
+      "textContent": "Fundamental Interactions \nMichael Casassa\nR. Felder, Prog. Asst."
+    },
+    {
+      "objectId": "slide_0309_12_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.08838856080489939,
+          "y": 0.3709149897929426,
+          "width": 0.1948529090113736,
+          "height": 0.0
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0309_13_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.9552695756780403,
+          "y": 0.9685457859434238,
+          "width": 0.030088801399825022,
+          "height": 0.031671770195392246
+        }
+      },
+      "textContent": "74"
+    },
+    {
+      "objectId": "slide_0309_14_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.39200371828521435,
+          "y": 0.2810457859434237,
+          "width": 0.19776345144356955,
+          "height": 0.16870909886264218
+        }
+      },
+      "textContent": "Photo- and Bio- Chemistry\nRichard Greene\nS. Watson, Prog. Asst."
+    },
+    {
+      "objectId": "slide_0309_15_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6848958880139983,
+          "y": 0.2810457859434237,
+          "width": 0.19776345144356955,
+          "height": 0.16870909886264218
+        }
+      },
+      "textContent": "Chemical Transformations \nJohn Miller\nT. Russ, Prog. Asst."
+    },
+    {
+      "objectId": "slide_0309_16_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6349601924759405,
+          "y": 0.6679091571886847,
+          "width": 0.18244488188976377,
+          "height": 0.09660936132983378
+        }
+      },
+      "textContent": "Gas-Phase Chem Physics\nVacant\n Wade Sisk , BNL"
+    },
+    {
+      "objectId": "slide_0309_17_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.09344367891513561,
+          "y": 0.6913808690580344,
+          "width": 0.18244488188976377,
+          "height": 0.09660936132983378
+        }
+      },
+      "textContent": "Cond. Phase & Interfacial Molecular Science\nGregory Fiechtner"
+    },
+    {
+      "objectId": "slide_0309_18_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.09344367891513561,
+          "y": 0.7939135316418781,
+          "width": 0.18244488188976377,
+          "height": 0.09660936132983378
+        }
+      },
+      "textContent": "Computational & Theoretical Chemistry\nVacant and Posted!"
+    },
+    {
+      "objectId": "slide_0309_19_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.39981627296587924,
+          "y": 0.4789625255176436,
+          "width": 0.18244488188976377,
+          "height": 0.11785126859142607
+        }
+      },
+      "textContent": "Solar Photochemistry\nMark Spitler"
+    },
+    {
+      "objectId": "slide_0309_20_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4022671697287839,
+          "y": 0.6162174103237096,
+          "width": 0.18244488188976377,
+          "height": 0.11294925634295713
+        }
+      },
+      "textContent": "Photosynthetic Systems\nVacant"
+    },
+    {
+      "objectId": "slide_0309_21_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.39981627296587924,
+          "y": 0.7567403032954214,
+          "width": 0.18244488188976377,
+          "height": 0.11948527267424905
+        }
+      },
+      "textContent": "Physical Biosciences\nVacant\n Bob Stack, PNNL"
+    },
+    {
+      "objectId": "slide_0309_22_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6939338363954506,
+          "y": 0.47079265091863515,
+          "width": 0.18244488188976377,
+          "height": 0.1276551472732575
+        }
+      },
+      "textContent": "Catalysis Science\nRaul Miranda\nPaul Maupin\n Michael Chen, ANL"
+    },
+    {
+      "objectId": "slide_0309_23_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6939338363954506,
+          "y": 0.611315543890347,
+          "width": 0.18244488188976377,
+          "height": 0.11131525226013415
+        }
+      },
+      "textContent": "Heavy Element Chemistry\nLester Morss\n Noman Edelstein, LBNL"
+    },
+    {
+      "objectId": "slide_0309_24_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6939338363954506,
+          "y": 0.7387665500145815,
+          "width": 0.18244488188976377,
+          "height": 0.10968124817731117
+        }
+      },
+      "textContent": "Separations & Analyses\nWilliam Millman\n Larry Rahn, SNL"
+    },
+    {
+      "objectId": "slide_0309_25_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6939338363954506,
+          "y": 0.864583552055993,
+          "width": 0.18244488188976377,
+          "height": 0.10968124817731117
+        }
+      },
+      "textContent": "Geosciences\nNicholas Woodward\n Patrick Dobson, LBNL"
+    },
+    {
+      "objectId": "slide_0309_26_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6864277121609799,
+          "y": 0.3709149897929426,
+          "width": 0.1948529090113736,
+          "height": 0.0
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0309_27_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3935356517935258,
+          "y": 0.3709149897929426,
+          "width": 0.1948529090113736,
+          "height": 0.0
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0309_28_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05501181102362205,
+          "y": 0.03696894138232721,
+          "width": 0.1603503937007874,
+          "height": 0.062331437736949546
+        }
+      },
+      "textContent": "April, 2008?"
+    },
+    {
+      "objectId": "slide_0309_29_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.01470592738407699,
+          "y": 0.5334967920676582,
+          "width": 0.08619586614173229,
+          "height": 0.050438611840186644
+        }
+      },
+      "textContent": "Panel 1"
+    },
+    {
+      "objectId": "slide_0309_30_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.01470592738407699,
+          "y": 0.7181373578302712,
+          "width": 0.08619586614173229,
+          "height": 0.050438611840186644
+        }
+      },
+      "textContent": "Panel 2"
+    },
+    {
+      "objectId": "slide_0309_31_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.452205927384077,
+          "y": 0.8750001458151064,
+          "width": 0.08619586614173229,
+          "height": 0.050438611840186644
+        }
+      },
+      "textContent": "Panel 6"
+    },
+    {
+      "objectId": "slide_0309_32_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.625,
+          "y": 0.556372557596967,
+          "width": 0.08619586614173229,
+          "height": 0.050438611840186644
+        }
+      },
+      "textContent": "Panel 3"
+    },
+    {
+      "objectId": "slide_0309_33_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6115195756780403,
+          "y": 0.7116013414989792,
+          "width": 0.08619586614173229,
+          "height": 0.050438611840186644
+        }
+      },
+      "textContent": "Panel 4"
+    },
+    {
+      "objectId": "slide_0309_34_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6151960848643919,
+          "y": 0.8880720326625838,
+          "width": 0.08619586614173229,
+          "height": 0.050438611840186644
+        }
+      },
+      "textContent": "Panel 5"
+    },
+    {
+      "objectId": "slide_0309_35_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.767616469816273,
+          "y": 0.15318635170603676,
+          "width": 0.1956188757655293,
+          "height": 0.08600335374744823
+        }
+      },
+      "textContent": "l  IPA\nu Detailee\n  Detailee, 1/4 time, not at HQ"
+    },
+    {
+      "objectId": "slide_0309_36_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": -0.0049020122484689415,
+          "y": 0.927900408282298,
+          "width": 0.4365483377077865,
+          "height": 0.053068824730242055
+        }
+      },
+      "textContent": "Hiring 4 program managers in FY2008!"
+    },
+    {
+      "objectId": "slide_0309_37_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.172794072615923,
+          "y": 0.887254884806066,
+          "width": 0.0024510061242344707,
+          "height": 0.052287547389909594
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0309_38_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.057598097112860895,
+          "y": 0.6388888888888888,
+          "width": 0.09926465441819772,
+          "height": 0.2859476523767862
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0309_39_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.28676476377952753,
+          "y": 0.68300656167979,
+          "width": 0.17401957567804024,
+          "height": 0.2549020122484689
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0309_40_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3370097331583552,
+          "y": 0.815359434237387,
+          "width": 0.10784317585301838,
+          "height": 0.12254899387576552
+        }
+      },
+      "textContent": ""
+    }
+  ],
+  "slide_id": "slide_0309"
+}

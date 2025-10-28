@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0019_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.1,
+          "y": 0.06666666666666667,
+          "width": 0.75,
+          "height": 0.16666666666666666
+        }
+      },
+      "textContent": "Skills:  How To"
+    },
+    {
+      "objectId": "slide_0019_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.1,
+          "y": 0.4888888888888889,
+          "width": 0.4041666666666667,
+          "height": 0.43333333333333335
+        }
+      },
+      "textContent": "Skill Building Workshops\nTopical Forums\nDesign Research Projects\nManage Research Efforts\nDevelop Technical Assistance Documents"
+    },
+    {
+      "objectId": "slide_0019_4_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5208333333333334,
+          "y": 0.3111111111111111,
+          "width": 0.4041666666666667,
+          "height": 0.5666666666666667
+        }
+      },
+      "textContent": "Policy Analysis\nDocumentation for Processes, New Practices\nUniversity Partnerships\nStudent Outcomes measures\nEvaluation Design and Analysis\nInformation Systems\nUses of Technology"
+    }
+  ],
+  "slide_id": "slide_0019"
+}

@@ -1,0 +1,886 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2214_2_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4506172353455818,
+          "y": 0.5020575969670458,
+          "width": 0.12345680227471566,
+          "height": 0.10986803732866725
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2214_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.9402649825021873,
+          "y": 0.08847739865850102,
+          "width": 0.038130139982502184,
+          "height": 0.045267424905220184
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2214_4_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.907728893263342,
+          "y": 0.6275720326625839,
+          "width": 0.051183180227471564,
+          "height": 0.10618139399241762
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2214_6_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.028260061242344706,
+          "y": 0.07818926800816564,
+          "width": 0.5773854986876641,
+          "height": 0.08661548556430446
+        }
+      },
+      "textContent": "Using GOES-R to help fulfill NOAA’s Mission Goals \n(Ecosystems, Weather/Water, Climate, and Commerce)"
+    },
+    {
+      "objectId": "slide_2214_7_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.23900459317585301,
+          "y": 0.2777777777777778,
+          "width": 0.14168274278215223,
+          "height": 0.053358705161854765
+        }
+      },
+      "textContent": "Ecosystems"
+    },
+    {
+      "objectId": "slide_2214_8_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.586419728783902,
+          "y": 0.584362058909303,
+          "width": 0.13737729658792652,
+          "height": 0.053358705161854765
+        }
+      },
+      "textContent": "Commerce"
+    },
+    {
+      "objectId": "slide_2214_9_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5849729877515311,
+          "y": 0.2851509186351706,
+          "width": 0.18468897637795276,
+          "height": 0.053358705161854765
+        }
+      },
+      "textContent": "Weather/Water"
+    },
+    {
+      "objectId": "slide_2214_10_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.2361111111111111,
+          "y": 0.584362058909303,
+          "width": 0.10469302274715661,
+          "height": 0.053358705161854765
+        }
+      },
+      "textContent": "Climate"
+    },
+    {
+      "objectId": "slide_2214_11_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.10715660542432195,
+          "y": 0.8786007582385535,
+          "width": 0.8615933945756781,
+          "height": 0.053358705161854765
+        }
+      },
+      "textContent": "GOES-R data and products will support all of NOAA’s mission goals!"
+    },
+    {
+      "objectId": "slide_2214_13_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4382715441819773,
+          "y": 0.6810699912510936,
+          "width": 0.03571894138232721,
+          "height": 0.049382764654418196
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2214_15_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8931005030621172,
+          "y": 0.2611882473024205,
+          "width": 0.07008748906386701,
+          "height": 0.0767318460192476
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2214_16_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8441358267716536,
+          "y": 0.2206790609507145,
+          "width": 0.06944444444444445,
+          "height": 0.07600306211723534
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2214_17_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.9140947069116361,
+          "y": 0.21776407115777194,
+          "width": 0.05981463254593176,
+          "height": 0.03339705453484981
+        }
+      },
+      "textContent": "Simulated ABI \n(from MODIS)"
+    },
+    {
+      "objectId": "slide_2214_18_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8981803368328959,
+          "y": 0.32098775153105863,
+          "width": 0.036674103237095364,
+          "height": 0.023430300379119275
+        }
+      },
+      "textContent": "GOES"
+    },
+    {
+      "objectId": "slide_2214_19_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.9282086614173228,
+          "y": 0.23568241469816273,
+          "width": 0.05227646544181977,
+          "height": 0.035874744823563724
+        }
+      },
+      "textContent": "Enhanced “V”: \nIR windows\nMay 25, 2000"
+    },
+    {
+      "objectId": "slide_2214_20_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8560313867016623,
+          "y": 0.3002830271216098,
+          "width": 0.05683442694663167,
+          "height": 0.023430300379119275
+        }
+      },
+      "textContent": "Enhanced “V”"
+    },
+    {
+      "objectId": "slide_2214_21_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8699202755905512,
+          "y": 0.27567731116943717,
+          "width": 0.019868875765529308,
+          "height": 0.023148148148148147
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2214_22_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8808513779527559,
+          "y": 0.30174044911052783,
+          "width": 0.0654899387576553,
+          "height": 0.010116652085156021
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2214_23_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8778614391951006,
+          "y": 0.22213648293963253,
+          "width": 0.03099278215223097,
+          "height": 0.10316433362496355
+        }
+      },
+      "textContent": "concentric anvil-layer waves"
+    },
+    {
+      "objectId": "slide_2214_24_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.866962489063867,
+          "y": 0.23225313502478856,
+          "width": 0.010898950131233596,
+          "height": 0.0014574219889180518
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2214_25_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8490869422572178,
+          "y": 0.2098766404199475,
+          "width": 0.06349671916010499,
+          "height": 0.023430300379119275
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2214_26_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8545524934383202,
+          "y": 0.20781904345290172,
+          "width": 0.11678926071741032,
+          "height": 0.023430300379119275
+        }
+      },
+      "textContent": "Higher Spatial Resolution Channels"
+    },
+    {
+      "objectId": "slide_2214_27_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8992090988626422,
+          "y": 0.3395061242344707,
+          "width": 0.0625,
+          "height": 0.021766112569262176
+        }
+      },
+      "textContent": "http://cimss.ssec.wisc.edu/goes/misc/000525.html"
+    },
+    {
+      "objectId": "slide_2214_28_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6280863954505687,
+          "y": 0.7832648002333041,
+          "width": 0.05175043744531933,
+          "height": 0.10316433362496355
+        }
+      },
+      "textContent": "Payload:\nGLM\nABI\nHES-CW\nHES-SNDR\nSIS\nSEISS\nMAG \nAUX"
+    },
+    {
+      "objectId": "slide_2214_29_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.15586417322834645,
+          "y": 0.6523490813648294,
+          "width": 0.05175043744531933,
+          "height": 0.08323082531350248
+        }
+      },
+      "textContent": "Payload:\nABI\nHES-CW\nHES-SNDR\nGLM\nSIS\nAUX"
+    },
+    {
+      "objectId": "slide_2214_30_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5462962598425197,
+          "y": 0.2572016622922135,
+          "width": 0.05175043744531933,
+          "height": 0.10316433362496355
+        }
+      },
+      "textContent": "Payload:\nABI\nHES-SNDR\nGLM\nHES-CW\nSIS\nSEISS\nMAG \nAUX"
+    },
+    {
+      "objectId": "slide_2214_31_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.1791088145231846,
+          "y": 0.275720180810732,
+          "width": 0.0463160542432196,
+          "height": 0.05333056284631088
+        }
+      },
+      "textContent": "Payload:\nHES-CW \nABI\nAUX"
+    },
+    {
+      "objectId": "slide_2214_32_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.024691382327209098,
+          "y": 0.15637868183143774,
+          "width": 0.35802471566054245,
+          "height": 0.10490347039953339
+        }
+      },
+      "textContent": "Timothy J. Schmit, NOAA/NESDIS/STAR (Satellite Applications and Research)\nW. P. Menzel, NOAA/NESDIS/STAR (Satellite Applications and Research)\nJames J. Gurka, NOAA/NESDIS/OSD (Office of Systems Development)\nJun Li, Mat Gunshor CIMSS (Cooperative Institute for Meteorological Satellite Studies)\nSteven Hill, NOAA/NWS/NCEP Space Environment Center (SEC), Boulder, CO"
+    },
+    {
+      "objectId": "slide_2214_33_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.1496913823272091,
+          "y": 0.3181156313794109,
+          "width": 0.37150962379702535,
+          "height": 0.03256503353747448
+        }
+      },
+      "textContent": "Protect, restore, and manage the use of coastal and ocean resources through ecosystem-based management"
+    },
+    {
+      "objectId": "slide_2214_34_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.19290124671916012,
+          "y": 0.4399005540974045,
+          "width": 0.12078838582677165,
+          "height": 0.14298468941382328
+        }
+      },
+      "textContent": "The Ecosystems NOAA goal includes:\n\nCorals\u000bEcosystem Research \u000bHabitat Restoration\u000bCoastal Resource Management\u000bInvasive Species\u000bUndersea Research and Exploration\u000bProtected Species Management\u000bProtected Areas \nFisheries Management\u000bAquaculture\u000bEnforcement"
+    },
+    {
+      "objectId": "slide_2214_35_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.1845100612423447,
+          "y": 0.635802420530767,
+          "width": 0.3108535651793526,
+          "height": 0.022598279381743948
+        }
+      },
+      "textContent": "Understand climate variability and change to enhance society’s ability to plan and respond"
+    },
+    {
+      "objectId": "slide_2214_36_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.33928116797900265,
+          "y": 0.8251029454651502,
+          "width": 0.12502865266841645,
+          "height": 0.06742986293379995
+        }
+      },
+      "textContent": "The Climate NOAA goal includes:\n\nClimate Observations and Analysis\nClimate and Ecosystems \u000bClimate Forcing\u000bClimate Predictions and Projections\u000bClimate Information for Decisions"
+    },
+    {
+      "objectId": "slide_2214_37_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5787037401574803,
+          "y": 0.3300326625838437,
+          "width": 0.2026894138232721,
+          "height": 0.022598279381743948
+        }
+      },
+      "textContent": "Serve society’s needs for weather and water information"
+    },
+    {
+      "objectId": "slide_2214_38_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.720228893263342,
+          "y": 0.41975313502478856,
+          "width": 0.14583333333333334,
+          "height": 0.101472149314669
+        }
+      },
+      "textContent": "The Weather/Water NOAA goal includes:\n\nLocal Forecasts and Warnings\u000bTropical Storm Program\u000bSpace Weather\nAir Quality\u000bEnvironmental Modeling\u000bHydrology – Rivers, Lakes, and Floods\u000bWeather and Water Science and Technology Infusion Program"
+    },
+    {
+      "objectId": "slide_2214_39_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5246913823272091,
+          "y": 0.6193414989792942,
+          "width": 0.3730873797025372,
+          "height": 0.022598279381743948
+        }
+      },
+      "textContent": "Support the Nation’s commerce with information for safe, efficient, and environmentally sound transportation"
+    },
+    {
+      "objectId": "slide_2214_40_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8564815179352581,
+          "y": 0.7839505686789151,
+          "width": 0.125,
+          "height": 0.12139632545931758
+        }
+      },
+      "textContent": "The Commerce NOAA goal includes:\n\n\u000bAviation Weather\u000bMarine Weather\u000bMarine Transportation Services\nNOAA Emergency Response\u000bGeodesy\nCommercial and Remote Sensing Licensing\u000bCommerce and Transportation Science and Technology Infusion Program"
+    },
+    {
+      "objectId": "slide_2214_41_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.01935444006999125,
+          "y": 0.24897127442403033,
+          "width": 0.45595417760279966,
+          "height": 0.03590274132400117
+        }
+      },
+      "textContent": "“The planet’s daily pulse is observed from the geostationary perspective”"
+    },
+    {
+      "objectId": "slide_2214_42_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0324073709536308,
+          "y": 0.673911198600175,
+          "width": 0.11194706911636046,
+          "height": 0.09224963546223389
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2214_44_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.11458333333333333,
+          "y": 0.9259259259259259,
+          "width": 0.02020242782152231,
+          "height": 0.023430300379119275
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2214_45_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.021604877515310587,
+          "y": 0.7633744531933508,
+          "width": 0.14660498687664042,
+          "height": 0.14634120734908138
+        }
+      },
+      "textContent": "Payload key:  \nABI – Advanced Baseline Imager \nHES – Hyperspectral Environmental Suite \n\t      Sounder (SNDR) and Coastal Waters (CW) \nGLM – Geostationary Lightning Mapper \nSIS – Solar Imaging Suite \nSEISS – Space Environment In-Situ Suite \nMAG – Magnetometer \nAUX – Auxiliary Services \n\tLRIT-- Low Rate Information transmission \n\tEMWIN-- Emergency Managers Wx Information Network \n\tDCS-- Data Collection System  \t\n\tSAR-- Search and Rescue"
+    },
+    {
+      "objectId": "slide_2214_47_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5848765310586177,
+          "y": 0.3436214639836687,
+          "width": 0.28858027121609797,
+          "height": 0.17293175853018372
+        }
+      },
+      "textContent": "Improved disaster mitigation for hurricane trajectory forecasts from better definition of mass and motion fields, along with better knowledge of the sea surface temperatures. \n Improved knowledge of moisture/thermal fields provide better data for agricultural forecasting. \n Better general weather announcements affecting public health from improved forecasting and monitoring of surface temperatures in urban and metropolitan areas during heat stress (and sub-zero conditions).\n Better monitoring of the sun and near-Earth space environment \n Auxiliary services data collection (river monitoring, etc).\n Improved data for environmental modeling\n Better hot spot detection and characterization\n Improved data for air quality forecasts\n Better weather forecasts\n Better fog detection\n Better thunderstorm monitoring\n Better cloud, precipitation monitoring\n Better hurricane monitoring"
+    },
+    {
+      "objectId": "slide_2214_48_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.19753083989501313,
+          "y": 0.6487483231262758,
+          "width": 0.2916666666666667,
+          "height": 0.14303149606299212
+        }
+      },
+      "textContent": "Satellite-to-satellite cross-calibration of the full operational satellite system \n Hourly high spectral resolution infrared radiances facilitate radiance calibration, calibration-monitoring\n Provide measurements that resolve climate-relevant (diurnal, seasonal, and long-term inter-annual) changes in atmosphere, ocean, land and cryosphere.\n Solar irradiance inputs measured by SIS \n Diurnal signature for fires in the Western hemisphere\n Diurnal signature of clouds in the Western hemisphere\n Diurnal signature for Land/Sea temperatures in clear skies\n Diurnal signature of lightning (both cloud-to-ground and intra-cloud discharges) over both land and ocean in the western hemisphere\n Improved measurements of Outgoing Longwave Radiation (OLR), O3 and SO2\n Continuing the geostationary radiance database"
+    },
+    {
+      "objectId": "slide_2214_49_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.15477110673665792,
+          "y": 0.32921813939924177,
+          "width": 0.3313400043744532,
+          "height": 0.12309784193642462
+        }
+      },
+      "textContent": "Huge increase in measurements beneficial to ecosystem management and coastal & ocean resource utilization. \n First time ever, characterization of diurnal ocean color as a function of tidal conditions and observation of phytoplankton blooms (e.g. red tides) as they occur. \n Improved coastal environment monitoring of a) response of marine ecosystems to short-term physical events, such as passage of storms and tidal mixing; b) biotic and abiotic material in transient surface features, such as river plumes and tidal fronts; and c) location of hazardous materials, such as some oil spills, and noxious algal blooms\n Monitoring of chlorophyll, turbidity and sediment transport\n Auxiliary services used for Reservoir Management, water quality, etc.\n Monitoring of sea surface temperature near corals in the Western hemisphere \n Monitoring of the surface vegetation, burn scars"
+    },
+    {
+      "objectId": "slide_2214_50_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.48765430883639543,
+          "y": 0.6331447944006999,
+          "width": 0.4038708442694663,
+          "height": 0.18289851268591426
+        }
+      },
+      "textContent": "Better information regarding conditions leading to fog, icing, head or tail winds, and development of severe weather including microbursts en route makes air traffic more economical and safer.  \n Better depiction of ocean currents, low level winds and calm areas, major storms, and hurricanes (locations, intensities, and motions) benefits ocean transportation.  Information regarding storms, fog, flooding, snowfall, blowing snow, and blowing sand assists surface transportation.\n Power consumption can be regulated more effectively with real-time assessment of regional and local insolation and temperatures.\n Geostationary Lightning Mapper for nowcasts and aviation forecasts\n Monitoring SST eddies in the Gulf of Mexico can be useful for oil and gas operations.\n Better monitoring of solar disturbances that can interfere with GPS use, interrupt communications, and cause disruptions of electric power grids. \n Solar/energetic particle observations leading to improved forecasts and specification of radiation and communication impacts for aviation interests\n Auxiliary services used for search and rescue activities\n As of a May 2000 report, 138 insured satellites in geosynchronous orbit valued at $20.1 B. “Space weather suggested as cause or contributor to over $500 M in insurance claims in past 4 years.“ U.S. Aviation Underwriters, Inc\n A Cost Benefit Analysis (CBA) from eight cases combined for an annual marginal economic benefits from ABI and HES of  approximately $638 M annually (2002 dollars) and a discounted (present value) sum-of-direct benefits of approximately $3.1B across a 13-year effective benefit lifecycle."
+    },
+    {
+      "objectId": "slide_2214_53_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.16666666666666666,
+          "y": 0.7777777777777778,
+          "width": 0.14287554680664916,
+          "height": 0.10288072324292796
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2214_54_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.281375656167979,
+          "y": 0.8267337416156314,
+          "width": 0.0701576990376203,
+          "height": 0.017614756488772237
+        }
+      },
+      "textContent": "http://www.ssec.wisc.edu/data/composites.html"
+    },
+    {
+      "objectId": "slide_2214_58_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.26636450131233597,
+          "y": 0.5370370370370371,
+          "width": 0.0328173665791776,
+          "height": 0.023430300379119275
+        }
+      },
+      "textContent": "OLR"
+    },
+    {
+      "objectId": "slide_2214_60_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3848380358705162,
+          "y": 0.5720164771070283,
+          "width": 0.05652001312335958,
+          "height": 0.05855628463108778
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2214_63_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.49405227471566054,
+          "y": 0.8518518518518519,
+          "width": 0.05420483377077865,
+          "height": 0.023430300379119275
+        }
+      },
+      "textContent": "“GOES-N/P”"
+    },
+    {
+      "objectId": "slide_2214_64_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.561021106736658,
+          "y": 0.8518518518518519,
+          "width": 0.04859492563429571,
+          "height": 0.023430300379119275
+        }
+      },
+      "textContent": "“GOES-R”"
+    },
+    {
+      "objectId": "slide_2214_65_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8779900481189852,
+          "y": 0.7325103528725576,
+          "width": 0.11011439195100613,
+          "height": 0.03909084281131525
+        }
+      },
+      "textContent": "Simulated ABI Band Differences \nconvolved from AIRS data\n(SO2 plume from \nMontserrat Island, West Indies)"
+    },
+    {
+      "objectId": "slide_2214_66_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.9071663385826771,
+          "y": 0.6485554097404491,
+          "width": 0.0324073709536308,
+          "height": 0.02181933508311461
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2214_67_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.17560444006999126,
+          "y": 0.7854938757655293,
+          "width": 0.03246675415573053,
+          "height": 0.023430300379119275
+        }
+      },
+      "textContent": "WV:"
+    },
+    {
+      "objectId": "slide_2214_68_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6906506999125109,
+          "y": 0.510287984835229,
+          "width": 0.07478138670166229,
+          "height": 0.07754636920384952
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2214_69_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.028742344706911636,
+          "y": 0.39849110527850684,
+          "width": 0.13063845144356956,
+          "height": 0.023430300379119275
+        }
+      },
+      "textContent": "ABI Bands allow for several Land Products"
+    },
+    {
+      "objectId": "slide_2214_70_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0324073709536308,
+          "y": 0.29218110236220474,
+          "width": 0.10439173228346457,
+          "height": 0.10631000291630213
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2214_73_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.42746916010498687,
+          "y": 0.7489712744240303,
+          "width": 0.05981463254593176,
+          "height": 0.023430300379119275
+        }
+      },
+      "textContent": "Annual lightning strikes"
+    },
+    {
+      "objectId": "slide_2214_74_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.42251804461942255,
+          "y": 0.7613168562263051,
+          "width": 0.04507458442694663,
+          "height": 0.06009944590259551
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2214_75_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5895061242344707,
+          "y": 0.5061727909011373,
+          "width": 0.08333333333333333,
+          "height": 0.08333333333333333
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2214_76_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6018519247594051,
+          "y": 0.08024686497521143,
+          "width": 0.21450612423447069,
+          "height": 0.16872426363371246
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2214_78_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.33796292650918636,
+          "y": 0.7613597258675999,
+          "width": 0.052469160104986874,
+          "height": 0.059627879848352286
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2214_79_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6358024934383202,
+          "y": 0.2510288713910761,
+          "width": 0.1146855861767279,
+          "height": 0.023430300379119275
+        }
+      },
+      "textContent": "The cloud information is from GOES"
+    }
+  ],
+  "slide_id": "slide_2214"
+}

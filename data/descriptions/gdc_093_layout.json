@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0780_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3416666666666667,
+          "y": 0.9106481481481481,
+          "width": 0.31666666666666665,
+          "height": 0.06944444444444445
+        }
+      },
+      "textContent": "For Conceptual Purposes Only"
+    },
+    {
+      "objectId": "slide_0780_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7166666666666667,
+          "y": 0.9106481481481481,
+          "width": 0.23333333333333334,
+          "height": 0.06944444444444445
+        }
+      },
+      "textContent": "93"
+    },
+    {
+      "objectId": "slide_0780_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.04004636920384952,
+          "width": 0.9,
+          "height": 0.8532407407407407
+        }
+      },
+      "textContent": "Release 3 – AM Reports\n\t\nAccount Mgmt – 67 reports\nNew User Interface \nUpdated Release 2 reports\nNew Data Type (Cargo Entry) \nNew Reports \nAdvanced queries (Entry Summary, Cargo Entry, Cargo Exams and Team Reviews)\nFiler by Port\nNew Compliance Quick View and Reports\nBroker/Filer Quick Views\nNew Functionality"
+    }
+  ],
+  "slide_id": "slide_0780"
+}

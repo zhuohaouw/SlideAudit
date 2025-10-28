@@ -1,0 +1,80 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1335_1_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03333333333333333,
+          "y": 0.022222222222222223,
+          "width": 0.8666666666666667,
+          "height": 0.5553241469816272
+        }
+      },
+      "textContent": "Removal of Pesticides in \n             Grassed Waterways\n\n Quantify the effectiveness of using water-treatment residuals in filter socks for removal of pesticides\nfrom fields\n\n  Collaboration with industry"
+    },
+    {
+      "objectId": "slide_1335_2_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5666666666666667,
+          "y": 0.4888888888888889,
+          "width": 0.4166666666666667,
+          "height": 0.49837970253718283
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1335_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6,
+          "y": 0.43333333333333335,
+          "width": 0.4,
+          "height": 0.05347229512977544
+        }
+      },
+      "textContent": "Filter sock filled with compost"
+    },
+    {
+      "objectId": "slide_1335_4_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.075,
+          "y": 0.5777777777777777,
+          "width": 0.4,
+          "height": 0.4
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1335_5_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.058333333333333334,
+          "y": 0.5111111111111111,
+          "width": 0.4,
+          "height": 0.05347229512977544
+        }
+      },
+      "textContent": "Grassed waterway"
+    }
+  ],
+  "slide_id": "slide_1335"
+}

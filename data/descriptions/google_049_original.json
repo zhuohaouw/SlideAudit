@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2376_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0620333552055993,
+          "y": 0.09201846991348303,
+          "width": 0.17165354330708663,
+          "height": 0.0826480023330417
+        }
+      },
+      "textContent": "Thank You"
+    },
+    {
+      "objectId": "slide_2376_2_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0620333552055993,
+          "y": 0.30886283658987074,
+          "width": 0.45790682414698164,
+          "height": 0.652610090405366
+        }
+      },
+      "textContent": "▶\tFor more details please visit our Website-\nhttps://lightangelic.com/\n\n▶\tPH- +971561677275\n▶\tAddress\n\n▶\tVilla No.39\n\n▶\t27d Street, Al Warqa 3\n\n▶\tDubai, United Arab Emirates"
+    }
+  ],
+  "slide_id": "slide_2376"
+}

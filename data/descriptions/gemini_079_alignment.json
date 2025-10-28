@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0123_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5354650043744532,
+          "y": 0.05460775736366288,
+          "width": 0.4292650918635171,
+          "height": 0.21236512102653834
+        }
+      },
+      "textContent": "The Rise and Fall of the Maya"
+    },
+    {
+      "objectId": "slide_0123_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5219898293963254,
+          "y": 0.3539370078740158,
+          "width": 0.44616141732283465,
+          "height": 0.542140565762613
+        }
+      },
+      "textContent": "Rise: Flourished between 250 and 900 AD.\nBuilt impressive cities and temples.\nDeveloped advanced writing and calendar systems.\nFall: Around 900 AD, cities in the southern lowlands were abandoned.\nTheories for fall include drought, deforestation, and warfare."
+    },
+    {
+      "objectId": "slide_0123_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5660104986876641,
+          "y": 0.11423194322931855,
+          "width": 0.43398950131233593,
+          "height": 0.7715368912219306
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0123"
+}

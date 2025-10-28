@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1222_1_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.04083967629046369,
+          "y": 0.16022163896179645,
+          "width": 0.9183207567804025,
+          "height": 0.7487168270632838
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1222_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.050001421697287836,
+          "y": 3.888402838534072e-07,
+          "width": 0.9,
+          "height": 0.16669582968795568
+        }
+      },
+      "textContent": "Duration of Goals"
+    },
+    {
+      "objectId": "slide_1222_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.23418088363954506,
+          "y": 0.6525420433556917,
+          "width": 0.7320866141732284,
+          "height": 0.3127442403032954
+        }
+      },
+      "textContent": "Short Term = 0-6 Months\nMedium Term = 6 Months - 2 Years\nLong Term = 2 Years and Beyond..."
+    }
+  ],
+  "slide_id": "slide_1222"
+}

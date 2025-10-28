@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0822_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.15644502770487023,
+          "width": 0.40793963254593174,
+          "height": 0.1546806649168854
+        }
+      },
+      "textContent": "The Psychology of Lying"
+    },
+    {
+      "objectId": "slide_0822_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.3697781666180616,
+          "width": 0.40793963254593174,
+          "height": 0.5244677748614757
+        }
+      },
+      "textContent": "Why People Lie: To avoid punishment, protect themselves, maintain a positive image, or influence others.\nDeception Detection: Analyze body language, facial expressions, and verbal cues.\nMicroexpressions: Fleeting facial expressions that reveal true emotions.\nVerbal Cues: Inconsistencies, evasiveness, or overemphasis.\nBehavioral Changes: Fidgeting, avoiding eye contact, or changes in vocal tone."
+    },
+    {
+      "objectId": "slide_0822_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.11602810586176728,
+          "y": 0.009403907844852727,
+          "width": 0.5129921259842519,
+          "height": 0.9119860017497813
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0822"
+}

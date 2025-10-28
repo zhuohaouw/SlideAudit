@@ -1,0 +1,166 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1687_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.49166666666666664,
+          "y": 0.9444444444444444,
+          "width": 0.5083333333333333,
+          "height": 0.05555555555555555
+        }
+      },
+      "textContent": "SCCTP Serial Holdings Workshop"
+    },
+    {
+      "objectId": "slide_1687_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.9333333333333333,
+          "width": 0.08333333333333333,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": "68"
+    },
+    {
+      "objectId": "slide_1687_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.49166666666666664,
+          "y": 0.9444444444444444,
+          "width": 0.5083333333333333,
+          "height": 0.05555555555555555
+        }
+      },
+      "textContent": "SCCTP Serial Holdings Workshop"
+    },
+    {
+      "objectId": "slide_1687_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.9333333333333333,
+          "width": 0.08333333333333333,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": "68"
+    },
+    {
+      "objectId": "slide_1687_5_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 1.0,
+          "height": 0.12222222222222222
+        }
+      },
+      "textContent": "Symbols, hyphens, coding challenges"
+    },
+    {
+      "objectId": "slide_1687_6_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.13333333333333333,
+          "width": 1.0,
+          "height": 0.7555555555555555
+        }
+      },
+      "textContent": "NISO standards prescribe hyphens as connectors within holdings statements.  \nSome serials have symbols as captions, internal hyphens, and other coding challenges. Unofficially, the    Publication Patterns Initiative \n   substitutes a period for the\n   hyphen so as to distinguish\n   them from ranges."
+    },
+    {
+      "objectId": "slide_1687_7_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03333333333333333,
+          "y": 0.5444444444444444,
+          "width": 0.2916666666666667,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1687_8_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.575,
+          "y": 0.4,
+          "width": 0.425,
+          "height": 0.18888888888888888
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.wmf",
+          "content_type": "image/x-wmf"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1687_9_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6333333333333333,
+          "y": 0.6111111111111112,
+          "width": 0.36666666666666664,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": "A"
+    },
+    {
+      "objectId": "slide_1687_10_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5833333333333334,
+          "y": 0.5333333333333333,
+          "width": 0.36666666666666664,
+          "height": 0.08472222222222223
+        }
+      },
+      "textContent": "Weekly Intelligence Notes #24-00\u000bJune 17, 2000"
+    },
+    {
+      "objectId": "slide_1687_11_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03333333333333333,
+          "y": 0.6888888888888889,
+          "width": 0.9083333333333333,
+          "height": 0.1317130358705162
+        }
+      },
+      "textContent": "853 20 $8 1 $a #  $i (year) $j (month) $k (day) $w w $x 0107\n863 41  $8 1.1 $a 24.00 $i 2000 $j 06 $k 17"
+    },
+    {
+      "objectId": "slide_1687_12_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.8444444444444444,
+          "width": 0.8916666666666667,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": "May display as:    #24.00(2000:June 17)"
+    }
+  ],
+  "slide_id": "slide_1687"
+}

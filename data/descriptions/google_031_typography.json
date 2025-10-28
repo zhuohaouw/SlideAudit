@@ -1,0 +1,111 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1296_1_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.765625,
+          "y": 0.22592592592592592,
+          "width": 0.1484374453193351,
+          "height": 0.18310177894429863
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1296_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.075,
+          "y": 0.08333333333333333,
+          "width": 0.85,
+          "height": 0.11665208515602217
+        }
+      },
+      "textContent": "The world’s oldest communications company"
+    },
+    {
+      "objectId": "slide_1296_3_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.07482633420822397,
+          "y": 0.22708330903081558,
+          "width": 0.6614501312335958,
+          "height": 0.1784776902887139
+        }
+      },
+      "textContent": "A story that stretches from the birth of the electric telegraph in the 1830s to the explosion of the internet and the rise of competition"
+    },
+    {
+      "objectId": "slide_1296_4_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.07482633420822397,
+          "y": 0.43703703703703706,
+          "width": 0.6614501312335958,
+          "height": 0.16803732866724994
+        }
+      },
+      "textContent": "Our unique and nationally significant collection charts the development of communications services in the UK"
+    },
+    {
+      "objectId": "slide_1296_5_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.07482633420822397,
+          "y": 0.6365741226791095,
+          "width": 0.669258530183727,
+          "height": 0.19282589676290462
+        }
+      },
+      "textContent": "Our collection illustrates the leading role the UK, \nBT and its predecessors played in the progress of communications technology and its influence on society"
+    },
+    {
+      "objectId": "slide_1296_6_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7677083333333333,
+          "y": 0.44745367940118597,
+          "width": 0.1484374453193351,
+          "height": 0.1576387673763002
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1296_7_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7677083333333333,
+          "y": 0.6435186157285895,
+          "width": 0.1484374453193351,
+          "height": 0.1768519490619228
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_1296"
+}

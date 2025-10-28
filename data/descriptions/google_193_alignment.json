@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0706_1_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.18362860892388452,
+          "y": 0.01721959755030621,
+          "width": 0.8163713910761154,
+          "height": 0.18938466025080197
+        }
+      },
+      "textContent": "MEDICAL/SURGICAL MANAGEMENT"
+    },
+    {
+      "objectId": "slide_0706_2_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.04535433070866142,
+          "y": 0.24191523281811997,
+          "width": 0.3984251968503937,
+          "height": 0.6108486439195101
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0706_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06803149606299212,
+          "y": 0.16337668902498298,
+          "width": 0.8163713910761154,
+          "height": 0.7740449110527851
+        }
+      },
+      "textContent": "* Hematocrit (Hct)\n\n- to monitor mother's blood volume.\n\nNormal Result: 37%–47%\nAbnormality with condition: Decreases several hours after significant blood loss has occurred\nExplanation: Active bleeding causes decrease.\n(Other Tests: Blood type and crossmatch; coagulation studies if bleeding is excessive)"
+    }
+  ],
+  "slide_id": "slide_0706"
+}

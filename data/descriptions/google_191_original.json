@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2019_1_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.04535433070866142,
+          "y": 0.036329153300281906,
+          "width": 0.8163713910761154,
+          "height": 0.15118110236220472
+        }
+      },
+      "textContent": "Pathophysiology of Placenta Previa"
+    },
+    {
+      "objectId": "slide_2019_2_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.04535433070866142,
+          "y": 0.2740445222125012,
+          "width": 0.8163713910761154,
+          "height": 0.5953339165937591
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2019_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.04535433070866142,
+          "y": 0.036329153300281906,
+          "width": 0.816240157480315,
+          "height": 0.773869932925051
+        }
+      },
+      "textContent": "No specific cause of placenta previa has yet been found but it is hypothesized to be related to abnormal vascularisation of the endometrium caused by scarring or atrophy from previous trauma, surgery, or infection.\n\t\t\tIn the last trimester of pregnancy the isthmus of the uterus unfolds and forms the lower segment. In a normal pregnancy the placenta does not overlie it, so there is no bleeding. If the placenta does overlie the lower segment, it may shear off and a small section may bleed. This bleeding often starts mildly and may increase as the area of placental separation increases.\n\t\t\tThe cotyledons of the maternal surface of the placenta extend into the decidua basalis, which forms a natural cleavage plane between the placenta and the uterine wall. There are interlacing uterine muscle bundles, consisting of tiny myofibrils, around the branches of the uterine arteries that run through the wall of the uterus to the placental area. The placental site is usually located on either the anterior or the posterior uterine wall.The amniotic membranes are adhered to the inner wall of the uterus except where the placenta is located"
+    }
+  ],
+  "slide_id": "slide_2019"
+}

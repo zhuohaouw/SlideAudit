@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1702_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.13326388888888888,
+          "y": 0.0,
+          "width": 0.0,
+          "height": 0.0
+        }
+      },
+      "textContent": "Health Insurance"
+    },
+    {
+      "objectId": "slide_1702_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.09161909448818897,
+          "y": 0.34452537182852144,
+          "width": 0.841488845144357,
+          "height": 0.6774249052201808
+        }
+      },
+      "textContent": "How to enroll in a health plan:\nComplete the SF-2809, Health Benefits Election Form:\n\thttp://www.opm.gov/forms/pdf_fill/sf2809.pdf\n\nFollow the instructions included with the form.\nPrint copy 1, Official Personnel Folder copy, and send it to Human Resources Operations in Minneapolis within 60 days of your employment date.  The other copies are not needed. This form may be faxed to 612-336-3545, or mailed.\nEven if you elect not to enroll in a health plan at this time, you are required to complete the SF-2809, electing not to enroll, and send it to Human Resources Operations in Minneapolis within 60 days of your employment date.\nIf you miss this opportunity to enroll, you will need to wait for the annual open season, or a qualifying life event."
+    },
+    {
+      "objectId": "slide_1702_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7917752624671917,
+          "y": 0.02247098279381744,
+          "width": 0.18323786089238844,
+          "height": 0.24431714785651792
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.wmf",
+          "content_type": "image/x-wmf"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_1702"
+}

@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1628_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06000382764654418,
+          "y": 0.11733255565276562,
+          "width": 0.8665682414698163,
+          "height": 0.12977544473607466
+        }
+      },
+      "textContent": "Wonders of the World 🌎"
+    },
+    {
+      "objectId": "slide_1628_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.426,
+          "y": 0.2737777777777778,
+          "width": 0.522998687664042,
+          "height": 0.6008748906386702
+        }
+      },
+      "textContent": "The Great Blue Hole, Belize: Giant marine sinkhole formed during ice ages.\nEye of the Sahara, Mauritania: Eroded dome-shaped structure with concentric rings.\nGiant's Causeway, Northern Ireland: 40,000 interlocking basalt columns from volcanic activity.\nPamukkale, Turkey: Terraces of carbonate minerals from hot springs.\nChocolate Hills, Philippines: 1,268 cone-shaped hills formed by limestone erosion."
+    },
+    {
+      "objectId": "slide_1628_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06,
+          "y": 0.3022222222222222,
+          "width": 0.306988188976378,
+          "height": 0.5457567804024497
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_1628"
+}

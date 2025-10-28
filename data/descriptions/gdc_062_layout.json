@@ -1,0 +1,132 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0391_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.16666666666666666,
+          "y": 0.03333333333333333,
+          "width": 0.7583333333333333,
+          "height": 0.16666666666666666
+        }
+      },
+      "textContent": "PS Baseline & Discharge Limits"
+    },
+    {
+      "objectId": "slide_0391_3_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.25,
+          "y": 0.9222222222222223,
+          "width": 0.49166666666666664,
+          "height": 0.0
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0391_5_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7833333333333333,
+          "y": 0.5178241469816273,
+          "width": 0.21666666666666667,
+          "height": 0.22662029746281714
+        }
+      },
+      "textContent": "Baseline for Buyer & Seller"
+    },
+    {
+      "objectId": "slide_0391_6_LINE (9)",
+      "type": "LINE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7333333333333333,
+          "y": 0.6280093321668124,
+          "width": 0.05,
+          "height": 0.0032407407407407406
+        }
+      }
+    },
+    {
+      "objectId": "slide_0391_7_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.3111111111111111,
+          "width": 0.20833333333333334,
+          "height": 0.2625
+        }
+      },
+      "textContent": "Minimum Control Level for Buyer"
+    },
+    {
+      "objectId": "slide_0391_8_LINE (9)",
+      "type": "LINE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.20833333333333334,
+          "y": 0.4423611840186643,
+          "width": 0.041666666666666664,
+          "height": 0.024305482648002332
+        }
+      }
+    },
+    {
+      "objectId": "slide_0391_9_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.25,
+          "y": 0.26666666666666666,
+          "width": 0.0,
+          "height": 0.6555555555555556
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0391_10_LINE (9)",
+      "type": "LINE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.2,
+          "y": 0.7722222222222223,
+          "width": 0.05,
+          "height": 0.0412037037037037
+        }
+      }
+    },
+    {
+      "objectId": "slide_0391_11_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.7,
+          "width": 0.2,
+          "height": 0.2266204432779236
+        }
+      },
+      "textContent": "Trading Limit for Seller"
+    },
+    {
+      "objectId": "slide_0391_12_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.24166666666666667,
+          "y": 0.7444444444444445,
+          "width": 0.008333333333333333,
+          "height": 0.0
+        }
+      },
+      "textContent": ""
+    }
+  ],
+  "slide_id": "slide_0391"
+}

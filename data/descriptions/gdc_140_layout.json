@@ -1,0 +1,207 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0174_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.003993110236220472,
+          "y": 0.9618056284631088,
+          "width": 0.12569444444444444,
+          "height": 0.03148148148148148
+        }
+      },
+      "textContent": "25/03/2025"
+    },
+    {
+      "objectId": "slide_0174_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.22899311023622046,
+          "y": 0.9618056284631088,
+          "width": 0.7253472222222223,
+          "height": 0.03148148148148148
+        }
+      },
+      "textContent": "- F. Eozénou -     TTC Meeting WG4 Fermilab"
+    },
+    {
+      "objectId": "slide_0174_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.9539931102362205,
+          "y": 0.9618056284631088,
+          "width": 0.04236111111111111,
+          "height": 0.03148148148148148
+        }
+      },
+      "textContent": "140"
+    },
+    {
+      "objectId": "slide_0174_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.22274311023622048,
+          "y": 0.009490813648293963,
+          "width": 0.6456596675415573,
+          "height": 0.08472222222222223
+        }
+      },
+      "textContent": "HIGH PERFORMANCE SURFACE TREATMENT REQUIRED FOR DIFFERENT TYPES OF CAVITIES"
+    },
+    {
+      "objectId": "slide_0174_5_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.13993055555555556,
+          "y": 0.7550925925925925,
+          "width": 0.8111111111111111,
+          "height": 0.11365748031496063
+        }
+      },
+      "textContent": "β = 1 cavity   Eacc = 25 MV/m \nNeed for an efficient surface treatment→ Choice for Electro - Polishing"
+    },
+    {
+      "objectId": "slide_0174_6_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.16927088801399826,
+          "y": 0.47175925925925927,
+          "width": 0.6880207786526684,
+          "height": 0.19375007290755322
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0174_7_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6123264435695538,
+          "y": 0.6655093321668125,
+          "width": 0.3661457786526684,
+          "height": 0.053472149314669
+        }
+      },
+      "textContent": "(Tesla: Ø=211mm L=1283mm)"
+    },
+    {
+      "objectId": "slide_0174_8_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.13593755468066493,
+          "y": 0.6655093321668125,
+          "width": 0.47638888888888886,
+          "height": 0.05486103820355789
+        }
+      },
+      "textContent": "Ø382mm   L>1430mm  1,76 m2     88L"
+    },
+    {
+      "objectId": "slide_0174_9_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.20677088801399826,
+          "y": 0.8800925925925925,
+          "width": 0.8111111111111111,
+          "height": 0.05347229512977544
+        }
+      },
+      "textContent": "+ (optionnal) EP for β = 0.65 cavity    Eacc = 19 MV/m"
+    },
+    {
+      "objectId": "slide_0174_10_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.14878477690288713,
+          "y": 0.3939814814814815,
+          "width": 0.12274300087489064,
+          "height": 0.07777777777777778
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0174_11_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.27152777777777776,
+          "y": 0.196527850685331,
+          "width": 0.7284722222222222,
+          "height": 0.1537037037037037
+        }
+      },
+      "textContent": "ILC Hi-Grade Program \n8 Tesla Shape cavities to be treated (final step) and tested at Saclay: Final VEP + Rinsing + Test"
+    },
+    {
+      "objectId": "slide_0174_12_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.12413199912510936,
+          "y": 0.196527850685331,
+          "width": 0.14739577865266842,
+          "height": 0.09699066783318752
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0174_13_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.27152777777777776,
+          "y": 0.4182871099445903,
+          "width": 0.5915721784776903,
+          "height": 0.06477209098862642
+        }
+      },
+      "textContent": "Surface treatment for large proton cavity"
+    },
+    {
+      "objectId": "slide_0174_14_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.818923665791776,
+          "y": 0.875,
+          "width": 0.10625,
+          "height": 0.09166666666666666
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0174"
+}

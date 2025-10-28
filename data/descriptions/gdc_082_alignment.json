@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2108_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.02962962962962963,
+          "width": 0.9,
+          "height": 0.28703703703703703
+        }
+      },
+      "textContent": "The Federal Acquisition Streamlining Act of 1994 requires that exclusion from any federal program is exclusion from all"
+    },
+    {
+      "objectId": "slide_2108_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.32222222222222224,
+          "width": 0.9,
+          "height": 0.6777777777777778
+        }
+      },
+      "textContent": "mandates and expands the government-wide effect of all debarments, suspensions, and other exclusionary actions to federal procurement, as well as non-procurement programs. \nSection 2455: “No agency shall allow a party to participate in any procurement or nonprocurement activity if any agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in a procurement or nonprocurement activity.”\nTHE GSA AND OIG LISTS ARE NOT INTEGRATED-EACH MUST BE CHECKED\nList of parties excluded from federal procurement and nonprocurement programs \u000bhttps://www.epls.gov  \u000b\nNo public discussion of this provision by CMS or OIG that OMIG could find\nNOTE THAT EXCLUSION FROM ONE STATE’S MEDICAID PROGRAM DOES NOT RESULT IN EXCLUSION FROM ALL STATE MEDICAID PROGRAMS, AND THAT INDIVIDUAL STATE EXCLUSIONS ARE NOT REPORTED ON ANY FEDERAL DATABASE\nAfter January 1, 2011, any state’s “termination” of a person will require that all states “terminate”  that person (PPACA Section 6501)."
+    }
+  ],
+  "slide_id": "slide_2108"
+}

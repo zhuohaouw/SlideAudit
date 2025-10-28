@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1591_1_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": -0.004166666666666667,
+          "width": 1.0,
+          "height": 1.0
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1591_2_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.15833333333333333,
+          "y": 0.26666666666666666,
+          "width": 0.6916666666666667,
+          "height": 0.4981481481481482
+        }
+      },
+      "textContent": "YES OR NO? \n May a WIC shopper substitute powdered dry milk for the 2 gallon whole milk FI?"
+    },
+    {
+      "objectId": "slide_1591_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.9182292213473315,
+          "y": 0.9328703703703703,
+          "width": 0.060937445319335086,
+          "height": 0.04027777777777778
+        }
+      },
+      "textContent": "A 500"
+    }
+  ],
+  "slide_id": "slide_1591"
+}

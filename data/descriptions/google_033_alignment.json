@@ -1,0 +1,70 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0542_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.040046271993778554,
+          "width": 0.9,
+          "height": 0.16669582968795568
+        }
+      },
+      "textContent": "New Connections partners"
+    },
+    {
+      "objectId": "slide_0542_2_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.14982633420822397,
+          "y": 0.19305550695052007,
+          "width": 0.7345472440944882,
+          "height": 0.14861475648877223
+        }
+      },
+      "textContent": "jisc"
+    },
+    {
+      "objectId": "slide_0542_3_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.15347222222222223,
+          "y": 0.365509283561777,
+          "width": 0.23021653543307086,
+          "height": 0.4351706036745407
+        }
+      },
+      "textContent": "BT \nArchives\n-\n> collection\n> database integration"
+    },
+    {
+      "objectId": "slide_0542_4_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7645669291338583,
+          "y": 0.3729166909691844,
+          "width": 0.23543307086614174,
+          "height": 0.43493729950422866
+        }
+      },
+      "textContent": "Coventry University\n- \n> project management\n> academic work packages\n> fresh technology"
+    },
+    {
+      "objectId": "slide_0542_5_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6597222222222222,
+          "y": 0.3729166909691844,
+          "width": 0.22463910761154857,
+          "height": 0.43493729950422866
+        }
+      },
+      "textContent": "The National Archives\n- \n> scanning\n> OCR &  \u000b   transcription"
+    }
+  ],
+  "slide_id": "slide_0542"
+}

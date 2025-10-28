@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2266_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03408792650918635,
+          "y": 0.05693593856323515,
+          "width": 0.9318241469816273,
+          "height": 0.1557305336832896
+        }
+      },
+      "textContent": "Your Task:"
+    },
+    {
+      "objectId": "slide_2266_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03408792650918635,
+          "y": 0.21266647224652474,
+          "width": 0.9318241469816273,
+          "height": 0.6494021580635754
+        }
+      },
+      "textContent": "Build a scribble machine! \nYour creation should “draw” on paper without any human help.\nGuidance / Ideas:\nUse your battery and motor to generate some movement\nUse tape to keep everything where you want it to stay\nLook around you! Steal good ideas and brainstorm together!\nGet creative to focus on style and function\nDon’t be afraid to fail; it’s how we learn!"
+    },
+    {
+      "objectId": "slide_2266_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.745278324584427,
+          "y": 0.6603723145717897,
+          "width": 0.25472167541557306,
+          "height": 0.33962768542821037
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_2266"
+}

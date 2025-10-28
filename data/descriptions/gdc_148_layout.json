@@ -1,0 +1,67 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0305_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0975,
+          "y": 0.155,
+          "width": 0.805,
+          "height": 0.25
+        }
+      },
+      "textContent": "The Task @ Hand"
+    },
+    {
+      "objectId": "slide_0305_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0975,
+          "y": 0.2833333333333333,
+          "width": 0.805,
+          "height": 0.5866666666666667
+        }
+      },
+      "textContent": "The Purpose\nThe Project"
+    },
+    {
+      "objectId": "slide_0305_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.46109383202099735,
+          "y": 0.4589584426946632,
+          "width": 0.4176561679790026,
+          "height": 0.37395829687955673
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0305_4_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": -0.005937445319335083,
+          "y": -0.0016666666666666668,
+          "width": 1.0103125546806648,
+          "height": 0.17
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0305"
+}

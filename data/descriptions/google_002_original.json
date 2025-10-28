@@ -1,0 +1,93 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0442_1_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7727272528433946,
+          "y": 0.8679051229707397,
+          "width": 0.193415791776028,
+          "height": 0.065405852046272
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0442_2_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.020118547681539808,
+          "y": 0.8973035870516185,
+          "width": 0.3500984251968504,
+          "height": 0.025721784776902887
+        }
+      },
+      "textContent": "Date (xx/xx/xxxx)\tDepartment Name\tPage Number"
+    },
+    {
+      "objectId": "slide_0442_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.020118985126859144,
+          "y": 0.8958327986779431,
+          "width": 0.48362860892388454,
+          "height": 0.029279673374161562
+        }
+      },
+      "textContent": "May 22, 2019\tSeattle Department of Transportation\t7"
+    },
+    {
+      "objectId": "slide_0442_4_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.03666647224652474,
+          "width": 0.9264708005249344,
+          "height": 0.9266662778263828
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0442_5_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.02454604111986002,
+          "y": 0.07288052882278603,
+          "width": 0.44524278215223095,
+          "height": 0.0978710994459026
+        }
+      },
+      "textContent": "Questions?"
+    },
+    {
+      "objectId": "slide_0442_6_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.31067443132108485,
+          "y": 0.3126794983960338,
+          "width": 0.37877296587926507,
+          "height": 0.32960046660834064
+        }
+      },
+      "textContent": "Quinn.Majeski@seattle.gov\nDongho.Chang@seattle.gov"
+    }
+  ],
+  "slide_id": "slide_0442"
+}

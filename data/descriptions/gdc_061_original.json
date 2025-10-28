@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2115_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7166666666666667,
+          "y": 0.9111111111111111,
+          "width": 0.20833333333333334,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": "61"
+    },
+    {
+      "objectId": "slide_2115_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.075,
+          "y": 0.08888888888888889,
+          "width": 0.85,
+          "height": 0.1111111111111111
+        }
+      },
+      "textContent": "92 Guidance - Indications"
+    },
+    {
+      "objectId": "slide_2115_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.058333333333333334,
+          "y": 0.24444444444444444,
+          "width": 0.9083333333333333,
+          "height": 0.6666666666666666
+        }
+      },
+      "textContent": "For the management of pain\n\nEvidence for pain of several different etiologies will justify “general purpose” analgesic labeling.\n\nInclusion of specific labeling indications for preoperative medication, for support of anesthesia, for obstetrical analgesia, or for dysmenorrhea requires specific studies."
+    }
+  ],
+  "slide_id": "slide_2115"
+}

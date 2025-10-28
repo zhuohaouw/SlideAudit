@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1049_1_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7166666666666667,
+          "y": 0.9106481967531836,
+          "width": 0.23333333333333334,
+          "height": 0.0694079906678332
+        }
+      },
+      "textContent": "‹#›"
+    },
+    {
+      "objectId": "slide_1049_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.125,
+          "y": 0.1,
+          "width": 0.7166666666666667,
+          "height": 0.16669582968795568
+        }
+      },
+      "textContent": "What are kinds of Utility?"
+    },
+    {
+      "objectId": "slide_1049_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.21666666666666667,
+          "y": 0.35555555555555557,
+          "width": 0.5916666666666667,
+          "height": 0.2979294254884806
+        }
+      },
+      "textContent": "Form Utility\n Place Utility\n Time Utility"
+    }
+  ],
+  "slide_id": "slide_1049"
+}

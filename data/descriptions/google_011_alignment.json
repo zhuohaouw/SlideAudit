@@ -1,0 +1,62 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0558_1_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.0,
+          "width": 0.6796875546806649,
+          "height": 0.868055604160591
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0558_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03854166666666667,
+          "y": 0.04425935646933022,
+          "width": 0.3933727034120735,
+          "height": 0.3273840769903762
+        }
+      },
+      "textContent": "What is the Seattle Transportation Plan?"
+    },
+    {
+      "objectId": "slide_0558_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.21268044619422571,
+          "y": 0.24816661806163118,
+          "width": 0.5746391076115486,
+          "height": 0.6431612715077282
+        }
+      },
+      "textContent": "The plan:\nReimagines our collective transportation vision\nPlans for people first, connecting you to the places that matter most to you\nIs grounded in our steadfast values\nMeets the moment with inclusive engagement"
+    },
+    {
+      "objectId": "slide_0558_4_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6460937226596676,
+          "y": 7.387965393214737e-06,
+          "width": 0.3539062773403325,
+          "height": 0.858
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0558"
+}

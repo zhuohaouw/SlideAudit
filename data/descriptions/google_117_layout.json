@@ -1,0 +1,62 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2065_1_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7166666666666667,
+          "y": 0.9106481967531836,
+          "width": 0.23333333333333334,
+          "height": 0.0694079906678332
+        }
+      },
+      "textContent": "‹#›"
+    },
+    {
+      "objectId": "slide_2065_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.14166666666666666,
+          "y": 0.1111111111111111,
+          "width": 0.7166666666666667,
+          "height": 0.16669582968795568
+        }
+      },
+      "textContent": "Time Utility"
+    },
+    {
+      "objectId": "slide_2065_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.058333333333333334,
+          "y": 0.4222222222222222,
+          "width": 0.8916666666666667,
+          "height": 0.13333333333333333
+        }
+      },
+      "textContent": "When is a product available"
+    },
+    {
+      "objectId": "slide_2065_4_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.37402996500437447,
+          "y": 0.5687290755322252,
+          "width": 0.20990813648293963,
+          "height": 0.26940799066783316
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_2065"
+}

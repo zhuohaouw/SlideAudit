@@ -1,0 +1,109 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1187_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.9444444444444444,
+          "width": 0.23333333333333334,
+          "height": 0.032638961796442115
+        }
+      },
+      "textContent": "3/25/2025"
+    },
+    {
+      "objectId": "slide_1187_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3416666666666667,
+          "y": 0.9444444444444444,
+          "width": 0.31666666666666665,
+          "height": 0.03333333333333333
+        }
+      },
+      "textContent": "DRAFT NMFS eSignature Group"
+    },
+    {
+      "objectId": "slide_1187_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7166666666666667,
+          "y": 0.9444444444444444,
+          "width": 0.23333333333333334,
+          "height": 0.032638961796442115
+        }
+      },
+      "textContent": "50"
+    },
+    {
+      "objectId": "slide_1187_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.9444444444444444,
+          "width": 0.23333333333333334,
+          "height": 0.032638961796442115
+        }
+      },
+      "textContent": "3/25/2025"
+    },
+    {
+      "objectId": "slide_1187_5_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3416666666666667,
+          "y": 0.9444444444444444,
+          "width": 0.31666666666666665,
+          "height": 0.03333333333333333
+        }
+      },
+      "textContent": "DRAFTNMFS eSignature Group"
+    },
+    {
+      "objectId": "slide_1187_6_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7166666666666667,
+          "y": 0.9444444444444444,
+          "width": 0.23333333333333334,
+          "height": 0.032638961796442115
+        }
+      },
+      "textContent": "50"
+    },
+    {
+      "objectId": "slide_1187_7_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.2,
+          "width": 0.9333333333333333,
+          "height": 0.7333333333333333
+        }
+      },
+      "textContent": "Pilot e-signature draft business plans are close to approval per policy and procedural directives\nWiki needs to be transitioned from a working collaboration tool to a reference site for future e-signature initiatives\nProjects that follow the process described should be compliant with:\nthe OMB e-auth policy\nNIST technical guidance\nNMFS policy\nNMFS procedural guidance\nPer current understanding of policy and procedure e-signature projects should go through this analysis individually\nWith some real-world experience it may be feasible to have a “logbook” business plan and a “fish ticket” business plan, and realize economies of scale in the analysis and conceptual design phases\nWhile policy and procedure mandates specific risk and cost/benefit assessments, it seems likely that generic software components could be developed and shared (“NPS-like” e-signature web service?)"
+    },
+    {
+      "objectId": "slide_1187_8_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.0794326334208224,
+          "width": 0.8472564523184601,
+          "height": 0.0942448235637212
+        }
+      },
+      "textContent": "Next Steps for NMFS Implementation"
+    }
+  ],
+  "slide_id": "slide_1187"
+}

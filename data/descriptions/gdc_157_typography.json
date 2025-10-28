@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0319_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.075,
+          "y": 0.17777777777777778,
+          "width": 0.85,
+          "height": 0.16666666666666666
+        }
+      },
+      "textContent": "Renewable Portfolio Standard or  System Benefit Charge?"
+    },
+    {
+      "objectId": "slide_0319_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.075,
+          "y": 0.37777777777777777,
+          "width": 0.85,
+          "height": 0.5333333333333333
+        }
+      },
+      "textContent": "Straight RPS lets market players decide how and when to meet standard - cost is unknown\nRPS with price cap still lets market decide, but cost is capped and level of renewables is unknown\nSBC collects money for some kind of administrative allocation:\nlevel of renewables is unknown\nCan be made market-oriented - maximize reactivity with market decisions"
+    }
+  ],
+  "slide_id": "slide_0319"
+}

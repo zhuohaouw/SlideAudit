@@ -1,0 +1,218 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0362_1_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.1369792213473316,
+          "y": 0.23287037037037037,
+          "width": 0.28871522309711284,
+          "height": 0.36666666666666664
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0362_2_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.13784722222222223,
+          "y": 0.6187500729075532,
+          "width": 0.287673665791776,
+          "height": 0.3453703703703704
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0362_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.13958333333333334,
+          "y": 0.6196759988334791,
+          "width": 0.33194444444444443,
+          "height": 0.053472149314669
+        }
+      },
+      "textContent": "Survivorship"
+    },
+    {
+      "objectId": "slide_0362_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06623261154855643,
+          "y": 0.7748843686205891,
+          "width": 0.1939235564304462,
+          "height": 0.049074074074074076
+        }
+      },
+      "textContent": "Millions of People"
+    },
+    {
+      "objectId": "slide_0362_5_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.20868055555555556,
+          "y": 0.6694444444444444,
+          "width": 0.18819444444444444,
+          "height": 0.24513896179644212
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0362_6_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.21996533245844269,
+          "y": 0.6694444444444444,
+          "width": 0.165625,
+          "height": 0.1638888888888889
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0362_7_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.1920138888888889,
+          "y": 0.9164352580927384,
+          "width": 0.06319444444444444,
+          "height": 0.044444444444444446
+        }
+      },
+      "textContent": "1971"
+    },
+    {
+      "objectId": "slide_0362_8_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.24600699912510937,
+          "y": 0.9166666666666666,
+          "width": 0.06319444444444444,
+          "height": 0.044444444444444446
+        }
+      },
+      "textContent": "1986"
+    },
+    {
+      "objectId": "slide_0362_9_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.29965277777777777,
+          "y": 0.9166666666666666,
+          "width": 0.06319444444444444,
+          "height": 0.044444444444444446
+        }
+      },
+      "textContent": "1990"
+    },
+    {
+      "objectId": "slide_0362_10_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.35347222222222224,
+          "y": 0.9166666666666666,
+          "width": 0.06319444444444444,
+          "height": 0.044444444444444446
+        }
+      },
+      "textContent": "2003"
+    },
+    {
+      "objectId": "slide_0362_11_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.1838542213473316,
+          "y": 0.6648148148148149,
+          "width": 0.03246522309711286,
+          "height": 0.049074074074074076
+        }
+      },
+      "textContent": "9"
+    },
+    {
+      "objectId": "slide_0362_12_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.1838542213473316,
+          "y": 0.7405093321668125,
+          "width": 0.03246522309711286,
+          "height": 0.049074074074074076
+        }
+      },
+      "textContent": "6"
+    },
+    {
+      "objectId": "slide_0362_13_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.1838542213473316,
+          "y": 0.8162037037037037,
+          "width": 0.03246522309711286,
+          "height": 0.049074074074074076
+        }
+      },
+      "textContent": "3"
+    },
+    {
+      "objectId": "slide_0362_14_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.1838542213473316,
+          "y": 0.8921296296296296,
+          "width": 0.02013888888888889,
+          "height": 0.049074074074074076
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0362_15_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.2701388888888889,
+          "y": 0.06643525809273841,
+          "width": 0.5085069991251093,
+          "height": 0.09351851851851851
+        }
+      },
+      "textContent": "Cancer"
+    },
+    {
+      "objectId": "slide_0362_16_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.44704866579177605,
+          "y": 0.21666666666666667,
+          "width": 0.5326388888888889,
+          "height": 0.7099537766112569
+        }
+      },
+      "textContent": "For the first time in recorded history, annual cancer deaths in the United States have fallen\n10 million survivors\nImproved effectiveness of early detection and screening\nThanks to the doubling, new targeted, minimally invasive treatments for cancer multiplied\nNew drugs developed for cancer prevention"
+    }
+  ],
+  "slide_id": "slide_0362"
+}

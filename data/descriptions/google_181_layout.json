@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0118_1_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.2666633615242539,
+          "width": 0.6695300743657043,
+          "height": 0.7013879653932147
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0118_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.024929571303587052,
+          "y": 0.7975858850976961,
+          "width": 0.8873687664041995,
+          "height": 0.16325459317585303
+        }
+      },
+      "textContent": "Human Body Systems"
+    },
+    {
+      "objectId": "slide_0118_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.2767347987751531,
+          "y": 0.19560046660834063,
+          "width": 0.6540354330708661,
+          "height": 0.3599300087489064
+        }
+      },
+      "textContent": "This slide presentation is meant to help you study the major systems of the human body. \n\nUse it as an introduction or as a review. Follow the instructions as you move along to explore and learn. You can go through the entire program slide by slide, or you skip to focus on any one system."
+    }
+  ],
+  "slide_id": "slide_0118"
+}

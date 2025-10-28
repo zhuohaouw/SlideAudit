@@ -1,0 +1,70 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1706_2_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5773748906386702,
+          "y": 0.11748128706133955,
+          "width": 0.08146325459317585,
+          "height": 0.16407115777194517
+        }
+      },
+      "textContent": "Credit  risk  analyst"
+    },
+    {
+      "objectId": "slide_1706_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.26674989063867016,
+          "y": 0.07545659570331487,
+          "width": 0.11243438320209974,
+          "height": 0.11023622047244094
+        }
+      },
+      "textContent": "Marketing\nanalyst"
+    },
+    {
+      "objectId": "slide_1706_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.04681321084864392,
+          "y": 0.23585865655681928,
+          "width": 0.09438976377952756,
+          "height": 0.11023622047244094
+        }
+      },
+      "textContent": "Portfolio  analyst"
+    },
+    {
+      "objectId": "slide_1706_5_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.014833333333333334,
+          "y": 0.5602961018761544,
+          "width": 0.14888888888888888,
+          "height": 0.2691358024691358
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1706_6_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.04681102362204725,
+          "y": 0.6503357635851074,
+          "width": 0.08152887139107612,
+          "height": 0.11035287255759697
+        }
+      },
+      "textContent": "Debt\nanalyst"
+    }
+  ],
+  "slide_id": "slide_1706"
+}

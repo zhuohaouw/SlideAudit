@@ -1,0 +1,140 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2085_1_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.20000010936132984,
+          "y": 0.10000014581510644,
+          "width": 0.628503937007874,
+          "height": 0.06106357538641003
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2085_2_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.22850404636920385,
+          "y": 0.30955395158938465,
+          "width": 0.5480314960629922,
+          "height": 0.5016272965879265
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2085_3_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.09291338582677165,
+          "y": 0.02398950131233596,
+          "width": 0.8107086614173228,
+          "height": 0.11086614173228347
+        }
+      },
+      "textContent": "Fluorescence Calibration at Argonne"
+    },
+    {
+      "objectId": "slide_2085_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.16425207786526685,
+          "y": 0.20498702245552639,
+          "width": 0.47858267716535435,
+          "height": 0.06106357538641003
+        }
+      },
+      "textContent": "Chemistry Division Van de Graaff"
+    },
+    {
+      "objectId": "slide_2085_5_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.35007884951881013,
+          "y": 0.2713387284922718,
+          "width": 0.007086614173228346,
+          "height": 0.1047769028871391
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2085_6_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.17858278652668416,
+          "y": 0.5953282298046078,
+          "width": 0.10692913385826772,
+          "height": 0.07601049868766405
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2085_7_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06425207786526684,
+          "y": 0.5191077573636629,
+          "width": 0.15023622047244095,
+          "height": 0.15876771653543306
+        }
+      },
+      "textContent": "Advanced Photon Source"
+    },
+    {
+      "objectId": "slide_2085_8_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8070867235345581,
+          "y": 0.48089253426655,
+          "width": 0.22141732283464566,
+          "height": 0.20761971420239136
+        }
+      },
+      "textContent": "HEP Division Advanced Wakefield Accelerator"
+    },
+    {
+      "objectId": "slide_2085_9_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7571653543307086,
+          "y": 0.5571130067074949,
+          "width": 0.05732283464566929,
+          "height": 0.08566929133858267
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2085_10_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.1214174321959755,
+          "y": 0.8237796733741616,
+          "width": 0.8785826771653543,
+          "height": 0.15876771653543306
+        }
+      },
+      "textContent": "Complementary machines:  AWA only accelerator with enough energy to do absolute calibration with Cerenkov gas.   Van de Graaff only machine with enough charge to measure spectrum."
+    }
+  ],
+  "slide_id": "slide_2085"
+}

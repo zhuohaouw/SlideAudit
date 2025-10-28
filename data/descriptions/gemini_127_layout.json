@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1711_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5354650043744532,
+          "y": 0.05460775736366288,
+          "width": 0.4292650918635171,
+          "height": 0.21236512102653834
+        }
+      },
+      "textContent": "The Space Race: Past and Future"
+    },
+    {
+      "objectId": "slide_1711_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5219898293963254,
+          "y": 0.3539370078740158,
+          "width": 0.44616141732283465,
+          "height": 0.542140565762613
+        }
+      },
+      "textContent": "1957: Sputnik 1 launched, first artificial satellite.\n1961: Yuri Gagarin, first human in space.\n1969: Apollo 11, first humans on the Moon.\n1998: International Space Station construction begins.\n2020s: Focus shifts to Mars exploration.\nFuture: Establish sustainable human presence on Mars."
+    },
+    {
+      "objectId": "slide_1711_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5486731189851268,
+          "y": 0.20638689608243413,
+          "width": 0.43398950131233593,
+          "height": 0.7715368912219306
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_1711"
+}

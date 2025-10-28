@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1332_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.040046271993778554,
+          "width": 0.9,
+          "height": 0.03773694954797317
+        }
+      },
+      "textContent": "Example Three"
+    },
+    {
+      "objectId": "slide_1332_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.016666666666666666,
+          "y": 0.1,
+          "width": 0.9583333333333334,
+          "height": 0.8778069407990667
+        }
+      },
+      "textContent": "Baseballs come in packs of 8 and basketballs come in packs of 6.  If there are 24 players, what is the least number of packs needed so that each player has a basketball and a baseball and nothing is left over?\nLCM\n8, 6, 24\n\t8: 8, 16, 24, 32, 40, 48, 56, 64\n\t6: 6, 12, 18, 24, 30, 36, 42, 48"
+    },
+    {
+      "objectId": "slide_1332_3_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7192746062992126,
+          "y": 0.8111111111111111,
+          "width": 0.24419291338582677,
+          "height": 0.17777777777777778
+        }
+      },
+      "textContent": ""
+    }
+  ],
+  "slide_id": "slide_1332"
+}

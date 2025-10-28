@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1867_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.044444444444444446,
+          "width": 0.38900918635170606,
+          "height": 0.16354622338874308
+        }
+      },
+      "textContent": "Famous Pirate Ships ☠️ ⛵"
+    },
+    {
+      "objectId": "slide_1867_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.3111111111111111,
+          "width": 0.38900918635170606,
+          "height": 0.6453193350831146
+        }
+      },
+      "textContent": "Queen Anne's Revenge: Blackbeard's flagship, formerly a French slave ship\nWhydah Gally: \"Black Sam\" Bellamy, captured slave ship turned pirate vessel\nFancy: Bartholomew Roberts', fast and heavily armed\nAdventure Galley: William Kidd, large and powerful\nGolden Hind: Sir Francis Drake, circumnavigated the globe"
+    },
+    {
+      "objectId": "slide_1867_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.463,
+          "y": 0.044444444444444446,
+          "width": 0.5129921259842519,
+          "height": 0.9119860017497813
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_1867"
+}

@@ -1,0 +1,62 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1077_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.016390310586176727,
+          "y": 0.3263044619422572,
+          "width": 0.905774278215223,
+          "height": 0.4100320793234179
+        }
+      },
+      "textContent": "Step 1"
+    },
+    {
+      "objectId": "slide_1077_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03408792650918635,
+          "y": 0.5510109847380189,
+          "width": 0.9318241469816273,
+          "height": 0.4330708661417323
+        }
+      },
+      "textContent": "tap on the google doc icon (download from app store if you don't have it)"
+    },
+    {
+      "objectId": "slide_1077_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7097222222222223,
+          "y": 0.0,
+          "width": 0.2902777777777778,
+          "height": 0.6469135802469136
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1077_4_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.80223687664042,
+          "y": 0.22893943812578982,
+          "width": 0.105249343832021,
+          "height": 0.18903470399533392
+        }
+      },
+      "textContent": ""
+    }
+  ],
+  "slide_id": "slide_1077"
+}

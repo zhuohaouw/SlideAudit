@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0300_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.5555555555555556,
+          "width": 0.925,
+          "height": 0.1854167395742199
+        }
+      },
+      "textContent": "Dan Klock | Dec. 2013\nU.S. Department of Education\n2013 FSA Training Conference for Financial Aid Professionals"
+    },
+    {
+      "objectId": "slide_0300_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.29236118401866434,
+          "width": 0.975,
+          "height": 0.1520832604257801
+        }
+      },
+      "textContent": "Return of Title IV Funds (R2T4)\u000b– Programs of Study Taught in Modules"
+    },
+    {
+      "objectId": "slide_0300_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.016666666666666666,
+          "y": 0.038194517351997664,
+          "width": 0.4083333333333333,
+          "height": 0.10763881598133566
+        }
+      },
+      "textContent": "Session # 22"
+    }
+  ],
+  "slide_id": "slide_0300"
+}

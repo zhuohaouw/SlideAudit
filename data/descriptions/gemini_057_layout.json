@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0798_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06000382764654418,
+          "y": 0.11733255565276562,
+          "width": 0.8665682414698163,
+          "height": 0.12977544473607466
+        }
+      },
+      "textContent": "Parallel Universes: Fact or Fiction?"
+    },
+    {
+      "objectId": "slide_0798_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.40652012248468944,
+          "y": 0.3210788373675513,
+          "width": 0.522998687664042,
+          "height": 0.6008748906386702
+        }
+      },
+      "textContent": "Parallel universes: theoretical existence of other universes alongside our own\nScientific basis: rooted in quantum mechanics and cosmology\nMany-worlds interpretation: every quantum event creates new universes\nFictional exploration: popular theme in books, movies, and TV shows\nRaises philosophical questions about reality and identity"
+    },
+    {
+      "objectId": "slide_0798_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06,
+          "y": 0.3022222222222222,
+          "width": 0.306988188976378,
+          "height": 0.5457567804024497
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0798"
+}

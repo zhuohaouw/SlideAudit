@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2202_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.15644502770487023,
+          "width": 0.40793963254593174,
+          "height": 0.1546806649168854
+        }
+      },
+      "textContent": "Lie Detectors: Truth or Myth?"
+    },
+    {
+      "objectId": "slide_2202_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.3697781666180616,
+          "width": 0.40793963254593174,
+          "height": 0.5244677748614757
+        }
+      },
+      "textContent": "Polygraphs measure physiological changes like heart rate, blood pressure, and skin conductivity.\nAssumption: Deception triggers physiological changes.\nResults are subjective and influenced by factors like anxiety, medication, and countermeasures.\nAccuracy rates are debated, but generally considered unreliable for legal purposes.\nCan be useful in investigations but not as conclusive evidence."
+    },
+    {
+      "objectId": "slide_2202_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.463,
+          "y": 0.044444444444444446,
+          "width": 0.5129921259842519,
+          "height": 0.9119860017497813
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_2202"
+}

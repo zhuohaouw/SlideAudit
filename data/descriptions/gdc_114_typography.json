@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1447_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.725,
+          "y": 0.9305555555555556,
+          "width": 0.23333333333333334,
+          "height": 0.06944444444444445
+        }
+      },
+      "textContent": "Page 114"
+    },
+    {
+      "objectId": "slide_1447_2_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.11914884076990376,
+          "y": 0.21068285214348206,
+          "width": 0.7617022090988627,
+          "height": 0.11219612131816856
+        }
+      },
+      "textContent": "CDF Workshop Conclusions"
+    },
+    {
+      "objectId": "slide_1447_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.08481014873140857,
+          "y": 0.3619342373869933,
+          "width": 0.85693416447944,
+          "height": 0.5295659084281131
+        }
+      },
+      "textContent": "We will catalog requirements as they are identified and discuss them on Day 2\nPanels moderated by Mark Skall\nRequirements determined by the end of this workshop will be distributed to you for review and comment, using\ncdf@nist.gov and\nhttp://vote.nist.gov"
+    }
+  ],
+  "slide_id": "slide_1447"
+}

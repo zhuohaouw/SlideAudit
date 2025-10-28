@@ -1,0 +1,83 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2257_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.49166666666666664,
+          "y": 0.9444444444444444,
+          "width": 0.5083333333333333,
+          "height": 0.05555555555555555
+        }
+      },
+      "textContent": "SCCTP Serial Holdings Workshop"
+    },
+    {
+      "objectId": "slide_2257_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.9333333333333333,
+          "width": 0.08333333333333333,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": "66"
+    },
+    {
+      "objectId": "slide_2257_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.49166666666666664,
+          "y": 0.9444444444444444,
+          "width": 0.5083333333333333,
+          "height": 0.05555555555555555
+        }
+      },
+      "textContent": "SCCTP Serial Holdings Workshop"
+    },
+    {
+      "objectId": "slide_2257_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.9333333333333333,
+          "width": 0.08333333333333333,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": "66"
+    },
+    {
+      "objectId": "slide_2257_5_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.021296296296296296,
+          "width": 1.0,
+          "height": 0.14537037037037037
+        }
+      },
+      "textContent": "Holdings Session 6 --\u000bSpecial Problems"
+    },
+    {
+      "objectId": "slide_2257_6_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.08333333333333333,
+          "y": 0.2,
+          "width": 0.8416666666666667,
+          "height": 0.7555555555555555
+        }
+      },
+      "textContent": "How do we deal with…\ncaptions not ending in a period?\nsupplements and indexes?\nordinal numbers?\nnumbers without captions?\ndates with internal numbering?\nsymbols, hyphens, coding challenges?\n“new series” designations?\nalphabetic enumeration?\nalternative enumeration and chronology?\nwhat’s your worst nightmare?"
+    }
+  ],
+  "slide_id": "slide_2257"
+}

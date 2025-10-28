@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1649_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.044444444444444446,
+          "width": 0.38900918635170606,
+          "height": 0.16354622338874308
+        }
+      },
+      "textContent": "Most Expensive Artworks 💰"
+    },
+    {
+      "objectId": "slide_1649_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.3111111111111111,
+          "width": 0.38900918635170606,
+          "height": 0.6453193350831146
+        }
+      },
+      "textContent": "Salvator Mundi, Leonardo da Vinci, $450.3 Million\nInterchange, Willem de Kooning, $300 Million\nL'Homme au doigt, Alberto Giacometti, $141.3 Million\nNafea faa ipoipo?, Paul Gauguin, $300 Million\nNumber 17A, Jackson Pollock, $200 Million"
+    },
+    {
+      "objectId": "slide_1649_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.463,
+          "y": 0.044444444444444446,
+          "width": 0.5129921259842519,
+          "height": 0.9119860017497813
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_1649"
+}

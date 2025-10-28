@@ -1,0 +1,162 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2377_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.775,
+          "y": 0.9106481481481481,
+          "width": 0.175,
+          "height": 0.06944444444444445
+        }
+      },
+      "textContent": "2"
+    },
+    {
+      "objectId": "slide_2377_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.04004636920384952,
+          "width": 0.9,
+          "height": 0.16666666666666666
+        }
+      },
+      "textContent": "CRT Science Blueprint"
+    },
+    {
+      "objectId": "slide_2377_3_TABLE (19)",
+      "type": "TABLE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.075,
+          "y": 0.28888888888888886,
+          "width": 0.85,
+          "height": 0.5983797025371829
+        }
+      },
+      "table": {
+        "rows": 5,
+        "columns": 4,
+        "cells": [
+          {
+            "rowIndex": 0,
+            "columnIndex": 0,
+            "textContent": "Montana Standards"
+          },
+          {
+            "rowIndex": 0,
+            "columnIndex": 1,
+            "textContent": "Reporting Categories"
+          },
+          {
+            "rowIndex": 0,
+            "columnIndex": 2,
+            "textContent": "Multiple Choice Items"
+          },
+          {
+            "rowIndex": 0,
+            "columnIndex": 3,
+            "textContent": "Constructed Response Items"
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 0,
+            "textContent": "1, 5, & 6*"
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 1,
+            "textContent": "Scientific Investigation\nImpact on Society\nHistorical Development"
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 2,
+            "textContent": "15-19"
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 3,
+            "textContent": "1 or 0"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 0,
+            "textContent": "2"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 1,
+            "textContent": "Physical  Science"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 2,
+            "textContent": "10-14"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 3,
+            "textContent": "1 or 0"
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 0,
+            "textContent": "3"
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 1,
+            "textContent": "Life Science"
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 2,
+            "textContent": "10-14"
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 3,
+            "textContent": "1 or 0"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 0,
+            "textContent": "4"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 1,
+            "textContent": "Earth and Space Science"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 2,
+            "textContent": "10-14"
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 3,
+            "textContent": "1 or 0"
+          }
+        ]
+      }
+    },
+    {
+      "objectId": "slide_2377_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.058333333333333334,
+          "y": 0.8,
+          "width": 0.8333333333333334,
+          "height": 0.05787037037037037
+        }
+      },
+      "textContent": "* Standards 5 and 6 are assessed by 5 Multiple Choice Items"
+    }
+  ],
+  "slide_id": "slide_2377"
+}

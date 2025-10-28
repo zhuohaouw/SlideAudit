@@ -1,0 +1,57 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0233_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.125,
+          "y": 0.04004636920384952,
+          "width": 0.7416666666666667,
+          "height": 0.16666666666666666
+        }
+      },
+      "textContent": "NOAA Standing Data Archiving and Access Requirements Working Group\u000bMembership Qualifications"
+    },
+    {
+      "objectId": "slide_0233_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.016666666666666666,
+          "y": 0.28888888888888886,
+          "width": 0.5,
+          "height": 0.659953776611257
+        }
+      },
+      "textContent": "Working Group Membership Qualifications\n\nRepresentation from the many science disciplines across NOAA\n\nKnowledge of data management principles"
+    },
+    {
+      "objectId": "slide_0233_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5416666666666666,
+          "y": 0.2777777777777778,
+          "width": 0.43333333333333335,
+          "height": 0.5925925925925926
+        }
+      },
+      "textContent": "Data Management consists of two major activities conducted in coordination: data management services and data stewardship.  They constitute a comprehensive end-to-end process including movement of data and information from the observing system sensors to the data user.  This process includes the acquisition, quality control, metadata cataloging, validation, reprocessing, storage, retrieval, dissemination, and archival of data."
+    },
+    {
+      "objectId": "slide_0233_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5982638888888889,
+          "y": 0.8777777777777778,
+          "width": 0.3295138888888889,
+          "height": 0.07546296296296297
+        }
+      },
+      "textContent": "NOAA Observing System Council\nApproved Definition"
+    }
+  ],
+  "slide_id": "slide_0233"
+}

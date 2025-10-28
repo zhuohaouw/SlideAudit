@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1786_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.040046271993778554,
+          "width": 0.9,
+          "height": 0.03773694954797317
+        }
+      },
+      "textContent": "Words, Words, Words"
+    },
+    {
+      "objectId": "slide_1786_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.016666666666666666,
+          "y": 0.1,
+          "width": 0.9583333333333334,
+          "height": 0.8778069407990667
+        }
+      },
+      "textContent": "There are 12 idiots and 18 morons in Mr. Lasseter’s math class.  To form groups, each group must have the same number of idiots and the same number of morons.  What is the greatest number of groups Mr. Lasseter can make if every student must be in a group?\n\nGCF\t\t2. 12, 18\n3. \t12: 1, 2, 3, 4, 6, 12\n\t18: 1, 2, 3, 6, 9, 18\nAnswer: 6 groups"
+    },
+    {
+      "objectId": "slide_1786_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6333333333333333,
+          "y": 0.5444444444444444,
+          "width": 0.24376640419947507,
+          "height": 0.4333624963546223
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_1786"
+}

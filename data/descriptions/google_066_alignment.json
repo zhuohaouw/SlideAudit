@@ -1,0 +1,109 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1268_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.030034606785262954,
+          "width": 0.9,
+          "height": 0.12505103528725575
+        }
+      },
+      "textContent": "Putting It All Together"
+    },
+    {
+      "objectId": "slide_1268_2_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.125,
+          "y": 0.2,
+          "width": 0.7333333333333333,
+          "height": 0.7247594050743658
+        }
+      },
+      "textContent": "1. Exposition \n2. Rising Action\n\n3. Climax\n\n4. Falling Action\n5. Resolution"
+    },
+    {
+      "objectId": "slide_1268_3_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.43333333333333335,
+          "y": 0.25555555555555554,
+          "width": 0.16666666666666666,
+          "height": 0.05558471857684456
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1268_4_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.5333333333333333,
+          "width": 0.16666666666666666,
+          "height": 0.05558471857684456
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1268_5_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.49166666666666664,
+          "y": 0.8111111111111111,
+          "width": 0.16666666666666666,
+          "height": 0.05558471857684456
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1268_6_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6416666666666667,
+          "y": 0.2222222222222222,
+          "width": 0.24166666666666667,
+          "height": 0.11991834354039078
+        }
+      },
+      "textContent": "Beginning of Story"
+    },
+    {
+      "objectId": "slide_1268_7_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6083333333333333,
+          "y": 0.4777777777777778,
+          "width": 0.2833333333333333,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": "Middle of Story"
+    },
+    {
+      "objectId": "slide_1268_8_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6916666666666667,
+          "y": 0.7888888888888889,
+          "width": 0.225,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": "End of Story"
+    }
+  ],
+  "slide_id": "slide_1268"
+}

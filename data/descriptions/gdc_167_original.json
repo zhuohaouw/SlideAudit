@@ -1,0 +1,89 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0889_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.058333333333333334,
+          "y": 0.9074074074074074,
+          "width": 0.23333333333333334,
+          "height": 0.06944444444444445
+        }
+      },
+      "textContent": "167"
+    },
+    {
+      "objectId": "slide_0889_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.058333333333333334,
+          "y": 0.1111111111111111,
+          "width": 0.9,
+          "height": 0.17777777777777778
+        }
+      },
+      "textContent": "Cleanup Program Trust Fund Status"
+    },
+    {
+      "objectId": "slide_0889_3_TABLE (19)",
+      "type": "TABLE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.041666666666666664,
+          "y": 0.25555555555555554,
+          "width": 0.925,
+          "height": 0.6400463692038495
+        }
+      },
+      "table": {
+        "rows": 4,
+        "columns": 2,
+        "cells": [
+          {
+            "rowIndex": 0,
+            "columnIndex": 0,
+            "textContent": "Solid Waste Trust Fund:"
+          },
+          {
+            "rowIndex": 0,
+            "columnIndex": 1,
+            "textContent": ""
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 0,
+            "textContent": "Unreserved Balance (July 2008)\n(assumes FY 08/09 Budget)"
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 1,
+            "textContent": "$5,100,200"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 0,
+            "textContent": "September 2008 Grants"
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 1,
+            "textContent": "($750,000)"
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 0,
+            "textContent": "Balance Available for New Grants/Contracts\n\nNote: up to $3.4 million in scheduled FY 08/09 contract allocations is available for new grants/contracts during period of budget delay."
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 1,
+            "textContent": "$4,350,200"
+          }
+        ]
+      }
+    }
+  ],
+  "slide_id": "slide_0889"
+}

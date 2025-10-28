@@ -1,0 +1,44 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0572_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.01961811023622047,
+          "y": 0.016898221055701372,
+          "width": 0.952951334208224,
+          "height": 0.14722222222222223
+        }
+      },
+      "textContent": "Australian Partnership for\u000bAdvanced Computing"
+    },
+    {
+      "objectId": "slide_0572_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.08263888888888889,
+          "y": 0.4581019247594051,
+          "width": 0.8267361111111111,
+          "height": 0.48680548264800233
+        }
+      },
+      "textContent": "Partners:\nAustralian Centre for Advanced Computing and Communications (ac3) in NSW\nCSIRO\niVEC, The Hub of Advanced Computing in Western Australia \nQueensland Cyber Infrastructure Foundation (QCIF)\nSouth Australian Partnership for Advanced Computing (SAPAC) \nThe Australian National University (ANU)\nThe University of Tasmania (TPAC)\nVictorian Partnership for Advanced Computing (VPAC)\n\n4500 CPUs, 3PB storage"
+    },
+    {
+      "objectId": "slide_0572_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0904514435695538,
+          "y": 0.22708340624088655,
+          "width": 0.7880207786526684,
+          "height": 0.20023140857392827
+        }
+      },
+      "textContent": "“providing national advanced computing,\ndata management and\ngrid services for eResearch”"
+    }
+  ],
+  "slide_id": "slide_0572"
+}

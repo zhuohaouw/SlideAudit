@@ -1,0 +1,57 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2178_1_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.07500470253718285,
+          "y": 0.9111077573636629,
+          "width": 0.20833333333333334,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2178_2_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3416666666666667,
+          "y": 0.9111111111111111,
+          "width": 0.31666666666666665,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2178_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.016666666666666666,
+          "y": 0.07777777777777778,
+          "width": 0.85,
+          "height": 0.16666666666666666
+        }
+      },
+      "textContent": "Qualified Individual\u000bWith A Disability"
+    },
+    {
+      "objectId": "slide_2178_4_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.08333333333333333,
+          "y": 0.35555555555555557,
+          "width": 0.85,
+          "height": 0.6
+        }
+      },
+      "textContent": "1)\t Satisfy the Required Skills, Experience, and Education Required for the Position\n\n2) Perform the Essential Job Functions \n\tWith or Without Reasonable Accommodations"
+    }
+  ],
+  "slide_id": "slide_2178"
+}

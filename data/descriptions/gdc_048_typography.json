@@ -1,0 +1,106 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2227_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.9106481481481481,
+          "width": 0.23333333333333334,
+          "height": 0.06944444444444445
+        }
+      },
+      "textContent": "3/25/2025"
+    },
+    {
+      "objectId": "slide_2227_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3416666666666667,
+          "y": 0.9106481481481481,
+          "width": 0.31666666666666665,
+          "height": 0.06944444444444445
+        }
+      },
+      "textContent": "DRAFT"
+    },
+    {
+      "objectId": "slide_2227_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7166666666666667,
+          "y": 0.9106481481481481,
+          "width": 0.23333333333333334,
+          "height": 0.06944444444444445
+        }
+      },
+      "textContent": "48"
+    },
+    {
+      "objectId": "slide_2227_4_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.041666666666666664,
+          "y": 0.13333333333333333,
+          "width": 0.9333333333333333,
+          "height": 0.1
+        }
+      },
+      "textContent": "E-signature Team Composition"
+    },
+    {
+      "objectId": "slide_2227_5_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.23333333333333334,
+          "width": 0.9333333333333333,
+          "height": 0.7
+        }
+      },
+      "textContent": ".../esig/Participant+and+Resource+Contact+Info"
+    },
+    {
+      "objectId": "slide_2227_6_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.058333333333333334,
+          "y": 0.28888888888888886,
+          "width": 0.4079861111111111,
+          "height": 0.6444444444444445
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2227_7_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.475,
+          "y": 0.3439814814814815,
+          "width": 0.4829861111111111,
+          "height": 0.534027850685331
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_2227"
+}

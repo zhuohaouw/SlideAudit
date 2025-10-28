@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2004_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.019500546806649168,
+          "y": 0.09039370078740157,
+          "width": 0.8400262467191602,
+          "height": 0.4089238845144357
+        }
+      },
+      "textContent": "Lebron James An Amazing Athlete and Player"
+    },
+    {
+      "objectId": "slide_2004_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.08178893263342082,
+          "y": 0.5711449402158063,
+          "width": 0.38228346456692913,
+          "height": 0.31181102362204727
+        }
+      },
+      "textContent": "Presenter:  Nazir Biggins  \nClass:1-309\nDate:2-10-11"
+    },
+    {
+      "objectId": "slide_2004_3_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.511788823272091,
+          "y": 0.32239506172839505,
+          "width": 0.3703494094488189,
+          "height": 0.5638450471468844
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_2004"
+}

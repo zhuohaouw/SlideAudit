@@ -1,0 +1,67 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2051_1_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.21897287839020121,
+          "y": 0.4999525614853699,
+          "width": 0.39046358267716536,
+          "height": 0.47999572275687763
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2051_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.03003480120540488,
+          "width": 0.9,
+          "height": 0.12505103528725575
+        }
+      },
+      "textContent": "PyDoc Server"
+    },
+    {
+      "objectId": "slide_2051_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.23333333333333334,
+          "width": 0.9,
+          "height": 0.36500437445319334
+        }
+      },
+      "textContent": "From the command line:\n\njustin@ubuntu:~/tmp$ pydoc -p 8888\u000bpydoc server ready at http://localhost:8888/"
+    },
+    {
+      "objectId": "slide_2051_4_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7971435914260717,
+          "y": 0.9130183727034121,
+          "width": 0.1521441382327209,
+          "height": 0.08697793331389132
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_2051"
+}

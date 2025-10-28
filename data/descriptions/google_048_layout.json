@@ -1,0 +1,36 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2049_1_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.021733267716535432,
+          "y": 0.5645925925925926,
+          "width": 0.7313976377952756,
+          "height": 0.31618547681539805
+        }
+      },
+      "textContent": "Social Anxiety Therapy\n\nOur skilled therapists offer personalized support and  effective techniques to help clients overcome the  challenges of social anxiety."
+    },
+    {
+      "objectId": "slide_2049_2_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.139998687664042,
+          "y": 0.05026849421600078,
+          "width": 0.705,
+          "height": 0.512888694468747
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_2049"
+}

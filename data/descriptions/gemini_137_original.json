@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1647_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0329996719160105,
+          "y": 0.06044522212501215,
+          "width": 0.30150918635170604,
+          "height": 0.6169145523476233
+        }
+      },
+      "textContent": "The Science of Habits"
+    },
+    {
+      "objectId": "slide_1647_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3784776902887139,
+          "y": 0.06044522212501215,
+          "width": 0.5845144356955381,
+          "height": 0.8800233304170312
+        }
+      },
+      "textContent": "Cue: triggers the behavior\nCraving: desire for the reward\nResponse: the action or habit\nReward: positive reinforcement\nTo break a habit, disrupt the cycle\nIdentify your triggers and cravings.\nReplace the bad habit with a positive one."
+    }
+  ],
+  "slide_id": "slide_1647"
+}

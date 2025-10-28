@@ -1,0 +1,144 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0487_1_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7166666666666667,
+          "y": 0.9106481967531836,
+          "width": 0.23333333333333334,
+          "height": 0.0694079906678332
+        }
+      },
+      "textContent": "‹#›"
+    },
+    {
+      "objectId": "slide_0487_2_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.12100688976377953,
+          "y": 0.165509283561777,
+          "width": 0.7911417322834645,
+          "height": 0.1111111111111111
+        }
+      },
+      "textContent": "The Factors of Production"
+    },
+    {
+      "objectId": "slide_0487_3_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.37430555555555556,
+          "y": 0.6148148148148148,
+          "width": 0.26666666666666666,
+          "height": 0.23336249635462233
+        }
+      },
+      "textContent": "Product"
+    },
+    {
+      "objectId": "slide_0487_4_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.08263888888888889,
+          "y": 0.4703703703703704,
+          "width": 0.2,
+          "height": 0.12225138524351123
+        }
+      },
+      "textContent": "Land"
+    },
+    {
+      "objectId": "slide_0487_5_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.29930555555555555,
+          "y": 0.43703703703703706,
+          "width": 0.2,
+          "height": 0.12225138524351123
+        }
+      },
+      "textContent": "Labour"
+    },
+    {
+      "objectId": "slide_0487_6_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5243055555555556,
+          "y": 0.43703703703703706,
+          "width": 0.2,
+          "height": 0.12225138524351123
+        }
+      },
+      "textContent": "Capital"
+    },
+    {
+      "objectId": "slide_0487_7_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7409722222222223,
+          "y": 0.4703703703703704,
+          "width": 0.2,
+          "height": 0.12225138524351123
+        }
+      },
+      "textContent": "Organization"
+    },
+    {
+      "objectId": "slide_0487_8_LINE (9)",
+      "type": "LINE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.1909722222222222,
+          "y": 0.5925925925925926,
+          "width": 0.18333333333333332,
+          "height": 0.12225138524351123
+        }
+      }
+    },
+    {
+      "objectId": "slide_0487_9_LINE (9)",
+      "type": "LINE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3993055555555556,
+          "y": 0.5592592592592592,
+          "width": 0.08254702537182852,
+          "height": 0.1100626032857004
+        }
+      }
+    },
+    {
+      "objectId": "slide_0487_10_LINE (9)",
+      "type": "LINE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5659722222222222,
+          "y": 0.5592592592592592,
+          "width": 0.058333333333333334,
+          "height": 0.06666666666666667
+        }
+      }
+    },
+    {
+      "objectId": "slide_0487_11_LINE (9)",
+      "type": "LINE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6409722222222223,
+          "y": 0.5925925925925926,
+          "width": 0.2,
+          "height": 0.13333333333333333
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0487"
+}

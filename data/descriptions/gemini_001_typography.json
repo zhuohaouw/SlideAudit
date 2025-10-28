@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0627_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0329996719160105,
+          "y": 0.06044522212501215,
+          "width": 0.30150918635170604,
+          "height": 0.6169145523476233
+        }
+      },
+      "textContent": "SCHRÖDINGER'S CAT EXPLAINED"
+    },
+    {
+      "objectId": "slide_0627_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3784776902887139,
+          "y": 0.06044522212501215,
+          "width": 0.5845144356955381,
+          "height": 0.8800233304170312
+        }
+      },
+      "textContent": "Schrödinger's cat is a thought experiment illustrating the paradox of quantum superposition.\nA cat is placed in a sealed box with a radioactive source and a poison that will be released if an atom decays.\nAccording to quantum mechanics, the cat is both alive and dead until the box is opened and observed.\nThe act of observation collapses the superposition into a single state.\nThis thought experiment highlights the counterintuitive nature of quantum mechanics.\nThe cat's fate is not determined until the box is opened.\nThis paradox challenges our understanding of reality."
+    }
+  ],
+  "slide_id": "slide_0627"
+}

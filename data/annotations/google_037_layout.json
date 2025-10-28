@@ -1,0 +1,202 @@
+{
+  "slide_id": 98,
+  "annotations": [
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Poor Visual Hierarchy",
+      "response": false,
+      "has_strong_agreement": true
+    },
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Cluttered Layout",
+      "response": false,
+      "has_strong_agreement": true
+    },
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Unbalanced Space Distribution",
+      "response": false,
+      "has_strong_agreement": true
+    },
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Content Alignment Issues",
+      "response": false,
+      "has_strong_agreement": false,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Content Overflow/Cut-off",
+      "response": true,
+      "has_strong_agreement": false,
+      "bounding_boxes": [
+        {
+          "x": 611.12497820485,
+          "y": 768.3929607389999,
+          "width": 328.4488547682754,
+          "height": 48.07821877249603
+        },
+        {
+          "x": 1026.6679047483556,
+          "y": 350.6430613241658,
+          "width": 29.031357258410253,
+          "height": 321.57479337122
+        },
+        {
+          "x": 1334.8469279530166,
+          "y": 567.2594151922792,
+          "width": 142.92360496448032,
+          "height": 29.03105773490188
+        }
+      ]
+    },
+    {
+      "design_deficiency_category": "Composition & Layout",
+      "design_deficiency": "Occluded Content",
+      "response": true,
+      "has_strong_agreement": false,
+      "bounding_boxes": [
+        {
+          "x": 198.1576322198833,
+          "y": 138.4930240306526,
+          "width": 1103.1915758195832,
+          "height": 104.95843950310652
+        }
+      ]
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Illegible Typeface Selection or Usage",
+      "response": false,
+      "has_strong_agreement": true,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Improper Font Sizing",
+      "response": false,
+      "has_strong_agreement": false,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Excessive Text Volume",
+      "response": false,
+      "has_strong_agreement": false
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Improper Text Styling",
+      "response": false,
+      "has_strong_agreement": true,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Improper Line/Character Spacing",
+      "response": true,
+      "has_strong_agreement": false,
+      "bounding_boxes": [
+        {
+          "x": 587.0863457363839,
+          "y": 284.1766145302894,
+          "width": 405.22266161128357,
+          "height": 566.6361498187039
+        },
+        {
+          "x": 157.9603683236232,
+          "y": 303.7467372908629,
+          "width": 328.27765515279094,
+          "height": 53.5957988952033
+        },
+        {
+          "x": 595.6639085273445,
+          "y": 308.21305386546317,
+          "width": 393.03991365232105,
+          "height": 87.09317320470541
+        },
+        {
+          "x": 1071.3315312997559,
+          "y": 305.979895578163,
+          "width": 196.51995682616052,
+          "height": 40.196849171402505
+        },
+        {
+          "x": 620.2289031306145,
+          "y": 750.3783947508906,
+          "width": 317.1117485149409,
+          "height": 89.32633149200558
+        },
+        {
+          "x": 178.05900027175326,
+          "y": 368.5083276225669,
+          "width": 352.84264975606106,
+          "height": 352.8390093934219
+        },
+        {
+          "x": 1031.1342674034956,
+          "y": 359.57569447336635,
+          "width": 455.5689908242814,
+          "height": 433.2327077362269
+        }
+      ]
+    },
+    {
+      "design_deficiency_category": "Typography",
+      "design_deficiency": "Poor Text Hierarchy",
+      "response": false,
+      "has_strong_agreement": true
+    },
+    {
+      "design_deficiency_category": "Color",
+      "design_deficiency": "Insufficient Color Contrast for Readability",
+      "response": false,
+      "has_strong_agreement": true,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Color",
+      "design_deficiency": "Excessive or Inconsistent Color Usage",
+      "response": false,
+      "has_strong_agreement": true
+    },
+    {
+      "design_deficiency_category": "Color",
+      "design_deficiency": "Inappropriate or Mismatched Color Combinations",
+      "response": false,
+      "has_strong_agreement": true
+    },
+    {
+      "design_deficiency_category": "Imagery & Visualizations",
+      "design_deficiency": "Irrelevant Visual Content",
+      "response": false,
+      "has_strong_agreement": true
+    },
+    {
+      "design_deficiency_category": "Imagery & Visualizations",
+      "design_deficiency": "Poor Image Quality/Editing",
+      "response": false,
+      "has_strong_agreement": true,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Imagery & Visualizations",
+      "design_deficiency": "Improper Image Sizing",
+      "response": false,
+      "has_strong_agreement": true,
+      "bounding_boxes": []
+    },
+    {
+      "design_deficiency_category": "Imagery & Visualizations",
+      "design_deficiency": "Inconsistent Visual Style Usage",
+      "response": false,
+      "has_strong_agreement": true
+    }
+  ],
+  "image_dimensions": {
+    "width": 1600,
+    "height": 900
+  }
+}

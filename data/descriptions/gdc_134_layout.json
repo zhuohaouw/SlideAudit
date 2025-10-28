@@ -1,0 +1,80 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2016_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3416666666666667,
+          "y": 0.9106481481481481,
+          "width": 0.31666666666666665,
+          "height": 0.06944444444444445
+        }
+      },
+      "textContent": "www.dnr.maryland.gov/boating"
+    },
+    {
+      "objectId": "slide_2016_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.04050933216681248,
+          "width": 0.9,
+          "height": 0.16620370370370371
+        }
+      },
+      "textContent": "Vessel Cleaning: \u000bRead Product Labels!"
+    },
+    {
+      "objectId": "slide_2016_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.23333333333333334,
+          "width": 0.625,
+          "height": 0.6555555555555556
+        }
+      },
+      "textContent": "Read product labels.\nDon’t believe general “environmental” claims.\nLook for independent certifications such as “Green Seal” or EPA “Design for the Environment.”"
+    },
+    {
+      "objectId": "slide_2016_4_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7166666666666667,
+          "y": 0.5888888888888889,
+          "width": 0.23958333333333334,
+          "height": 0.27662044327792357
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2016_5_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7,
+          "y": 0.26666666666666666,
+          "width": 0.22361111111111112,
+          "height": 0.2222222222222222
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_2016"
+}

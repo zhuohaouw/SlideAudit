@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1310_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.042,
+          "y": 0.064,
+          "width": 0.588711176727909,
+          "height": 0.28822241664236414
+        }
+      },
+      "textContent": "How Volcanic Eruptions Shape Our Earth 🌋"
+    },
+    {
+      "objectId": "slide_1310_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.036,
+          "y": 0.30044444444444446,
+          "width": 0.352001312335958,
+          "height": 0.6026829979585885
+        }
+      },
+      "textContent": "Volcanic eruptions create new landforms, including islands and mountains.\nLava flows can create fertile soil, fostering plant life.\nAsh from eruptions can impact weather patterns and climate.\nEruptions can cause tsunamis and earthquakes, changing coastlines.\nVolcanic activity releases gases, shaping the atmosphere."
+    },
+    {
+      "objectId": "slide_1310_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.43700787401574803,
+          "y": 0.0,
+          "width": 0.562992125984252,
+          "height": 1.0
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_1310"
+}

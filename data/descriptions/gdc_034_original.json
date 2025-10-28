@@ -1,0 +1,458 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0538_1_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.20208333333333334,
+          "y": 0.0125,
+          "width": 0.6416666666666667,
+          "height": 0.05578025663458734
+        }
+      },
+      "textContent": "Modeling the Southern Ocean Carbon Cycle"
+    },
+    {
+      "objectId": "slide_0538_2_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.08303576115485564,
+          "y": 0.3194444444444444,
+          "width": 0.2549851268591426,
+          "height": 0.05578025663458734
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0538_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.07142858705161854,
+          "y": 0.14523811606882472,
+          "width": 0.3107142388451444,
+          "height": 0.2596032370953631
+        }
+      },
+      "textContent": "Abstract\n     We are pursuing several lines of research to improve our ability to model ecosystem dynamics and biogeochemical cycling in the Southern Ocean with the Biogeochemical Elemental Cycling (BEC) model (Moore et al., 2004).  The BEC ocean model includes several functional groups of phytoplankton (diatoms, diazotrophs, picophytoplankton, and coccolithophores) and multiple potentially, growth-limiting nutrients (nitrate, ammonium, phosphate, silicic acid, and iron).  The BEC model iron cycle simulation has been improved by modifying the sedimentary source and scavenging parameterizations.  Ongoing efforts seek to optimize other parameter values and computation of the dynamic Si/C ratio in diatoms for the Southern Ocean region through evaluation of model output with observed chlorophyll and nutrient distributions.  We are also adding an explicit Phaeocystis functional group to the model.  Phaeocystis antarctica  is sometimes the dominant component of the phytoplankton community during blooms in this region, mediated through a competition with diatom species.  A number of factors have been proposed to influence the competition between Phaeocystis and diatoms including differential light harvesting capacity, different iron requirements and uptake capabilities, and differential grazing and sinking mortality terms.  The model can serve as a tool to investigate these hypotheses.  We are also examining the roles of iron inputs from the atmosphere and the sediments in driving Southern Ocean biogeochemistry.  Sedimentary sources are critical in driving observed phytoplankton blooms near key Southern Ocean islands. Accounting for spatial and temporal variability in the solubility of aerosol iron can substantially impact deposition of soluble iron from the atmosphere."
+    },
+    {
+      "objectId": "slide_0538_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.11525295275590551,
+          "y": 0.7357143482064742,
+          "width": 0.22946423884514436,
+          "height": 0.022121318168562262
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0538_5_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.46789435695538056,
+          "y": 0.45639880431612717,
+          "width": 0.06421128608923884,
+          "height": 0.0872023913677457
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0538_6_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.16607141294838146,
+          "y": 0.06666666666666667,
+          "width": 0.16428576115485563,
+          "height": 0.0942448235637212
+        }
+      },
+      "textContent": "J. Keith Moore, Shanlin Wang, \n  and Aparna Krishnamurthy\nEmail: jkmoore@uci.edu \nDepartment of Earth System Science\nUniversity of California, Irvine, Ca."
+    },
+    {
+      "objectId": "slide_0538_7_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05892858705161855,
+          "y": 0.3976191309419656,
+          "width": 0.3946428258967629,
+          "height": 0.18845217264508604
+        }
+      },
+      "textContent": "Improving the BEC Model Iron Cycle \n     A number of recent papers have suggested an important role for continental margin sediments as an iron source for the open ocean (i.e., Elrod et al., 2004; Lam et al., 2006).  We added an improved sedimentary iron source to the BEC model weighted by the area of sediment in each model grid cell determined by the ETOPO2 high resolution bathymetry (Moore and Braucher, 2008). Iron flux from sediments is determined by the sinking POC flux based data from benthic flux chambers (Elrod et al., 2004).  The resulting sedimentary iron source is of similar magnitude to the source from atmospheric dust deposition (Figure 1).  This improved sedimentary iron source captures the important fluxes at shallow depths along the continental margins and near key islands in the Southern Ocean such as the Kerguelen and South Georgia Islands (Figures 1 and 2).\n     We also modified the iron scavenging parameters in the BEC model, such that scavenging is a function of the sinking particle mass flux (POM+bSi+CaCO3+dust), and most scavenged iron (90%) is added to the sinking Fe pool to remineralize deeper in the water column (Moore and Braucher, 2008).  These changes in scavenging parameterizations and the sedimentary iron source result in a better agreement between simulated and observed dissolved iron distributions, allowing the model to capture the observed elevated iron concentrations along continental margins and near key Southern Ocean islands (Figures 2 and 3)."
+    },
+    {
+      "objectId": "slide_0538_8_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.24642858705161855,
+          "y": 0.7166666666666667,
+          "width": 0.17678576115485564,
+          "height": 0.04807611548556431
+        }
+      },
+      "textContent": "Figure 2. BEC model simulated euphotic zone dissolved iron concentrations are compared with observations."
+    },
+    {
+      "objectId": "slide_0538_9_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3946428258967629,
+          "y": 0.22857144940215807,
+          "width": 0.22678576115485563,
+          "height": 0.07115106445027705
+        }
+      },
+      "textContent": "Figure 4. Mean observed silicate concentrations from the World Ocean Atlas (WOA) 2001 are compared with BEC simulated values before and after optimization of dynamic Si/C parameterization and parameters governing the remineralization profile of sinking biogenic silica (bSi)."
+    },
+    {
+      "objectId": "slide_0538_10_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06071434820647419,
+          "y": 0.8904762321376495,
+          "width": 0.17321423884514436,
+          "height": 0.03653849518810149
+        }
+      },
+      "textContent": "Figure 1. BEC model iron sources and sink  distributions (Moore and Braucher, 2008)."
+    },
+    {
+      "objectId": "slide_0538_11_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6375,
+          "y": 0.4666666666666667,
+          "width": 0.14464282589676292,
+          "height": 0.059613589967920676
+        }
+      },
+      "textContent": "Figure 8. Phaeocystis biomass from several BEC model simulations compared with observations for the month of January."
+    },
+    {
+      "objectId": "slide_0538_12_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.46428576115485565,
+          "y": 0.45714289880431613,
+          "width": 0.1625,
+          "height": 0.09422615923009624
+        }
+      },
+      "textContent": "Figure 5. Taylor plot comparing BEC simulated values with observed macronutirent distributions (WOA2001), dissolved iron distributions (Moore and Braucher, 2008), and surface chlorophyll distributions (SeaWiFS) before (small symbols) and after parameter optimizations (large symbols)."
+    },
+    {
+      "objectId": "slide_0538_13_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4321428258967629,
+          "y": 0.7238095654709827,
+          "width": 0.13928576115485564,
+          "height": 0.09422615923009624
+        }
+      },
+      "textContent": "Figure 6. Atmospheric soluble iron inputs to the surface ocean assuming a variable aerosol  Fe solubility from both mineral dust and combustion sources (A and B), and a constant 2% solubility from mineral dust (from Luo et al., 2008)."
+    },
+    {
+      "objectId": "slide_0538_14_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05892858705161855,
+          "y": 0.011904782735491396,
+          "width": 0.08203127734033246,
+          "height": 0.10952376786235055
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0538_15_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06071434820647419,
+          "y": 0.5666666666666667,
+          "width": 0.17392115048118986,
+          "height": 0.3238095654709828
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0538_16_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.24821423884514435,
+          "y": 0.5666666666666667,
+          "width": 0.17142858705161854,
+          "height": 0.14985126859142608
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0538_17_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.24642858705161855,
+          "y": 0.7476191309419656,
+          "width": 0.1696428258967629,
+          "height": 0.20367060367454068
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0538_18_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.2446428258967629,
+          "y": 0.95,
+          "width": 0.17857141294838144,
+          "height": 0.04807611548556431
+        }
+      },
+      "textContent": "Figure 3.  Observations of dissolved iron concentrations are compared with BEC simulated values (Moore and Braucher, 2008)."
+    },
+    {
+      "objectId": "slide_0538_19_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3946428258967629,
+          "y": 0.07142855059784194,
+          "width": 0.22678576115485563,
+          "height": 0.15833333333333333
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0538_20_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.475,
+          "y": 0.2857143482064742,
+          "width": 0.13928576115485564,
+          "height": 0.17078375619714203
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0538_21_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6321428258967628,
+          "y": 0.07380956547098279,
+          "width": 0.30357141294838147,
+          "height": 0.1423021289005541
+        }
+      },
+      "textContent": "Optimizing the BEC Model for the Southern Ocean \n     We have modified the parameter values that determine remineralization profiles for particulate organic matter, biogenic silica, and calcium carbonate to reduce model-observation disagreement at the global scale, but with a particular emphasis on the southern ocean region.  The dynamic computation of Si/C ratios for the diatom phytoplankton group was also modified, with resulting higher Si/C ratios under the iron-limited conditions that prevail in the Southern Ocean.  These modifications significantly improve the ability of the BEC model to reproduce observed nutrient distributions, with the greatest improvement in the dissolved Si distributions (Figures 4 and 5).  Future work will focus on improving the photoadaptation parameterizations in the BEC model to incorporate nutrient influences and to better match the observed chlorophyll distributions from SeaWiFS and MODIS."
+    },
+    {
+      "objectId": "slide_0538_22_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7125,
+          "y": 0.7476191309419656,
+          "width": 0.22321423884514435,
+          "height": 0.3480511811023622
+        }
+      },
+      "textContent": "References\nElrod, V.A., Berelson, W.M., Coale, K.H., and Johnson, K.S.: The flux of  \n  iron from continental shelf sediments: A missing source of global budgets. \n  Geophys. Res. Lett., 31, L12307, doi:10.1029/2004GL020216, 2004.\nLam, P.J., Bishop, J.K.B., Henning, C.C., Marcus, M.A., Waychunas, G.A., \n  and Fung, I.Y.: Wintertime phytoplankton bloom in the subarctic Pacific \n  supported by continental margin iron. Global Biogeochem. Cycles, 20, \n  GB1006, doi:10.1029/2005GB002557, 2006. \nLuo C., Mahowald N., del Corral J., 2003. Sensitivity study of \n   meteorological parameters on mineral aerosol mobilization, \n   transport and distribution, J. Geophys. Res., 108, D15, 4447, \n   10.1029/2003JD0003483.\nLuo, C., N. Mahowald, T. Bond, P. Y. Chuang, P. Artaxo, R. Siefert, Y. \n   Chen, and J. Schauer (2008), Combustion iron distribution and deposition, \n   Global Biogeochem. Cycles, 22, GB1012, doi:10.1029/2007GB002964.\nMoore, J.K, Doney, S.C, and Lindsay, K, Upper ocean ecosystem \n   dynamics and iron cycling in a global three-dimensional model, \n   Global Biogeochemical Cycles 18, GB4028, 2004.\nMoore, J. K., and O. Braucher, (2008), Sedimentary and mineral dust \n   sources of dissolved iron to the World Ocean, Biogeosciences, in press."
+    },
+    {
+      "objectId": "slide_0538_23_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.42857141294838147,
+          "y": 0.9071428988043161,
+          "width": 0.27678576115485565,
+          "height": 0.08943904928550597
+        }
+      },
+      "textContent": "Acknowledgments\nThis work is funded by NASA grants NNG05GR25G and NNX08AB76G to J.K. Moore, National Science Foundation, grants OCE-0452972 and ATM-0453495, and the University of California, Irvine, Earth System Science Research Experience for Undergraduates program."
+    },
+    {
+      "objectId": "slide_0538_24_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4339285870516186,
+          "y": 0.5619047827354914,
+          "width": 0.14122025371828523,
+          "height": 0.16344254884806067
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0538_25_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5803571741032371,
+          "y": 0.5476189851268591,
+          "width": 0.12537204724409448,
+          "height": 0.17544648585593467
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0538_26_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6410714129483814,
+          "y": 0.22857144940215807,
+          "width": 0.1444569116360455,
+          "height": 0.2380952172645086
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0538_27_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7969121828521435,
+          "y": 0.22857144940215807,
+          "width": 0.12987346894138233,
+          "height": 0.2380952172645086
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_0538_28_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7875,
+          "y": 0.4666666666666667,
+          "width": 0.15357141294838145,
+          "height": 0.04807611548556431
+        }
+      },
+      "textContent": "Figure 9. Surface chlorophyll concentration from several BEC model simulations with observations for the month of January."
+    },
+    {
+      "objectId": "slide_0538_29_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5803571741032371,
+          "y": 0.7238095654709827,
+          "width": 0.125,
+          "height": 0.09422615923009624
+        }
+      },
+      "textContent": "Figure 7. BEC simulated particulate organic carbon export at 103m from simulations forced with variable aerosol Fe solubility (A) and with an assumed constant 2% solubility (B), and the difference in export (C)."
+    },
+    {
+      "objectId": "slide_0538_30_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4303571741032371,
+          "y": 0.8,
+          "width": 0.27321423884514434,
+          "height": 0.10768970545348498
+        }
+      },
+      "textContent": "Atmospheric Soluble Iron Inputs to the Oceans\n     Recent simulations of the spatial and temporal variability in aerosol iron deposited to the oceans by Luo et al. (2008) suggest that iron from combustion sources may account for a significant fraction of soluble iron inputs to the oceans.  Accounting for variations in solubility and including both mineral dust and combustion sources leads to markedly different spatial patterns in iron inputs to the oceans (Figure 6B and 6C).  These variations in atmospheric iron inputs drive differences in sinking POC export in BEC simulations (Figure 7)."
+    },
+    {
+      "objectId": "slide_0538_31_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7160714129483815,
+          "y": 0.5142857976086322,
+          "width": 0.21607141294838145,
+          "height": 0.2480657626130067
+        }
+      },
+      "textContent": "Adding a Phaeocystis Phytoplankton Functional Group \n     We have recently added an additional phytoplankton functional group to the BEC model to represent Phaeocystis antarctica. Phytoplankton blooms in the Southern Ocean region are typically dominated by either diatom species or Phaeocystis antarctica.  A number of factors have been hypothesized to regulate the competition between these two phytoplankton groups, including differences in  light harvesting capacity, ability to access trace metals (iron in particular), grazing losses, and non-grazing mortality.  Figures 8 and 9 show results from several BEC simulations including a control run where all parameters and loss terms for Phaeocystis are set identical to the diatom values, and several simulations where Phaeocystis parameters governing light harvesting and iron uptake have been modified.  The simulation with a higher Kfe value and a higher initial slope of the photosynthesis vs. irradiance curve for Phaeocystis  better matches the observed biomass distributions. Note the blooms near the Crozet, Kerguelen, and South Georgia Islands driven by sedimentary Fe."
+    }
+  ],
+  "slide_id": "slide_0538"
+}

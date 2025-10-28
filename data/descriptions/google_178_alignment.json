@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1032_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0681758530183727,
+          "y": 0.05693593856323515,
+          "width": 0.9318241469816273,
+          "height": 0.1557305336832896
+        }
+      },
+      "textContent": "What Is Design Thinking?"
+    },
+    {
+      "objectId": "slide_1032_2_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5985454943132108,
+          "y": 0.0,
+          "width": 0.40145450568678914,
+          "height": 0.33729464372508994
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_1032_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03408792650918635,
+          "y": 0.23887916788179256,
+          "width": 0.9318241469816273,
+          "height": 0.721434820647419
+        }
+      },
+      "textContent": "Empathize:\nFamiliarize yourself with the end user to find out what needs are not being met\n\nDefine:\nRe-state the needs into a problem statement that you will solve\n\nIdeate:\nGenerate many possible solutions to the problem; brainstorm\n\nPrototype:\nChoose one idea to actually create, and make a “rough draft”\n\nTest:\nGather feedback from the end user, and repeat any earlier steps to refine your product"
+    }
+  ],
+  "slide_id": "slide_1032"
+}

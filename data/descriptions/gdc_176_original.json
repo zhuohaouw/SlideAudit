@@ -1,0 +1,70 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0646_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.035243110236220475,
+          "y": 0.02824074074074074,
+          "width": 0.85,
+          "height": 0.09791673957421988
+        }
+      },
+      "textContent": "CYP2D6 Genotypes by Ethnicity"
+    },
+    {
+      "objectId": "slide_0646_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03767366579177603,
+          "y": 0.16203703703703703,
+          "width": 0.4519096675415573,
+          "height": 0.3303241469816273
+        }
+      },
+      "textContent": "Caucasians\nUM = 1 - 2%\nEM = 92 - 95%\nPM = 5 - 7%"
+    },
+    {
+      "objectId": "slide_0646_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5078125546806649,
+          "y": 0.16203703703703703,
+          "width": 0.4519096675415573,
+          "height": 0.3280093321668125
+        }
+      },
+      "textContent": "African American\nUM = 3 - 5%\nEM = 92 - 95%\nPM = 2 - 3%"
+    },
+    {
+      "objectId": "slide_0646_4_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.08680555555555555,
+          "y": 0.5375,
+          "width": 0.4269097769028871,
+          "height": 0.33449081364829397
+        }
+      },
+      "textContent": "Asians\nUM = ??%\nEM = 70 - 80%\nIM  = 20 - 30%\nPM = 1%"
+    },
+    {
+      "objectId": "slide_0646_5_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5022569991251093,
+          "y": 0.5375,
+          "width": 0.4166666666666667,
+          "height": 0.2726851851851852
+        }
+      },
+      "textContent": "Hispanics\nUM = ???\nEM = ???\nPM = ???"
+    }
+  ],
+  "slide_id": "slide_0646"
+}

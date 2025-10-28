@@ -1,0 +1,88 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0349_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.033,
+          "y": 0.060444444444444446,
+          "width": 0.30498687664041996,
+          "height": 0.3822105570137066
+        }
+      },
+      "textContent": "Alternative Energy: The Future of Power"
+    },
+    {
+      "objectId": "slide_0349_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.409,
+          "y": 0.07288811120832119,
+          "width": 0.23700787401574802,
+          "height": 0.29868766404199476
+        }
+      },
+      "textContent": "Solar and wind power are experiencing rapid cost declines."
+    },
+    {
+      "objectId": "slide_0349_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.729,
+          "y": 0.07288888888888889,
+          "width": 0.23700787401574802,
+          "height": 0.29868766404199476
+        }
+      },
+      "textContent": "Solar and wind are now the cheapest sources of new energy generation."
+    },
+    {
+      "objectId": "slide_0349_4_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.729,
+          "y": 0.4071111111111111,
+          "width": 0.23700787401574802,
+          "height": 0.29868766404199476
+        }
+      },
+      "textContent": "The potential of solar and wind is vast, exceeding current and future global energy needs."
+    },
+    {
+      "objectId": "slide_0349_5_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.409,
+          "y": 0.4071111111111111,
+          "width": 0.23700787401574802,
+          "height": 0.29868766404199476
+        }
+      },
+      "textContent": "Alternative energy sources could meet the world's energy demand 100 times over."
+    },
+    {
+      "objectId": "slide_0349_6_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.5031111111111111,
+          "width": 0.24301181102362204,
+          "height": 0.43202099737532806
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0349"
+}

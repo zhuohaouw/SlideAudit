@@ -1,0 +1,638 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2364_1_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.12986111111111112,
+          "y": 0.5104167395742198,
+          "width": 0.38593755468066493,
+          "height": 0.0
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2364_2_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5788194444444444,
+          "y": 0.5770834062408866,
+          "width": 0.42118055555555556,
+          "height": 0.42291659375911345
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2364_3_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3109375546806649,
+          "y": 0.5104167395742198,
+          "width": 0.196875,
+          "height": 0.33611111111111114
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2364_4_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3661458880139983,
+          "y": 0.2689814814814815,
+          "width": 0.14184022309711286,
+          "height": 0.23726859142607173
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2364_5_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.515798665791776,
+          "y": 0.3111111111111111,
+          "width": 0.33072911198600174,
+          "height": 0.19930562846310879
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2364_6_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.515798665791776,
+          "y": 0.2479167395742199,
+          "width": 0.06302077865266842,
+          "height": 0.2625
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2364_7_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.47638888888888886,
+          "y": 0.49375007290755324,
+          "width": 0.2677083333333333,
+          "height": 0.10486103820355788
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2364_8_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.20069444444444445,
+          "y": 0.300462962962963,
+          "width": 0.582812554680665,
+          "height": 0.4828703703703704
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2364_9_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.051215332458442696,
+          "y": 0.0,
+          "width": 0.9,
+          "height": 0.12199081364829396
+        }
+      },
+      "textContent": "National Cyberinfrastructure"
+    },
+    {
+      "objectId": "slide_2364_10_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.45190977690288714,
+          "y": 0.6618056284631088,
+          "width": 0.09756944444444444,
+          "height": 0.05787037037037037
+        }
+      },
+      "textContent": "VPAC"
+    },
+    {
+      "objectId": "slide_2364_11_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.47256944444444443,
+          "y": 0.34629629629629627,
+          "width": 0.09583333333333334,
+          "height": 0.05787037037037037
+        }
+      },
+      "textContent": "QPSF"
+    },
+    {
+      "objectId": "slide_2364_12_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.32552088801399826,
+          "y": 0.6247685914260718,
+          "width": 0.09600688976377952,
+          "height": 0.05787037037037037
+        }
+      },
+      "textContent": "TPAC"
+    },
+    {
+      "objectId": "slide_2364_13_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.34270833333333334,
+          "y": 0.37777777777777777,
+          "width": 0.08506944444444445,
+          "height": 0.05787037037037037
+        }
+      },
+      "textContent": "IVEC"
+    },
+    {
+      "objectId": "slide_2364_14_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.43368055555555557,
+          "y": 0.43958340624088654,
+          "width": 0.1638888888888889,
+          "height": 0.14675925925925926
+        }
+      },
+      "textContent": "APAC\nNATIONAL\nFACILITY"
+    },
+    {
+      "objectId": "slide_2364_15_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6375,
+          "y": 0.4766204432779236,
+          "width": 0.08055555555555556,
+          "height": 0.05787037037037037
+        }
+      },
+      "textContent": "ANU"
+    },
+    {
+      "objectId": "slide_2364_16_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5770833333333333,
+          "y": 0.596064887722368,
+          "width": 0.10815977690288714,
+          "height": 0.05787037037037037
+        }
+      },
+      "textContent": "CSIRO"
+    },
+    {
+      "objectId": "slide_2364_17_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.26805555555555555,
+          "y": 0.4951389617964421,
+          "width": 0.11770833333333333,
+          "height": 0.05787037037037037
+        }
+      },
+      "textContent": "SAPAC"
+    },
+    {
+      "objectId": "slide_2364_18_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6427083333333333,
+          "y": 0.35300933216681246,
+          "width": 0.06649311023622047,
+          "height": 0.05787037037037037
+        }
+      },
+      "textContent": "ac3"
+    },
+    {
+      "objectId": "slide_2364_19_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.42586811023622045,
+          "y": 0.37222222222222223,
+          "width": 0.04565966754155731,
+          "height": 0.01643525809273841
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2364_20_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5628472222222223,
+          "y": 0.3803241469816273,
+          "width": 0.07447922134733158,
+          "height": 0.008333333333333333
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2364_21_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.32881944444444444,
+          "y": 0.4377315543890347,
+          "width": 0.034201443569553805,
+          "height": 0.049074074074074076
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2364_22_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.334548665791776,
+          "y": 0.5601851851851852,
+          "width": 0.03420133420822397,
+          "height": 0.06527777777777778
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2364_23_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.41440977690288716,
+          "y": 0.6743056284631088,
+          "width": 0.04010411198600175,
+          "height": 0.016203703703703703
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2364_24_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5401042213473316,
+          "y": 0.65,
+          "width": 0.04565966754155731,
+          "height": 0.02430562846310878
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2364_25_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6380208880139983,
+          "y": 0.5421296296296296,
+          "width": 0.01684022309711286,
+          "height": 0.04930562846310878
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2364_26_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.665625,
+          "y": 0.4212962962962963,
+          "width": 0.0,
+          "height": 0.05694444444444444
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2364_27_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6024305555555556,
+          "y": 0.5104167395742198,
+          "width": 0.03923611111111111,
+          "height": 0.0
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2364_28_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5788194444444444,
+          "y": 0.5736111111111111,
+          "width": 0.02847222222222222,
+          "height": 0.032638961796442115
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2364_29_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5788194444444444,
+          "y": 0.41597229512977546,
+          "width": 0.07083333333333333,
+          "height": 0.052546223388743075
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2364_30_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5059027777777778,
+          "y": 0.5944444444444444,
+          "width": 0.0019097769028871392,
+          "height": 0.06365748031496063
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2364_31_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.40868055555555555,
+          "y": 0.584027850685331,
+          "width": 0.03611111111111111,
+          "height": 0.049074074074074076
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2364_32_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.38593755468066493,
+          "y": 0.5104167395742198,
+          "width": 0.04322911198600175,
+          "height": 0.000694371536891222
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2364_33_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4133681102362205,
+          "y": 0.43703703703703706,
+          "width": 0.04184022309711286,
+          "height": 0.03078710994459026
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2364_34_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.515798665791776,
+          "y": 0.39490740740740743,
+          "width": 0.0,
+          "height": 0.04930562846310878
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2364_35_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5708333333333333,
+          "y": 0.13240740740740742,
+          "width": 0.10885422134733158,
+          "height": 0.14675925925925926
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2364_36_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6102431102362205,
+          "y": 0.6680555555555555,
+          "width": 0.38975688976377953,
+          "height": 0.25208340624088654
+        }
+      },
+      "textContent": "Other Grids:\nInstitutional\nInternational"
+    },
+    {
+      "objectId": "slide_2364_37_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.043229221347331585,
+          "y": 0.38449081364829396,
+          "width": 0.14670133420822398,
+          "height": 0.32152770487022453
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2364_38_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.2689814814814815,
+          "width": 0.25590277777777776,
+          "height": 0.20162044327792358
+        }
+      },
+      "textContent": "Data Centres"
+    },
+    {
+      "objectId": "slide_2364_39_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.20069444444444445,
+          "y": 0.7414352580927384,
+          "width": 0.13229166666666667,
+          "height": 0.22037037037037038
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2364_40_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.059027777777777776,
+          "y": 0.7206019247594051,
+          "width": 0.12604166666666666,
+          "height": 0.24305555555555555
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.wmf",
+          "content_type": "image/x-wmf"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2364_41_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0748264435695538,
+          "y": 0.899074074074074,
+          "width": 0.24409722222222222,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": "Instruments"
+    },
+    {
+      "objectId": "slide_2364_42_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7913194444444445,
+          "y": 0.4263888888888889,
+          "width": 0.17829866579177603,
+          "height": 0.11990740740740741
+        }
+      },
+      "textContent": "Sensor\nNetworks"
+    },
+    {
+      "objectId": "slide_2364_43_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7993055555555556,
+          "y": 0.14305555555555555,
+          "width": 0.1545138888888889,
+          "height": 0.2951389617964421
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpeg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2364_44_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.2637153324584427,
+          "y": 0.13240740740740742,
+          "width": 0.16545133420822397,
+          "height": 0.1576389617964421
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2364_45_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.343923665791776,
+          "y": 0.2201389617964421,
+          "width": 0.28541666666666665,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": "Research Teams"
+    },
+    {
+      "objectId": "slide_2364_46_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.20069444444444445,
+          "y": 0.300462962962963,
+          "width": 0.590625,
+          "height": 0.48310192475940505
+        }
+      },
+      "textContent": "APAC National Grid \na virtual system of\ncomputing,\ndata storage\nand visualisation\nfacilities"
+    }
+  ],
+  "slide_id": "slide_2364"
+}

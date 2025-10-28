@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0948_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5864501312335958,
+          "y": 0.12444347234373482,
+          "width": 0.37916666666666665,
+          "height": 0.1546806649168854
+        }
+      },
+      "textContent": "Famous Heists Through History"
+    },
+    {
+      "objectId": "slide_0948_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.577351268591426,
+          "y": 0.36977719451735197,
+          "width": 0.38825459317585304,
+          "height": 0.5244677748614757
+        }
+      },
+      "textContent": "The Great Train Robbery (1963): A gang of 15 men stole £2.6 million from a Royal Mail train heading from Glasgow to London.\nThe Antwerp Diamond Heist (2001): A group of thieves stole over $100 million worth of diamonds from the Antwerp Diamond Center.\nThe Gardner Museum Heist (1990): Two men disguised as police officers stole 13 works of art worth $500 million from the Isabella Stewart Gardner Museum in Boston.\nThe Dunbar Armored Robbery (1997): A group of six men stole $18.9 million from a Dunbar Armored facility in Los Angeles."
+    },
+    {
+      "objectId": "slide_0948_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.044444444444444446,
+          "width": 0.5129921259842519,
+          "height": 0.9119860017497813
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0948"
+}

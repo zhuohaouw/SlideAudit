@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0243_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.031069553805774277,
+          "y": 0.059876543209876544,
+          "width": 0.27119422572178475,
+          "height": 0.8299212598425196
+        }
+      },
+      "textContent": "Financials"
+    },
+    {
+      "objectId": "slide_0243_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.2817736220472441,
+          "y": 0.05329911538835423,
+          "width": 0.5961614173228347,
+          "height": 0.8299212598425196
+        }
+      },
+      "textContent": "Cash flow\nCap table\nThe deal"
+    }
+  ],
+  "slide_id": "slide_0243"
+}

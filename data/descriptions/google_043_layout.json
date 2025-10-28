@@ -1,0 +1,80 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2279_1_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.2317830271216098,
+          "y": 0.24267949839603384,
+          "width": 0.7062349081364829,
+          "height": 0.7931851851851852
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2279_2_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03892629046369204,
+          "y": 0.9465109361329834,
+          "width": 0.8761805555555555,
+          "height": 0.03888888888888889
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_2279_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03754440069991251,
+          "y": 0.9404047827354914,
+          "width": 0.8791666666666667,
+          "height": 0.044502770487022454
+        }
+      },
+      "textContent": "Tyler Vigen: Spreading Love and Margarine: An examination of the Butter-Splitter Correlation in Maine"
+    },
+    {
+      "objectId": "slide_2279_4_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03754440069991251,
+          "y": 0.3094074074074074,
+          "width": 0.15688976377952757,
+          "height": 0.3615048118985127
+        }
+      },
+      "textContent": "Avoid  rabbit  holes"
+    },
+    {
+      "objectId": "slide_2279_5_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6567217847769029,
+          "y": 0.8022165840381064,
+          "width": 0.129,
+          "height": 0.09748148148148149
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_2279"
+}

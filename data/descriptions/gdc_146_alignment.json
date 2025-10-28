@@ -1,0 +1,127 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0348_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6666666666666666,
+          "y": 0.9555555555555556,
+          "width": 0.3111111111111111,
+          "height": 0.03333333333333333
+        }
+      },
+      "textContent": "Dmitri Denisov"
+    },
+    {
+      "objectId": "slide_0348_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.175,
+          "y": 0.016666666666666666,
+          "width": 0.7380208880139982,
+          "height": 0.0699074074074074
+        }
+      },
+      "textContent": "D0 Data Taking Summary: March 1 to March 7"
+    },
+    {
+      "objectId": "slide_0348_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.18888888888888888,
+          "width": 0.4083333333333333,
+          "height": 0.6555555555555556
+        }
+      },
+      "textContent": "Luminosity \nDelivered 9.9pb-1\nRecorded 7.6pb-1\n\nData taking efficiency\n77% weekly\n\nBackgrounds\nP and pbar halo are within specs\n\nBeam position \nWithin specs\n\nNumber of events collected\n14mln"
+    },
+    {
+      "objectId": "slide_0348_4_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4838542213473316,
+          "y": 0.47847229512977546,
+          "width": 0.03246522309711286,
+          "height": 0.04328696412948382
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0348_5_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4838542213473316,
+          "y": 0.47847229512977546,
+          "width": 0.03246522309711286,
+          "height": 0.04328696412948382
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0348_6_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4838542213473316,
+          "y": 0.47847229512977546,
+          "width": 0.03246522309711286,
+          "height": 0.04328696412948382
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0348_7_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4838542213473316,
+          "y": 0.47847229512977546,
+          "width": 0.03246522309711286,
+          "height": 0.04328696412948382
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0348_8_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.4838501749781277,
+          "y": 0.4784753572470108,
+          "width": 0.03246522309711286,
+          "height": 0.04328696412948382
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_0348_9_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.425,
+          "y": 0.26666666666666666,
+          "width": 0.575,
+          "height": 0.5402777777777777
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0348"
+}

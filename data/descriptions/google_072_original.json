@@ -1,0 +1,67 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_2021_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03298611111111111,
+          "y": 0.025000097210070963,
+          "width": 0.9340223097112861,
+          "height": 0.12505103528725575
+        }
+      },
+      "textContent": "New weapons"
+    },
+    {
+      "objectId": "slide_2021_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.03298611111111111,
+          "y": 0.23333333333333334,
+          "width": 0.4753608923884514,
+          "height": 0.18891805191017788
+        }
+      },
+      "textContent": "Tanks - first developed by the British and first used in the Battle of the Somme and in full force at the Battle of Cambrai"
+    },
+    {
+      "objectId": "slide_2021_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.041666666666666664,
+          "y": 0.5666666666666667,
+          "width": 0.37326115485564304,
+          "height": 0.3168853893263342
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    },
+    {
+      "objectId": "slide_2021_4_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.46979166666666666,
+          "y": 0.35555555555555557,
+          "width": 0.5302165354330709,
+          "height": 0.5069699620880723
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_2021"
+}

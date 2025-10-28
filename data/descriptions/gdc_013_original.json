@@ -1,0 +1,83 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1258_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.45,
+          "y": 0.0,
+          "width": 0.5,
+          "height": 0.03333333333333333
+        }
+      },
+      "textContent": "Department of Printing"
+    },
+    {
+      "objectId": "slide_1258_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.03333333333333333,
+          "width": 1.0,
+          "height": 0.09583333333333334
+        }
+      },
+      "textContent": "Standard Performance Measures"
+    },
+    {
+      "objectId": "slide_1258_3_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.175,
+          "y": 0.17777777777777778,
+          "width": 0.5583333333333333,
+          "height": 0.7444444444444445
+        }
+      },
+      "textContent": "Percent supervisors with current performance expectations for workforce management \nManagement profile\nWorkforce planning measure (TBD)\nPercent employees with current position/competencies descriptions\n\n\nTime-to-fill funded vacancies\nCandidate quality\nHiring Balance (Proportion of appointment types)\nSeparation during review period\n\n\n\n\nPercent employees with current performance expectations\nEmployee survey ratings on “productive workplace” questions\nOvertime usage \nSick leave usage\nNon-disciplinary grievances/appeals filed and disposition (outcomes)\nWorker safety\n\n\n\nPercent employees with current individual development plans \nEmployee survey ratings on “learning & development” questions\nCompetency gap analysis (TBD) \n\n\n\n\nPercent employees with current performance evaluations \nEmployee survey ratings on “performance & accountability” questions \nDisciplinary actions and reasons, disciplinary grievances/appeals filed and disposition (outcomes)\nReward and recognition practices (TBD)"
+    },
+    {
+      "objectId": "slide_1258_5_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.775,
+          "y": 0.2902777777777778,
+          "width": 0.18333333333333332,
+          "height": 0.14305555555555555
+        }
+      },
+      "textContent": "Ultimate Outcomes"
+    },
+    {
+      "objectId": "slide_1258_6_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.75,
+          "y": 0.44537037037037036,
+          "width": 0.225,
+          "height": 0.27106488772236803
+        }
+      },
+      "textContent": "Employee survey ratings on “commitment” questions\nTurnover rates and types \nTurnover rate: key occupational categories\nWorkforce diversity profile\nRetention measure (TBD)"
+    },
+    {
+      "objectId": "slide_1258_7_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6916666666666667,
+          "y": 0.23333333333333334,
+          "width": 0.03333333333333333,
+          "height": 0.6444444444444445
+        }
+      },
+      "textContent": ""
+    }
+  ],
+  "slide_id": "slide_1258"
+}

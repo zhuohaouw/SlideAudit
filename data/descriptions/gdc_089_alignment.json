@@ -1,0 +1,330 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1065_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.15468755468066492,
+          "y": 0.022222222222222223,
+          "width": 0.6907985564304462,
+          "height": 0.13425925925925927
+        }
+      },
+      "textContent": "The Innovator’s Dilemma\u000b\t\t\t-Christensen"
+    },
+    {
+      "objectId": "slide_1065_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.09166666666666666,
+          "y": 0.2,
+          "width": 0.825,
+          "height": 0.6444444444444445
+        }
+      },
+      "textContent": "Sustaining Change\nsustain the current rate of technology growth\nDisruptive Change\nredefine performance trajectories"
+    },
+    {
+      "objectId": "slide_1065_3_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.22881944444444444,
+          "y": 0.5606481481481481,
+          "width": 0.0,
+          "height": 0.3
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1065_4_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.22881944444444444,
+          "y": 0.8606481481481482,
+          "width": 0.4666666666666667,
+          "height": 0.0
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1065_5_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.21041491688538932,
+          "y": 0.8733775153105862,
+          "width": 0.059027777777777776,
+          "height": 0.044444444444444446
+        }
+      },
+      "textContent": "1974"
+    },
+    {
+      "objectId": "slide_1065_6_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6371527777777778,
+          "y": 0.8828703703703704,
+          "width": 0.059027777777777776,
+          "height": 0.044444444444444446
+        }
+      },
+      "textContent": "1990"
+    },
+    {
+      "objectId": "slide_1065_7_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.16215277777777778,
+          "y": 0.8050925925925926,
+          "width": 0.029861111111111113,
+          "height": 0.044444444444444446
+        }
+      },
+      "textContent": "1"
+    },
+    {
+      "objectId": "slide_1065_8_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.16215277777777778,
+          "y": 0.7458333333333333,
+          "width": 0.03958333333333333,
+          "height": 0.044444444444444446
+        }
+      },
+      "textContent": "10"
+    },
+    {
+      "objectId": "slide_1065_9_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.16215277777777778,
+          "y": 0.6865740740740741,
+          "width": 0.049305555555555554,
+          "height": 0.044444444444444446
+        }
+      },
+      "textContent": "100"
+    },
+    {
+      "objectId": "slide_1065_10_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.16215277777777778,
+          "y": 0.6273148148148148,
+          "width": 0.059027777777777776,
+          "height": 0.044444444444444446
+        }
+      },
+      "textContent": "1000"
+    },
+    {
+      "objectId": "slide_1065_11_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.22881944444444444,
+          "y": 0.5606481481481481,
+          "width": 0.275,
+          "height": 0.13333333333333333
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1065_12_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3454861111111111,
+          "y": 0.549537037037037,
+          "width": 0.31666666666666665,
+          "height": 0.2
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1065_13_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3871527777777778,
+          "y": 0.6273148148148148,
+          "width": 0.275,
+          "height": 0.17777777777777778
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1065_14_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.22881944444444444,
+          "y": 0.5828703703703704,
+          "width": 0.43333333333333335,
+          "height": 0.1111111111111111
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1065_15_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.35381944444444446,
+          "y": 0.649537037037037,
+          "width": 0.3,
+          "height": 0.12222222222222222
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1065_16_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3954861111111111,
+          "y": 0.7050925925925926,
+          "width": 0.26666666666666666,
+          "height": 0.1111111111111111
+        }
+      },
+      "textContent": ""
+    },
+    {
+      "objectId": "slide_1065_17_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.25381944444444443,
+          "y": 0.6162037037037037,
+          "width": 0.049652777777777775,
+          "height": 0.046296296296296294
+        }
+      },
+      "textContent": "14”"
+    },
+    {
+      "objectId": "slide_1065_18_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3038194444444444,
+          "y": 0.7273148148148149,
+          "width": 0.03993055555555555,
+          "height": 0.046296296296296294
+        }
+      },
+      "textContent": "8”"
+    },
+    {
+      "objectId": "slide_1065_19_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.3121527777777778,
+          "y": 0.7828703703703703,
+          "width": 0.07118055555555555,
+          "height": 0.046296296296296294
+        }
+      },
+      "textContent": "5-1/4”"
+    },
+    {
+      "objectId": "slide_1065_20_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6704861111111111,
+          "y": 0.5606481481481481,
+          "width": 0.1043403324584427,
+          "height": 0.044444444444444446
+        }
+      },
+      "textContent": "mainframe"
+    },
+    {
+      "objectId": "slide_1065_21_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6704861111111111,
+          "y": 0.6273148148148148,
+          "width": 0.13784722222222223,
+          "height": 0.044444444444444446
+        }
+      },
+      "textContent": "Mini-computer"
+    },
+    {
+      "objectId": "slide_1065_22_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.6704861111111111,
+          "y": 0.6939814814814815,
+          "width": 0.04392366579177603,
+          "height": 0.044444444444444446
+        }
+      },
+      "textContent": "PC"
+    },
+    {
+      "objectId": "slide_1065_23_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.07708333333333334,
+          "y": 0.5444444444444444,
+          "width": 0.13836811023622048,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": "Capacity"
+    },
+    {
+      "objectId": "slide_1065_24_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.41215277777777776,
+          "y": 0.9050925925925926,
+          "width": 0.08489588801399825,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": "Year"
+    },
+    {
+      "objectId": "slide_1065_25_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.23159722222222223,
+          "y": 0.4837962962962963,
+          "width": 0.1607638888888889,
+          "height": 0.06666666666666667
+        }
+      },
+      "textContent": "Hardrives:"
+    }
+  ],
+  "slide_id": "slide_1065"
+}

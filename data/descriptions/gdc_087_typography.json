@@ -1,0 +1,62 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_0389_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.05,
+          "y": 0.012037037037037037,
+          "width": 0.9,
+          "height": 0.06550933216681248
+        }
+      },
+      "textContent": "OSG 0.6.0 Infrastructure"
+    },
+    {
+      "objectId": "slide_0389_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.17777777777777778,
+          "width": 1.0,
+          "height": 0.7155093321668125
+        }
+      },
+      "textContent": "VORS – Virtual Organization Resource Selector \nMonALISA – MONitoring Agents using a Large Integrated Service Architecture\nGratia – Grid accounting facility\nVirtual Organization (VO) issues\nGOC – Grid Operations Center"
+    },
+    {
+      "objectId": "slide_0389_3_AUTO_SHAPE (1)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.2916666666666667,
+          "y": 0.9111111111111111,
+          "width": 0.36666666666666664,
+          "height": 0.06944444444444445
+        }
+      },
+      "textContent": "OSG Consortium Mtg March 2007\nQuick Start Guide to the OSG"
+    },
+    {
+      "objectId": "slide_0389_4_PICTURE (13)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.12083333333333333,
+          "y": 0.9106481481481481,
+          "width": 0.09166666666666666,
+          "height": 0.06944444444444445
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.png",
+          "content_type": "image/png"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_0389"
+}

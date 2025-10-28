@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1840_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.016666666666666666,
+          "y": 0.040046271993778554,
+          "width": 0.9666666666666667,
+          "height": 0.04887722368037329
+        }
+      },
+      "textContent": "Homework"
+    },
+    {
+      "objectId": "slide_1840_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.016666666666666666,
+          "y": 0.1111111111111111,
+          "width": 0.9666666666666667,
+          "height": 0.8666666666666667
+        }
+      },
+      "textContent": "Greatest Common Factor\nWorksheet\n#1-10"
+    }
+  ],
+  "slide_id": "slide_1840"
+}

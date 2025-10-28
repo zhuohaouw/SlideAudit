@@ -1,0 +1,57 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1752_1_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.07523326771653543,
+          "y": 0.19674151842130844,
+          "width": 0.36896325459317586,
+          "height": 0.7722951297754448
+        }
+      },
+      "textContent": "Prioritize resources to engage with:\nBIPOC communities\nLimited-English populations\nYouth\nRenters\n\nWe will also engage with:\nCity boards and commissions\nPublic agencies\nCultural organizations\nPolicy advocates\nCommunity-based organizations"
+    },
+    {
+      "objectId": "slide_1752_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.058299978127734034,
+          "y": 0.034472052104598035,
+          "width": 0.538254593175853,
+          "height": 0.2331291921843103
+        }
+      },
+      "textContent": "Equitable Community Engagement"
+    },
+    {
+      "objectId": "slide_1752_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.47990616797900265,
+          "y": 0.25286225332944495,
+          "width": 0.36469816272965877,
+          "height": 0.7667541557305337
+        }
+      },
+      "textContent": "LGBTQ community\nPeople with disabilities\nLow-income populations\nPeople experiencing homelessness\n\n\nNeighborhood associations\nBusiness associations\nSmall business owners\nProperty owners\nBuilders and developers\nGeneral public"
+    },
+    {
+      "objectId": "slide_1752_4_FREEFORM (5)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0627402668416448,
+          "y": 0.531111499951395,
+          "width": 0.9361979440069991,
+          "height": 0.05453679401185963
+        }
+      },
+      "textContent": ""
+    }
+  ],
+  "slide_id": "slide_1752"
+}

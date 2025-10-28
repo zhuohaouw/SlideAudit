@@ -1,0 +1,49 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1364_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.5864501312335958,
+          "y": 0.12444347234373482,
+          "width": 0.37916666666666665,
+          "height": 0.1546806649168854
+        }
+      },
+      "textContent": "Animal Communication 🗣️"
+    },
+    {
+      "objectId": "slide_1364_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0,
+          "y": 0.36977719451735197,
+          "width": 0.38825459317585304,
+          "height": 0.5244677748614757
+        }
+      },
+      "textContent": "Animals use various methods to communicate with each other.\nVisual cues include body language, facial expressions, and coloration.\nAuditory signals include vocalizations like calls, barks, and songs.\nChemical communication involves pheromones and scents.\nTactile communication includes touch and grooming.\nThese methods convey important information about territory, mating, and danger."
+    },
+    {
+      "objectId": "slide_1364_3_PLACEHOLDER (14)",
+      "type": "IMAGE",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.025,
+          "y": 0.044444444444444446,
+          "width": 0.5129921259842519,
+          "height": 0.9119860017497813
+        }
+      },
+      "image": {
+        "imageProperties": {
+          "filename": "image.jpg",
+          "content_type": "image/jpeg"
+        }
+      }
+    }
+  ],
+  "slide_id": "slide_1364"
+}

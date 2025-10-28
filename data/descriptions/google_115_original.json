@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1086_1_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.7166666666666667,
+          "y": 0.9106481967531836,
+          "width": 0.23333333333333334,
+          "height": 0.0694079906678332
+        }
+      },
+      "textContent": "‹#›"
+    },
+    {
+      "objectId": "slide_1086_2_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.02760411198600175,
+          "y": 0.022222222222222223,
+          "width": 0.9487860892388451,
+          "height": 0.8833479148439778
+        }
+      },
+      "textContent": "The Government lets the market answer the following three basic economic questions:\n1. What ? \n    Consumers decide what should be produced in a            market economy through the purchases they make.\nHow ? \n\tProduction is left entirely up to businesses. Businesses must be competitive in such an economy and produce quality products at lower prices than their competitors. \nFor whom ? \n   In a market economy, the people who have more money are able to buy more goods and services."
+    }
+  ],
+  "slide_id": "slide_1086"
+}

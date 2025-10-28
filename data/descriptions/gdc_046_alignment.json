@@ -1,0 +1,83 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1016_1_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.0019097769028871392,
+          "y": 0.9560185185185185,
+          "width": 0.1894096675415573,
+          "height": 0.041666666666666664
+        }
+      },
+      "textContent": "December 5, 2014"
+    },
+    {
+      "objectId": "slide_1016_2_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.8100694444444444,
+          "y": 0.9546296296296296,
+          "width": 0.18993055555555555,
+          "height": 0.04537037037037037
+        }
+      },
+      "textContent": "46"
+    },
+    {
+      "objectId": "slide_1016_3_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.08801563867016624,
+          "y": 0.27013517060367453,
+          "width": 0.6055555555555555,
+          "height": 0.2136573344998542
+        }
+      },
+      "textContent": "5x1012 protons in a Booster pulse\n3 Hz, 8 GeV Booster\nMuons are stored for ~100 turns\nRunning time 107 Sec (1 year)\n100 ton detector, 10 meters downstream from ring"
+    },
+    {
+      "objectId": "slide_1016_4_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.17326388888888888,
+          "y": 0.5409722951297754,
+          "width": 0.48663199912510935,
+          "height": 0.07569437153689122
+        }
+      },
+      "textContent": "~ 400 CC neutrino events"
+    },
+    {
+      "objectId": "slide_1016_5_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06440977690288714,
+          "y": 0.6618056284631088,
+          "width": 0.8682291119860017,
+          "height": 0.17314814814814813
+        }
+      },
+      "textContent": "This is for about the cost of  moving an existing detector (mBooNE??, 60T) and building a new detector housing (about 3M$)"
+    },
+    {
+      "objectId": "slide_1016_6_TEXT_BOX (17)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.15899682852143482,
+          "y": -0.014973461650627006,
+          "width": 0.6055555555555555,
+          "height": 0.17502610090405366
+        }
+      },
+      "textContent": "Proton Beam Like for g-2,\u000bbut with g-2 off"
+    }
+  ],
+  "slide_id": "slide_1016"
+}

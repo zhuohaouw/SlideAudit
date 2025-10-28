@@ -1,0 +1,31 @@
+{
+  "elements": [
+    {
+      "objectId": "slide_1327_1_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.06666666666666667,
+          "y": 0.25555555555555554,
+          "width": 0.875,
+          "height": 0.5777777777777777
+        }
+      },
+      "textContent": "New Account:\nauction induced 55 winning bids which laid claim to entire $162 million available\n300 MW of wind, 157 MW of geothermal, 70 MW of landfill gas, 12 MW of biomass, 2 MW of digester gas, 1 MW of small hydro\nFull amount of $162 million allocated at an average incentive of 1.2 cents/kWh\nall projects expected to pass Milestone #1 by this month\nExisting account:\n$55 million paid out, $21 million rollover in 1998\nnearly 50 facilities “off the cliff” but continue operating"
+    },
+    {
+      "objectId": "slide_1327_2_PLACEHOLDER (14)",
+      "type": "TEXT_BOX",
+      "positionAndSize": {
+        "normalized": {
+          "x": 0.075,
+          "y": 0.14444444444444443,
+          "width": 0.85,
+          "height": 0.12222222222222222
+        }
+      },
+      "textContent": "Over the Grid Supply: Results"
+    }
+  ],
+  "slide_id": "slide_1327"
+}
