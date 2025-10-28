@@ -17,9 +17,9 @@ This dataset accompanies our UIST 2025 paper:
 ```
 SlideAudit/
 ├── data/
-│   ├── images/              # Raw slide images (slide_XXXX.jpg)
-│   ├── annotations/         # Design deficiency annotations (slide_XXXX.json)
-│   └── descriptions/        # Slide content object descriptions (slide_XXXX.json)
+│   ├── images/              # Raw slide images
+│   ├── annotations/         # Design deficiency annotations
+│   └── descriptions/        # Slide content object descriptions
 ├── examples/                # Representative alteration examples
 │   ├── alteration_example_1.jpg
 │   ├── alteration_example_2.jpg
@@ -37,7 +37,7 @@ SlideAudit/
 
 Each file in `/data/annotations/` contains:
 
-* `slide_id`: Unique ID (e.g., `slide_0003`)
+* `slide_id`: Unique ID (e.g., `0003`)
 * `annotations`: List of labeled design deficiencies
 * `image_dimensions`: Width and height in pixels
 
@@ -98,11 +98,28 @@ Below are three representative examples from the dataset (each image contains a 
 
 ## Metadata
 
-The file `metadata/slideaudit_metadata.csv` contains:
+The dataset includes a unified metadata CSV file.
 
-* `slide_id`: Slide identifier (e.g., `slide_0003`)
-* `source_type`: Source label extracted from the original filename (e.g., `GDC`, `Google`, `Gemini`)
-* `image_width`, `image_height`: Dimensions of the slide image
+Each row in this file corresponds to a *single slide instance* (each unique source–index–variant combination). The metadata connects each slide to its origin, semantic variation type, and physical file locations within the dataset.
+
+### **Columns Description**
+
+| Column Name        | Description |
+|--------------------|-------------|
+| **id**            | Global identifier for the slide, matching the original dataset (integer from 1–2400). |
+| **source**        |  `gemini`, `google`, or `gdc`. |
+| **source_index**  | Per-source index (from 001 to ~200), shared across the four variants for each original slide group. |
+| **alteration**    | Slide variant indicating the type of design manipulation. One of: `original`, `alignment`, `layout`, `typography`. |
+| **file_stem**     | Base filename used consistently across all files. Format: `{source}_{source_index}_{alteration}` (e.g., `gdc_042_layout`). |
+| **image_path**    | Relative path to the slide’s PNG image file under `images/`. |
+| **description_path** | Relative path to the JSON description file under `descriptions/`. |
+| **annotation_path**  | Relative path to the ground-truth annotations file under `annotations/`. |
+
+### **Example Entry**
+
+| id   | source | source_index | alteration | file_stem        | image_path                    | description_path                     | annotation_path                     |
+|------|--------|--------------|------------|------------------|-------------------------------|--------------------------------------|-------------------------------------|
+| 118  | gdc    | 042          | layout     | gdc_042_layout   | images/gdc_042_layout.png    | descriptions/gdc_042_layout.json     | annotations/gdc_042_layout.json     |
 
 ---
 
