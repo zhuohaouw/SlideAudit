@@ -4,7 +4,7 @@
 
 This dataset accompanies our UIST 2025 paper:
 
-> **SlideAudit: A Dataset for Evaluating Slide Design Deficiencies**
+> **SlideAudit: A Dataset and Taxonomy for Automated Evaluation of Presentation Slides**
 > *Zhuohao (Jerry) Zhang, Ruiqi Chen, Mingyuan Zhong, Jacob O. Wobbrock*
 > In *Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST ’25)*
 > Busan, Republic of Korea, September 28–October 1, 2025.
@@ -119,7 +119,7 @@ If you use SlideAudit in your work, please cite our paper:
 ```bibtex
 @inproceedings{zhang2025slideaudit,
   author       = {Zhuohao Zhang and others},
-  title        = {SlideAudit: A Dataset for Evaluating Slide Design Deficiencies},
+  title        = {SlideAudit: A Dataset and Taxonomy for Automated Evaluation of Presentation Slides},
   booktitle    = {Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST ’25)},
   year         = {2025},
   doi          = {10.1145/3746059.3747736},
