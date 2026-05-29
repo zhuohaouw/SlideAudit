@@ -128,6 +128,10 @@ If you use SlideAudit in your work, please cite our paper:
 }
 ```
 
+## Acknowledgments
+
+This work was supported by an Apple Scholars in AI/ML Ph.D. fel-lowship and the University of Washington Center for Research andEducation on Accessible Technology and Experiences (CREATE).The contents of this work were developed under a grant from theNational Institute on Disability, Independent Living, and Rehabili-tation Research (NIDILRR grant #90REGE0026-01-00). NIDILRR isa center within the Administration for Community Living (ACL),Department of Health and Human Services (HHS). The contents ofwork do not necessarily represent the policy of NIDILRR, ACL, orHHS, and one should not assume any endorsement by the UnitedStates federal government.
+
 ## TODO
 
 We plan to upload useful scripts to this repository soon, including:
